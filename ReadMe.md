@@ -1,5 +1,6 @@
 
 ## Easy
+* [Sqrt(x)](Sqrt(x)/sqrt(x).py)
 * [Add Binary](AddBinary/add_binary.py)
 * [Plus One](PlusOne/plus_one.py)
 * [Length of Last Word](LengthofLastWord/length_of_last_word.py)
