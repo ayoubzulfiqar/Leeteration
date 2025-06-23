@@ -1,5 +1,6 @@
 
 ## Easy
+* [Binary Tree Paths](BinaryTreePaths/binary_tree_paths.py)
 * [Meeting Rooms](MeetingRooms/meeting_rooms.py)
 * [Strobogrammatic Number](StrobogrammaticNumber/strobogrammatic_number.py)
 * [Shortest Word Distance](ShortestWordDistance/shortest_word_distance.py)
