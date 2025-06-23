@@ -1,5 +1,6 @@
 
 ## Easy
+* [Logger Rate Limiter](LoggerRateLimiter/logger_rate_limiter.py)
 * [Intersection of Two Arrays II](IntersectionofTwoArraysII/intersection_of_two_arrays_ii.py)
 * [Intersection of Two Arrays](IntersectionofTwoArrays/intersection_of_two_arrays.py)
 * [Moving Average from Data Stream](MovingAveragefromDataStream/moving_average_from_data_stream.py)
