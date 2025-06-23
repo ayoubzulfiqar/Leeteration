@@ -1,5 +1,6 @@
 
 ## Easy
+* [Power of Three](PowerofThree/power_of_three.py)
 * [Range Sum Query - Immutable](RangeSumQuery-Immutable/range_sum_query_-_immutable.py)
 * [Flip Game](FlipGame/flip_game.py)
 * [Nim Game](NimGame/nim_game.py)
