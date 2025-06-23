@@ -1,5 +1,6 @@
 
 ## Easy
+* [Print in Order](PrintinOrder/print_in_order.py)
 * [Reported Posts](ReportedPosts/reported_posts.py)
 * [Defanging an IP Address](DefanginganIPAddress/defanging_an_ip_address.py)
 * [Distribute Candies to People](DistributeCandiestoPeople/distribute_candies_to_people.py)
