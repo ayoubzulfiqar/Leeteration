@@ -1,5 +1,6 @@
 
 ## Easy
+* [Max Consecutive Ones](MaxConsecutiveOnes/max_consecutive_ones.py)
 * [License Key Formatting](LicenseKeyFormatting/license_key_formatting.py)
 * [Number Complement](NumberComplement/number_complement.py)
 * [Island Perimeter](IslandPerimeter/island_perimeter.py)
