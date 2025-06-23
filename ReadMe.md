@@ -1,4 +1,6 @@
 
 ## Easy
 
-* [Two Sum](Two Sum/two_sum.py)
+* [PalindromeNumber](PalindromeNumber/palindrome_number.py)
+
+* [TwoSum](TwoSum/two_sum.py)
