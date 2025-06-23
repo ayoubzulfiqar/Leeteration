@@ -1,5 +1,6 @@
 
 ## Easy
+* [License Key Formatting](LicenseKeyFormatting/license_key_formatting.py)
 * [Number Complement](NumberComplement/number_complement.py)
 * [Island Perimeter](IslandPerimeter/island_perimeter.py)
 * [Hamming Distance](HammingDistance/hamming_distance.py)
