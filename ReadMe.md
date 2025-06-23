@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count Complete Tree Nodes](CountCompleteTreeNodes/count_complete_tree_nodes.py)
 * [Contains Duplicate II](ContainsDuplicateII/contains_duplicate_ii.py)
 * [Contains Duplicate](ContainsDuplicate/contains_duplicate.py)
 * [Reverse Linked List](ReverseLinkedList/reverse_linked_list.py)
