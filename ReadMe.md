@@ -1,5 +1,6 @@
 
 ## Easy
+* [Maximum Depth of Binary Tree](MaximumDepthofBinaryTree/maximum_depth_of_binary_tree.py)
 * [Symmetric Tree](SymmetricTree/symmetric_tree.py)
 * [Same Tree](SameTree/same_tree.py)
 * [Binary Tree Inorder Traversal](BinaryTreeInorderTraversal/binary_tree_inorder_traversal.py)
