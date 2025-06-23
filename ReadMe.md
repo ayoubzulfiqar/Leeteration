@@ -1,5 +1,6 @@
 
 ## Easy
+* [Longest Harmonious Subsequence](LongestHarmoniousSubsequence/longest_harmonious_subsequence.py)
 * [N-ary Tree Postorder Traversal](N-aryTreePostorderTraversal/n-ary_tree_postorder_traversal.py)
 * [N-ary Tree Preorder Traversal](N-aryTreePreorderTraversal/n-ary_tree_preorder_traversal.py)
 * [Customer Placing the Largest Number of Orders](CustomerPlacingtheLargestNumberofOrders/customer_placing_the_largest_number_of_orders.py)
