@@ -1,5 +1,6 @@
 
 ## Easy
+* [Range Sum of BST](RangeSumofBST/range_sum_of_bst.py)
 * [Number of Recent Calls](NumberofRecentCalls/number_of_recent_calls.py)
 * [Unique Email Addresses](UniqueEmailAddresses/unique_email_addresses.py)
 * [Long Pressed Name](LongPressedName/long_pressed_name.py)
