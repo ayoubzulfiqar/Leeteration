@@ -1,5 +1,6 @@
 
 ## Easy
+* [Remove Duplicates from Sorted List](RemoveDuplicatesfromSortedList/remove_duplicates_from_sorted_list.py)
 * [Climbing Stairs](ClimbingStairs/climbing_stairs.py)
 * [Sqrt(x)](Sqrt(x)/sqrt(x).py)
 * [Add Binary](AddBinary/add_binary.py)
