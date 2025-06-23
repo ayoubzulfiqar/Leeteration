@@ -1,5 +1,6 @@
 
 ## Easy
+* [Degree of an Array](DegreeofanArray/degree_of_an_array.py)
 * [Count Binary Substrings](CountBinarySubstrings/count_binary_substrings.py)
 * [Binary Number with Alternating Bits](BinaryNumberwithAlternatingBits/binary_number_with_alternating_bits.py)
 * [Baseball Game](BaseballGame/baseball_game.py)
