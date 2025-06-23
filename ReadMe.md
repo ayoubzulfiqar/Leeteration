@@ -1,5 +1,6 @@
 
 ## Easy
+* [Transpose Matrix](TransposeMatrix/transpose_matrix.py)
 * [Lemonade Change](LemonadeChange/lemonade_change.py)
 * [Buddy Strings](BuddyStrings/buddy_strings.py)
 * [Backspace String Compare](BackspaceStringCompare/backspace_string_compare.py)
