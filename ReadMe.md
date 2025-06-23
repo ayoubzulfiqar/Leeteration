@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find Mode in Binary Search Tree](FindModeinBinarySearchTree/find_mode_in_binary_search_tree.py)
 * [Keyboard Row](KeyboardRow/keyboard_row.py)
 * [Next Greater Element I](NextGreaterElementI/next_greater_element_i.py)
 * [Teemo Attacking](TeemoAttacking/teemo_attacking.py)
