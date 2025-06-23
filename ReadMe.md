@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find Anagram Mappings](FindAnagramMappings/find_anagram_mappings.py)
 * [Shortest Completing Word](ShortestCompletingWord/shortest_completing_word.py)
 * [Largest Number At Least Twice of Others](LargestNumberAtLeastTwiceofOthers/largest_number_at_least_twice_of_others.py)
 * [Min Cost Climbing Stairs](MinCostClimbingStairs/min_cost_climbing_stairs.py)
