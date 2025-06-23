@@ -1,5 +1,6 @@
 
 ## Easy
+* [Game Play Analysis I](GamePlayAnalysisI/game_play_analysis_i.py)
 * [Fibonacci Number](FibonacciNumber/fibonacci_number.py)
 * [Perfect Number](PerfectNumber/perfect_number.py)
 * [Relative Ranks](RelativeRanks/relative_ranks.py)
