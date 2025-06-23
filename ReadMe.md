@@ -1,5 +1,6 @@
 
 ## Easy
+* [Move Zeroes](MoveZeroes/move_zeroes.py)
 * [First Bad Version](FirstBadVersion/first_bad_version.py)
 * [Closest Binary Search Tree Value](ClosestBinarySearchTreeValue/closest_binary_search_tree_value.py)
 * [Missing Number](MissingNumber/missing_number.py)
