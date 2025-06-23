@@ -1,5 +1,6 @@
 
 ## Easy
+* [Binary Gap](BinaryGap/binary_gap.py)
 * [Transpose Matrix](TransposeMatrix/transpose_matrix.py)
 * [Lemonade Change](LemonadeChange/lemonade_change.py)
 * [Buddy Strings](BuddyStrings/buddy_strings.py)
