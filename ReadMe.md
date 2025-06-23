@@ -1,5 +1,6 @@
 
 ## Easy
+* [Delete Duplicate Emails](DeleteDuplicateEmails/delete_duplicate_emails.py)
 * [Tenth Line](TenthLine/tenth_line.py)
 * [Valid Phone Numbers](ValidPhoneNumbers/valid_phone_numbers.py)
 * [Number of 1 Bits](Numberof1Bits/number_of_1_bits.py)
