@@ -1,5 +1,6 @@
 
 ## Easy
+* [Number of 1 Bits](Numberof1Bits/number_of_1_bits.py)
 * [Reverse Bits](ReverseBits/reverse_bits.py)
 * [Customers Who Never Order](CustomersWhoNeverOrder/customers_who_never_order.py)
 * [Duplicate Emails](DuplicateEmails/duplicate_emails.py)
