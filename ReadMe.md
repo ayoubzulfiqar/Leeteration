@@ -1,5 +1,6 @@
 
 ## Easy
+* [Long Pressed Name](LongPressedName/long_pressed_name.py)
 * [Sort Array By Parity II](SortArrayByParityII/sort_array_by_parity_ii.py)
 * [Reverse Only Letters](ReverseOnlyLetters/reverse_only_letters.py)
 * [X of a Kind in a Deck of Cards](XofaKindinaDeckofCards/x_of_a_kind_in_a_deck_of_cards.py)
