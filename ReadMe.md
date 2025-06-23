@@ -1,5 +1,6 @@
 
 ## Easy
+* [Arranging Coins](ArrangingCoins/arranging_coins.py)
 * [Number of Segments in a String](NumberofSegmentsinaString/number_of_segments_in_a_string.py)
 * [Valid Word Square](ValidWordSquare/valid_word_square.py)
 * [Add Strings](AddStrings/add_strings.py)
