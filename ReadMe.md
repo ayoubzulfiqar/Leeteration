@@ -1,5 +1,6 @@
 
 ## Easy
+* [Diameter of Binary Tree](DiameterofBinaryTree/diameter_of_binary_tree.py)
 * [Reverse String II](ReverseStringII/reverse_string_ii.py)
 * [Minimum Absolute Difference in BST](MinimumAbsoluteDifferenceinBST/minimum_absolute_difference_in_bst.py)
 * [Longest Uncommon Subsequence I](LongestUncommonSubsequenceI/longest_uncommon_subsequence_i.py)
