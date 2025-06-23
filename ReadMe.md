@@ -1,5 +1,6 @@
 
 ## Easy
+* [Sales Analysis I](SalesAnalysisI/sales_analysis_i.py)
 * [Occurrences After Bigram](OccurrencesAfterBigram/occurrences_after_bigram.py)
 * [Project Employees II](ProjectEmployeesII/project_employees_ii.py)
 * [Project Employees I](ProjectEmployeesI/project_employees_i.py)
