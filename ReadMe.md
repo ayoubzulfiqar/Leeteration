@@ -1,5 +1,6 @@
 
 ## Easy
+* [Not Boring Movies](NotBoringMovies/not_boring_movies.py)
 * [Biggest Single Number](BiggestSingleNumber/biggest_single_number.py)
 * [Merge Two Binary Trees](MergeTwoBinaryTrees/merge_two_binary_trees.py)
 * [Shortest Distance in a Line](ShortestDistanceinaLine/shortest_distance_in_a_line.py)
