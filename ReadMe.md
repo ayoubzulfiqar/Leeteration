@@ -1,5 +1,6 @@
 
 ## Easy
+* [Most Common Word](MostCommonWord/most_common_word.py)
 * [Largest Triangle Area](LargestTriangleArea/largest_triangle_area.py)
 * [Number of Lines To Write String](NumberofLinesToWriteString/number_of_lines_to_write_string.py)
 * [Unique Morse Code Words](UniqueMorseCodeWords/unique_morse_code_words.py)
