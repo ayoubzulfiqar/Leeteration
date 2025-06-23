@@ -1,5 +1,6 @@
 
 ## Easy
+* [Remove Element](RemoveElement/remove_element.py)
 * [Remove Duplicates from Sorted Array](RemoveDuplicatesfromSortedArray/remove_duplicates_from_sorted_array.py)
 * [Merge Two Sorted Lists](MergeTwoSortedLists/merge_two_sorted_lists.py)
 * [Valid Parentheses](ValidParentheses/valid_parentheses.py)
