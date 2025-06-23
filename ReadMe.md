@@ -1,5 +1,6 @@
 
 ## Easy
+* [Longest Uncommon Subsequence I](LongestUncommonSubsequenceI/longest_uncommon_subsequence_i.py)
 * [Detect Capital](DetectCapital/detect_capital.py)
 * [Game Play Analysis II](GamePlayAnalysisII/game_play_analysis_ii.py)
 * [Game Play Analysis I](GamePlayAnalysisI/game_play_analysis_i.py)
