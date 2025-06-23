@@ -1,5 +1,6 @@
 
 ## Easy
+* [Hamming Distance](HammingDistance/hamming_distance.py)
 * [Repeated Substring Pattern](RepeatedSubstringPattern/repeated_substring_pattern.py)
 * [Assign Cookies](AssignCookies/assign_cookies.py)
 * [Find All Numbers Disappeared in an Array](FindAllNumbersDisappearedinanArray/find_all_numbers_disappeared_in_an_array.py)
