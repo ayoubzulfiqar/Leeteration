@@ -1,5 +1,6 @@
 
 ## Easy
+* [Relative Ranks](RelativeRanks/relative_ranks.py)
 * [Base 7](Base7/base_7.py)
 * [Find Mode in Binary Search Tree](FindModeinBinarySearchTree/find_mode_in_binary_search_tree.py)
 * [Keyboard Row](KeyboardRow/keyboard_row.py)
