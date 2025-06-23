@@ -1,5 +1,6 @@
 
 ## Easy
+* [Range Sum Query - Immutable](RangeSumQuery-Immutable/range_sum_query_-_immutable.py)
 * [Flip Game](FlipGame/flip_game.py)
 * [Nim Game](NimGame/nim_game.py)
 * [Word Pattern](WordPattern/word_pattern.py)
