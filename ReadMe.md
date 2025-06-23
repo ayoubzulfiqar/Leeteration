@@ -1,5 +1,6 @@
 
 ## Easy
+* [1-bit and 2-bit Characters](1-bitand2-bitCharacters/1-bit_and_2-bit_characters.py)
 * [To Lower Case](ToLowerCase/to_lower_case.py)
 * [Design HashMap](DesignHashMap/design_hashmap.py)
 * [Design HashSet](DesignHashSet/design_hashset.py)
