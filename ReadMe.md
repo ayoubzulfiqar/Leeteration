@@ -1,5 +1,6 @@
 
 ## Easy
+* [Remove All Adjacent Duplicates In String](RemoveAllAdjacentDuplicatesInString/remove_all_adjacent_duplicates_in_string.py)
 * [Last Stone Weight](LastStoneWeight/last_stone_weight.py)
 * [Valid Boomerang](ValidBoomerang/valid_boomerang.py)
 * [Matrix Cells in Distance Order](MatrixCellsinDistanceOrder/matrix_cells_in_distance_order.py)
