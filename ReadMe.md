@@ -1,5 +1,6 @@
 
 ## Easy
+* [Path Sum](PathSum/path_sum.py)
 * [Minimum Depth of Binary Tree](MinimumDepthofBinaryTree/minimum_depth_of_binary_tree.py)
 * [Balanced Binary Tree](BalancedBinaryTree/balanced_binary_tree.py)
 * [Convert Sorted Array to Binary Search Tree](ConvertSortedArraytoBinarySearchTree/convert_sorted_array_to_binary_search_tree.py)
