@@ -1,5 +1,6 @@
 
 ## Easy
+* [Construct the Rectangle](ConstructtheRectangle/construct_the_rectangle.py)
 * [Max Consecutive Ones](MaxConsecutiveOnes/max_consecutive_ones.py)
 * [License Key Formatting](LicenseKeyFormatting/license_key_formatting.py)
 * [Number Complement](NumberComplement/number_complement.py)
