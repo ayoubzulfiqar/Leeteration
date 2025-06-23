@@ -1,5 +1,6 @@
 
 ## Easy
+* [Valid Word Square](ValidWordSquare/valid_word_square.py)
 * [Add Strings](AddStrings/add_strings.py)
 * [Third Maximum Number](ThirdMaximumNumber/third_maximum_number.py)
 * [Fizz Buzz](FizzBuzz/fizz_buzz.py)
