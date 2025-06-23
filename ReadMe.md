@@ -1,5 +1,6 @@
 
 ## Easy
+* [Student Attendance Record I](StudentAttendanceRecordI/student_attendance_record_i.py)
 * [Diameter of Binary Tree](DiameterofBinaryTree/diameter_of_binary_tree.py)
 * [Reverse String II](ReverseStringII/reverse_string_ii.py)
 * [Minimum Absolute Difference in BST](MinimumAbsoluteDifferenceinBST/minimum_absolute_difference_in_bst.py)
