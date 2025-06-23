@@ -1,5 +1,6 @@
 
 ## Easy
+* [Nim Game](NimGame/nim_game.py)
 * [Word Pattern](WordPattern/word_pattern.py)
 * [Move Zeroes](MoveZeroes/move_zeroes.py)
 * [First Bad Version](FirstBadVersion/first_bad_version.py)
