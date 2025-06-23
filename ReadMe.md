@@ -1,5 +1,6 @@
 
 ## Easy
+* [Two Sum III - Data structure design](TwoSumIII-Datastructuredesign/two_sum_iii_-_data_structure_design.py)
 * [Majority Element](MajorityElement/majority_element.py)
 * [Excel Sheet Column Title](ExcelSheetColumnTitle/excel_sheet_column_title.py)
 * [Missing Ranges](MissingRanges/missing_ranges.py)
