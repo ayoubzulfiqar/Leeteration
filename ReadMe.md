@@ -1,5 +1,6 @@
 
 ## Easy
+* [Search in a Binary Search Tree](SearchinaBinarySearchTree/search_in_a_binary_search_tree.py)
 * [Degree of an Array](DegreeofanArray/degree_of_an_array.py)
 * [Count Binary Substrings](CountBinarySubstrings/count_binary_substrings.py)
 * [Binary Number with Alternating Bits](BinaryNumberwithAlternatingBits/binary_number_with_alternating_bits.py)
