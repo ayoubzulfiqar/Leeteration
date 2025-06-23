@@ -1,5 +1,6 @@
 
 ## Easy
+* [Matrix Cells in Distance Order](MatrixCellsinDistanceOrder/matrix_cells_in_distance_order.py)
 * [Divisor Game](DivisorGame/divisor_game.py)
 * [Sum of Root To Leaf Binary Numbers](SumofRootToLeafBinaryNumbers/sum_of_root_to_leaf_binary_numbers.py)
 * [Remove Outermost Parentheses](RemoveOutermostParentheses/remove_outermost_parentheses.py)
