@@ -1,5 +1,6 @@
 
 ## Easy
+* [Is Subsequence](IsSubsequence/is_subsequence.py)
 * [Find the Difference](FindtheDifference/find_the_difference.py)
 * [First Unique Character in a String](FirstUniqueCharacterinaString/first_unique_character_in_a_string.py)
 * [Ransom Note](RansomNote/ransom_note.py)
