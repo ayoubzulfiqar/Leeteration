@@ -1,5 +1,6 @@
 
 ## Easy
+* [Ugly Number](UglyNumber/ugly_number.py)
 * [Add Digits](AddDigits/add_digits.py)
 * [Binary Tree Paths](BinaryTreePaths/binary_tree_paths.py)
 * [Meeting Rooms](MeetingRooms/meeting_rooms.py)
