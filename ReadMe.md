@@ -1,5 +1,6 @@
 
 ## Easy
+* [Detect Capital](DetectCapital/detect_capital.py)
 * [Game Play Analysis II](GamePlayAnalysisII/game_play_analysis_ii.py)
 * [Game Play Analysis I](GamePlayAnalysisI/game_play_analysis_i.py)
 * [Fibonacci Number](FibonacciNumber/fibonacci_number.py)
