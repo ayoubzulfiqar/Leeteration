@@ -1,5 +1,6 @@
 
 ## Easy
+* [Increasing Order Search Tree](IncreasingOrderSearchTree/increasing_order_search_tree.py)
 * [Monotonic Array](MonotonicArray/monotonic_array.py)
 * [Surface Area of 3D Shapes](SurfaceAreaof3DShapes/surface_area_of_3d_shapes.py)
 * [Fair Candy Swap](FairCandySwap/fair_candy_swap.py)
