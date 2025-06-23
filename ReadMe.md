@@ -1,5 +1,6 @@
 
 ## Easy
+* [Majority Element](MajorityElement/majority_element.py)
 * [Excel Sheet Column Title](ExcelSheetColumnTitle/excel_sheet_column_title.py)
 * [Missing Ranges](MissingRanges/missing_ranges.py)
 * [Intersection of Two Linked Lists](IntersectionofTwoLinkedLists/intersection_of_two_linked_lists.py)
