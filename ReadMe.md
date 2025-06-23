@@ -1,5 +1,6 @@
 
 ## Easy
+* [Greatest Common Divisor of Strings](GreatestCommonDivisorofStrings/greatest_common_divisor_of_strings.py)
 * [Product Sales Analysis II](ProductSalesAnalysisII/product_sales_analysis_ii.py)
 * [Product Sales Analysis I](ProductSalesAnalysisI/product_sales_analysis_i.py)
 * [Index Pairs of a String](IndexPairsofaString/index_pairs_of_a_string.py)
