@@ -1,5 +1,6 @@
 
 ## Easy
+* [Rotate String](RotateString/rotate_string.py)
 * [Minimum Distance Between BST Nodes](MinimumDistanceBetweenBSTNodes/minimum_distance_between_bst_nodes.py)
 * [Jewels and Stones](JewelsandStones/jewels_and_stones.py)
 * [Toeplitz Matrix](ToeplitzMatrix/toeplitz_matrix.py)
