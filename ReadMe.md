@@ -1,5 +1,6 @@
 
 ## Easy
+* [Contains Duplicate](ContainsDuplicate/contains_duplicate.py)
 * [Reverse Linked List](ReverseLinkedList/reverse_linked_list.py)
 * [Isomorphic Strings](IsomorphicStrings/isomorphic_strings.py)
 * [Remove Linked List Elements](RemoveLinkedListElements/remove_linked_list_elements.py)
