@@ -1,5 +1,6 @@
 
 ## Easy
+* [Index Pairs of a String](IndexPairsofaString/index_pairs_of_a_string.py)
 * [Fixed Point](FixedPoint/fixed_point.py)
 * [Confusing Number](ConfusingNumber/confusing_number.py)
 * [Height Checker](HeightChecker/height_checker.py)
