@@ -1,5 +1,6 @@
 
 ## Easy
+* [Valid Perfect Square](ValidPerfectSquare/valid_perfect_square.py)
 * [Logger Rate Limiter](LoggerRateLimiter/logger_rate_limiter.py)
 * [Intersection of Two Arrays II](IntersectionofTwoArraysII/intersection_of_two_arrays_ii.py)
 * [Intersection of Two Arrays](IntersectionofTwoArrays/intersection_of_two_arrays.py)
