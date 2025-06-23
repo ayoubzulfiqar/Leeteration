@@ -1,5 +1,6 @@
 
 ## Easy
+* [Two Sum Less Than K](TwoSumLessThanK/two_sum_less_than_k.py)
 * [High Five](HighFive/high_five.py)
 * [Sum of Digits in the Minimum Number](SumofDigitsintheMinimumNumber/sum_of_digits_in_the_minimum_number.py)
 * [Sales Analysis III](SalesAnalysisIII/sales_analysis_iii.py)
