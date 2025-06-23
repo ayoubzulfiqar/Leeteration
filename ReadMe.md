@@ -1,5 +1,6 @@
 
 ## Easy
+* [Missing Ranges](MissingRanges/missing_ranges.py)
 * [Intersection of Two Linked Lists](IntersectionofTwoLinkedLists/intersection_of_two_linked_lists.py)
 * [Read N Characters Given Read4](ReadNCharactersGivenRead4/read_n_characters_given_read4.py)
 * [Binary Tree Postorder Traversal](BinaryTreePostorderTraversal/binary_tree_postorder_traversal.py)
