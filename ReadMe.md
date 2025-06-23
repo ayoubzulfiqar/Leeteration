@@ -1,5 +1,6 @@
 
 ## Easy
+* [Toeplitz Matrix](ToeplitzMatrix/toeplitz_matrix.py)
 * [Prime Number of Set Bits in Binary Representation](PrimeNumberofSetBitsinBinaryRepresentation/prime_number_of_set_bits_in_binary_representation.py)
 * [Find Anagram Mappings](FindAnagramMappings/find_anagram_mappings.py)
 * [Shortest Completing Word](ShortestCompletingWord/shortest_completing_word.py)
