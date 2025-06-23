@@ -1,5 +1,6 @@
 
 ## Easy
+* [Smallest Range I](SmallestRangeI/smallest_range_i.py)
 * [Sort Array By Parity](SortArrayByParity/sort_array_by_parity.py)
 * [Increasing Order Search Tree](IncreasingOrderSearchTree/increasing_order_search_tree.py)
 * [Monotonic Array](MonotonicArray/monotonic_array.py)
