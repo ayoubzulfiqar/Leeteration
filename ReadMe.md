@@ -1,5 +1,6 @@
 
 ## Easy
+* [Swap Salary](SwapSalary/swap_salary.py)
 * [Not Boring Movies](NotBoringMovies/not_boring_movies.py)
 * [Biggest Single Number](BiggestSingleNumber/biggest_single_number.py)
 * [Merge Two Binary Trees](MergeTwoBinaryTrees/merge_two_binary_trees.py)
