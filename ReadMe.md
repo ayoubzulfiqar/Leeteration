@@ -1,5 +1,6 @@
 
 ## Easy
+* [Fair Candy Swap](FairCandySwap/fair_candy_swap.py)
 * [Uncommon Words from Two Sentences](UncommonWordsfromTwoSentences/uncommon_words_from_two_sentences.py)
 * [Projection Area of 3D Shapes](ProjectionAreaof3DShapes/projection_area_of_3d_shapes.py)
 * [Middle of the Linked List](MiddleoftheLinkedList/middle_of_the_linked_list.py)
