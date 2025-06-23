@@ -1,5 +1,6 @@
 
 ## Easy
+* [Unique Email Addresses](UniqueEmailAddresses/unique_email_addresses.py)
 * [Long Pressed Name](LongPressedName/long_pressed_name.py)
 * [Sort Array By Parity II](SortArrayByParityII/sort_array_by_parity_ii.py)
 * [Reverse Only Letters](ReverseOnlyLetters/reverse_only_letters.py)
