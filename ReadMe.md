@@ -1,5 +1,6 @@
 
 ## Easy
+* [Best Time to Buy and Sell Stock](BestTimetoBuyandSellStock/best_time_to_buy_and_sell_stock.py)
 * [Pascal's Triangle II](Pascal'sTriangleII/pascal's_triangle_ii.py)
 * [Pascal's Triangle](Pascal'sTriangle/pascal's_triangle.py)
 * [Path Sum](PathSum/path_sum.py)
