@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count Binary Substrings](CountBinarySubstrings/count_binary_substrings.py)
 * [Binary Number with Alternating Bits](BinaryNumberwithAlternatingBits/binary_number_with_alternating_bits.py)
 * [Baseball Game](BaseballGame/baseball_game.py)
 * [Valid Palindrome II](ValidPalindromeII/valid_palindrome_ii.py)
