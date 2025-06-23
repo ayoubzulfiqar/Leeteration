@@ -1,5 +1,6 @@
 
 ## Easy
+* [Reverse Vowels of a String](ReverseVowelsofaString/reverse_vowels_of_a_string.py)
 * [Reverse String](ReverseString/reverse_string.py)
 * [Power of Four](PowerofFour/power_of_four.py)
 * [Counting Bits](CountingBits/counting_bits.py)
