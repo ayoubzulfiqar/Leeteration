@@ -1,5 +1,6 @@
 
 ## Easy
+* [Complement of Base 10 Integer](ComplementofBase10Integer/complement_of_base_10_integer.py)
 * [Maximize Sum Of Array After K Negations](MaximizeSumOfArrayAfterKNegations/maximize_sum_of_array_after_k_negations.py)
 * [Find Common Characters](FindCommonCharacters/find_common_characters.py)
 * [Available Captures for Rook](AvailableCapturesforRook/available_captures_for_rook.py)
