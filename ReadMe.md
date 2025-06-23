@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find Smallest Letter Greater Than Target](FindSmallestLetterGreaterThanTarget/find_smallest_letter_greater_than_target.py)
 * [Sentence Similarity](SentenceSimilarity/sentence_similarity.py)
 * [Flood Fill](FloodFill/flood_fill.py)
 * [Self Dividing Numbers](SelfDividingNumbers/self_dividing_numbers.py)
