@@ -1,5 +1,6 @@
 
 ## Easy
+* [Power of Two](PowerofTwo/power_of_two.py)
 * [Summary Ranges](SummaryRanges/summary_ranges.py)
 * [Invert Binary Tree](InvertBinaryTree/invert_binary_tree.py)
 * [Implement Stack using Queues](ImplementStackusingQueues/implement_stack_using_queues.py)
