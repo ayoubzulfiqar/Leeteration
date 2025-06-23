@@ -1,5 +1,6 @@
 
 ## Easy
+* [Merge Two Binary Trees](MergeTwoBinaryTrees/merge_two_binary_trees.py)
 * [Shortest Distance in a Line](ShortestDistanceinaLine/shortest_distance_in_a_line.py)
 * [Triangle Judgement](TriangleJudgement/triangle_judgement.py)
 * [Sales Person](SalesPerson/sales_person.py)
