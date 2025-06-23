@@ -1,5 +1,6 @@
 
 ## Easy
+* [Missing Number](MissingNumber/missing_number.py)
 * [Palindrome Permutation](PalindromePermutation/palindrome_permutation.py)
 * [Ugly Number](UglyNumber/ugly_number.py)
 * [Add Digits](AddDigits/add_digits.py)
