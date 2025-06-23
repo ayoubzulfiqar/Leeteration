@@ -1,5 +1,6 @@
 
 ## Easy
+* [Valid Palindrome](ValidPalindrome/valid_palindrome.py)
 * [Count Complete Tree Nodes](CountCompleteTreeNodes/count_complete_tree_nodes.py)
 * [Contains Duplicate II](ContainsDuplicateII/contains_duplicate_ii.py)
 * [Contains Duplicate](ContainsDuplicate/contains_duplicate.py)
