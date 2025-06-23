@@ -1,5 +1,6 @@
 
 ## Easy
+* [Goat Latin](GoatLatin/goat_latin.py)
 * [Shortest Distance to a Character](ShortestDistancetoaCharacter/shortest_distance_to_a_character.py)
 * [Most Common Word](MostCommonWord/most_common_word.py)
 * [Largest Triangle Area](LargestTriangleArea/largest_triangle_area.py)
