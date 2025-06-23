@@ -1,5 +1,6 @@
 
 ## Easy
+* [Base 7](Base7/base_7.py)
 * [Find Mode in Binary Search Tree](FindModeinBinarySearchTree/find_mode_in_binary_search_tree.py)
 * [Keyboard Row](KeyboardRow/keyboard_row.py)
 * [Next Greater Element I](NextGreaterElementI/next_greater_element_i.py)
