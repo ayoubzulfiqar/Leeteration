@@ -1,5 +1,6 @@
 
 ## Easy
+* [Verifying an Alien Dictionary](VerifyinganAlienDictionary/verifying_an_alien_dictionary.py)
 * [Delete Columns to Make Sorted](DeleteColumnstoMakeSorted/delete_columns_to_make_sorted.py)
 * [DI String Match](DIStringMatch/di_string_match.py)
 * [Valid Mountain Array](ValidMountainArray/valid_mountain_array.py)
