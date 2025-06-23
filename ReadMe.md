@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find Common Characters](FindCommonCharacters/find_common_characters.py)
 * [Available Captures for Rook](AvailableCapturesforRook/available_captures_for_rook.py)
 * [Find the Town Judge](FindtheTownJudge/find_the_town_judge.py)
 * [Cousins in Binary Tree](CousinsinBinaryTree/cousins_in_binary_tree.py)
