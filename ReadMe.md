@@ -1,5 +1,6 @@
 
 ## Easy
+* [Pascal's Triangle](Pascal'sTriangle/pascal's_triangle.py)
 * [Path Sum](PathSum/path_sum.py)
 * [Minimum Depth of Binary Tree](MinimumDepthofBinaryTree/minimum_depth_of_binary_tree.py)
 * [Balanced Binary Tree](BalancedBinaryTree/balanced_binary_tree.py)
