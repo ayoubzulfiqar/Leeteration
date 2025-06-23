@@ -1,5 +1,6 @@
 
 ## Easy
+* [Duplicate Emails](DuplicateEmails/duplicate_emails.py)
 * [Employees Earning More Than Their Managers](EmployeesEarningMoreThanTheirManagers/employees_earning_more_than_their_managers.py)
 * [Combine Two Tables](CombineTwoTables/combine_two_tables.py)
 * [Excel Sheet Column Number](ExcelSheetColumnNumber/excel_sheet_column_number.py)
