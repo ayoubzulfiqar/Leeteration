@@ -1,5 +1,6 @@
 
 ## Easy
+* [Average of Levels in Binary Tree](AverageofLevelsinBinaryTree/average_of_levels_in_binary_tree.py)
 * [Maximum Product of Three Numbers](MaximumProductofThreeNumbers/maximum_product_of_three_numbers.py)
 * [Swap Salary](SwapSalary/swap_salary.py)
 * [Not Boring Movies](NotBoringMovies/not_boring_movies.py)
