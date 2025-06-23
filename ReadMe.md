@@ -1,5 +1,6 @@
 
 ## Easy
+* [Keyboard Row](KeyboardRow/keyboard_row.py)
 * [Next Greater Element I](NextGreaterElementI/next_greater_element_i.py)
 * [Teemo Attacking](TeemoAttacking/teemo_attacking.py)
 * [Construct the Rectangle](ConstructtheRectangle/construct_the_rectangle.py)
