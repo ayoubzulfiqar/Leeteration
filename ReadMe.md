@@ -1,5 +1,6 @@
 
 ## Easy
+* [Binary Number with Alternating Bits](BinaryNumberwithAlternatingBits/binary_number_with_alternating_bits.py)
 * [Baseball Game](BaseballGame/baseball_game.py)
 * [Valid Palindrome II](ValidPalindromeII/valid_palindrome_ii.py)
 * [Longest Continuous Increasing Subsequence](LongestContinuousIncreasingSubsequence/longest_continuous_increasing_subsequence.py)
