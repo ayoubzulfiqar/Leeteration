@@ -1,5 +1,6 @@
 
 ## Easy
+* [Number of Lines To Write String](NumberofLinesToWriteString/number_of_lines_to_write_string.py)
 * [Unique Morse Code Words](UniqueMorseCodeWords/unique_morse_code_words.py)
 * [Similar RGB Color](SimilarRGBColor/similar_rgb_color.py)
 * [Rotate String](RotateString/rotate_string.py)
