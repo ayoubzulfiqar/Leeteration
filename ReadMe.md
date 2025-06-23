@@ -1,5 +1,6 @@
 
 ## Easy
+* [Middle of the Linked List](MiddleoftheLinkedList/middle_of_the_linked_list.py)
 * [Leaf-Similar Trees](Leaf-SimilarTrees/leaf-similar_trees.py)
 * [Binary Gap](BinaryGap/binary_gap.py)
 * [Transpose Matrix](TransposeMatrix/transpose_matrix.py)
