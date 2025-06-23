@@ -1,5 +1,6 @@
 
 ## Easy
+* [Minimum Distance Between BST Nodes](MinimumDistanceBetweenBSTNodes/minimum_distance_between_bst_nodes.py)
 * [Jewels and Stones](JewelsandStones/jewels_and_stones.py)
 * [Toeplitz Matrix](ToeplitzMatrix/toeplitz_matrix.py)
 * [Prime Number of Set Bits in Binary Representation](PrimeNumberofSetBitsinBinaryRepresentation/prime_number_of_set_bits_in_binary_representation.py)
