@@ -1,5 +1,6 @@
 
 ## Easy
+* [Add Binary](AddBinary/add_binary.py)
 * [Plus One](PlusOne/plus_one.py)
 * [Length of Last Word](LengthofLastWord/length_of_last_word.py)
 * [Search Insert Position](SearchInsertPosition/search_insert_position.py)
