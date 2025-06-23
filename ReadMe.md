@@ -1,5 +1,6 @@
 
 ## Easy
+* [Isomorphic Strings](IsomorphicStrings/isomorphic_strings.py)
 * [Remove Linked List Elements](RemoveLinkedListElements/remove_linked_list_elements.py)
 * [Happy Number](HappyNumber/happy_number.py)
 * [Rising Temperature](RisingTemperature/rising_temperature.py)
