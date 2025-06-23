@@ -1,5 +1,6 @@
 
 ## Easy
+* [Next Greater Element I](NextGreaterElementI/next_greater_element_i.py)
 * [Teemo Attacking](TeemoAttacking/teemo_attacking.py)
 * [Construct the Rectangle](ConstructtheRectangle/construct_the_rectangle.py)
 * [Max Consecutive Ones](MaxConsecutiveOnes/max_consecutive_ones.py)
