@@ -1,5 +1,6 @@
 
 ## Easy
+* [Occurrences After Bigram](OccurrencesAfterBigram/occurrences_after_bigram.py)
 * [Project Employees II](ProjectEmployeesII/project_employees_ii.py)
 * [Project Employees I](ProjectEmployeesI/project_employees_i.py)
 * [Greatest Common Divisor of Strings](GreatestCommonDivisorofStrings/greatest_common_divisor_of_strings.py)
