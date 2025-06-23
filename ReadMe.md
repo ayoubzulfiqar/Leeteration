@@ -1,5 +1,6 @@
 
 ## Easy
+* [Leaf-Similar Trees](Leaf-SimilarTrees/leaf-similar_trees.py)
 * [Binary Gap](BinaryGap/binary_gap.py)
 * [Transpose Matrix](TransposeMatrix/transpose_matrix.py)
 * [Lemonade Change](LemonadeChange/lemonade_change.py)
