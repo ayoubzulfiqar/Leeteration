@@ -1,5 +1,6 @@
 
 ## Easy
+* [Shortest Distance in a Line](ShortestDistanceinaLine/shortest_distance_in_a_line.py)
 * [Triangle Judgement](TriangleJudgement/triangle_judgement.py)
 * [Sales Person](SalesPerson/sales_person.py)
 * [Can Place Flowers](CanPlaceFlowers/can_place_flowers.py)
