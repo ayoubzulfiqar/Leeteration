@@ -1,5 +1,6 @@
 
 ## Easy
+* [Third Maximum Number](ThirdMaximumNumber/third_maximum_number.py)
 * [Fizz Buzz](FizzBuzz/fizz_buzz.py)
 * [Longest Palindrome](LongestPalindrome/longest_palindrome.py)
 * [Valid Word Abbreviation](ValidWordAbbreviation/valid_word_abbreviation.py)
