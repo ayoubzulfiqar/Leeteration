@@ -1,5 +1,6 @@
 
 ## Easy
+* [Sum of Left Leaves](SumofLeftLeaves/sum_of_left_leaves.py)
 * [Binary Watch](BinaryWatch/binary_watch.py)
 * [Is Subsequence](IsSubsequence/is_subsequence.py)
 * [Find the Difference](FindtheDifference/find_the_difference.py)
