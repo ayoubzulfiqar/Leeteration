@@ -1,5 +1,6 @@
 
 ## Easy
+* [Sentence Similarity](SentenceSimilarity/sentence_similarity.py)
 * [Flood Fill](FloodFill/flood_fill.py)
 * [Self Dividing Numbers](SelfDividingNumbers/self_dividing_numbers.py)
 * [Find Pivot Index](FindPivotIndex/find_pivot_index.py)
