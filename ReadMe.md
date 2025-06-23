@@ -1,5 +1,6 @@
 
 ## Easy
+* [Counting Bits](CountingBits/counting_bits.py)
 * [Power of Three](PowerofThree/power_of_three.py)
 * [Range Sum Query - Immutable](RangeSumQuery-Immutable/range_sum_query_-_immutable.py)
 * [Flip Game](FlipGame/flip_game.py)
