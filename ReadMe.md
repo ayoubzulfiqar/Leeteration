@@ -1,5 +1,6 @@
 
 ## Easy
+* [Consecutive Available Seats](ConsecutiveAvailableSeats/consecutive_available_seats.py)
 * [Minimum Index Sum of Two Lists](MinimumIndexSumofTwoLists/minimum_index_sum_of_two_lists.py)
 * [Range Addition II](RangeAdditionII/range_addition_ii.py)
 * [Friend Requests I Overall Acceptance Rate](FriendRequestsIOverallAcceptanceRate/friend_requests_i_overall_acceptance_rate.py)
