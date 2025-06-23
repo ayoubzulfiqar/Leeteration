@@ -1,5 +1,6 @@
 
 ## Easy
+* [Kth Largest Element in a Stream](KthLargestElementinaStream/kth_largest_element_in_a_stream.py)
 * [Search in a Binary Search Tree](SearchinaBinarySearchTree/search_in_a_binary_search_tree.py)
 * [Degree of an Array](DegreeofanArray/degree_of_an_array.py)
 * [Count Binary Substrings](CountBinarySubstrings/count_binary_substrings.py)
