@@ -1,5 +1,6 @@
 
 ## Easy
+* [Cousins in Binary Tree](CousinsinBinaryTree/cousins_in_binary_tree.py)
 * [Add to Array-Form of Integer](AddtoArray-FormofInteger/add_to_array-form_of_integer.py)
 * [Squares of a Sorted Array](SquaresofaSortedArray/squares_of_a_sorted_array.py)
 * [Largest Perimeter Triangle](LargestPerimeterTriangle/largest_perimeter_triangle.py)
