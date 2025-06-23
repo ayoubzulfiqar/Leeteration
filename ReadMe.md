@@ -1,5 +1,6 @@
 
 ## Easy
+* [Binary Prefix Divisible By 5](BinaryPrefixDivisibleBy5/binary_prefix_divisible_by_5.py)
 * [Partition Array Into Three Parts With Equal Sum](PartitionArrayIntoThreePartsWithEqualSum/partition_array_into_three_parts_with_equal_sum.py)
 * [Complement of Base 10 Integer](ComplementofBase10Integer/complement_of_base_10_integer.py)
 * [Maximize Sum Of Array After K Negations](MaximizeSumOfArrayAfterKNegations/maximize_sum_of_array_after_k_negations.py)
