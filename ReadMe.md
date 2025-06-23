@@ -1,5 +1,6 @@
 
 ## Easy
+* [Fixed Point](FixedPoint/fixed_point.py)
 * [Confusing Number](ConfusingNumber/confusing_number.py)
 * [Height Checker](HeightChecker/height_checker.py)
 * [Actors and Directors Who Cooperated At Least Three Times](ActorsandDirectorsWhoCooperatedAtLeastThreeTimes/actors_and_directors_who_cooperated_at_least_three_times.py)
