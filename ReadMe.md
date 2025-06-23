@@ -1,5 +1,6 @@
 
 ## Easy
+* [Last Stone Weight](LastStoneWeight/last_stone_weight.py)
 * [Valid Boomerang](ValidBoomerang/valid_boomerang.py)
 * [Matrix Cells in Distance Order](MatrixCellsinDistanceOrder/matrix_cells_in_distance_order.py)
 * [Divisor Game](DivisorGame/divisor_game.py)
