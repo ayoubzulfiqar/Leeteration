@@ -1,5 +1,6 @@
 
 ## Easy
+* [Can Place Flowers](CanPlaceFlowers/can_place_flowers.py)
 * [Design Compressed String Iterator](DesignCompressedStringIterator/design_compressed_string_iterator.py)
 * [Consecutive Available Seats](ConsecutiveAvailableSeats/consecutive_available_seats.py)
 * [Minimum Index Sum of Two Lists](MinimumIndexSumofTwoLists/minimum_index_sum_of_two_lists.py)
