@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find All Numbers Disappeared in an Array](FindAllNumbersDisappearedinanArray/find_all_numbers_disappeared_in_an_array.py)
 * [Arranging Coins](ArrangingCoins/arranging_coins.py)
 * [Number of Segments in a String](NumberofSegmentsinaString/number_of_segments_in_a_string.py)
 * [Valid Word Square](ValidWordSquare/valid_word_square.py)
