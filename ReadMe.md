@@ -1,5 +1,6 @@
 
 ## Easy
+* [Flip Game](FlipGame/flip_game.py)
 * [Nim Game](NimGame/nim_game.py)
 * [Word Pattern](WordPattern/word_pattern.py)
 * [Move Zeroes](MoveZeroes/move_zeroes.py)
