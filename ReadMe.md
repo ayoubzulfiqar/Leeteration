@@ -1,5 +1,6 @@
 
 ## Easy
+* [Moving Average from Data Stream](MovingAveragefromDataStream/moving_average_from_data_stream.py)
 * [Reverse Vowels of a String](ReverseVowelsofaString/reverse_vowels_of_a_string.py)
 * [Reverse String](ReverseString/reverse_string.py)
 * [Power of Four](PowerofFour/power_of_four.py)
