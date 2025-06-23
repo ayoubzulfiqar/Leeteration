@@ -1,5 +1,6 @@
 
 ## Easy
+* [Implement Stack using Queues](ImplementStackusingQueues/implement_stack_using_queues.py)
 * [Valid Palindrome](ValidPalindrome/valid_palindrome.py)
 * [Count Complete Tree Nodes](CountCompleteTreeNodes/count_complete_tree_nodes.py)
 * [Contains Duplicate II](ContainsDuplicateII/contains_duplicate_ii.py)
