@@ -1,5 +1,6 @@
 
 ## Easy
+* [Longest Palindrome](LongestPalindrome/longest_palindrome.py)
 * [Valid Word Abbreviation](ValidWordAbbreviation/valid_word_abbreviation.py)
 * [Convert a Number to Hexadecimal](ConvertaNumbertoHexadecimal/convert_a_number_to_hexadecimal.py)
 * [Sum of Left Leaves](SumofLeftLeaves/sum_of_left_leaves.py)
