@@ -1,5 +1,6 @@
 
 ## Easy
+* [Triangle Judgement](TriangleJudgement/triangle_judgement.py)
 * [Sales Person](SalesPerson/sales_person.py)
 * [Can Place Flowers](CanPlaceFlowers/can_place_flowers.py)
 * [Design Compressed String Iterator](DesignCompressedStringIterator/design_compressed_string_iterator.py)
