@@ -1,5 +1,6 @@
 
 ## Easy
+* [Similar RGB Color](SimilarRGBColor/similar_rgb_color.py)
 * [Rotate String](RotateString/rotate_string.py)
 * [Minimum Distance Between BST Nodes](MinimumDistanceBetweenBSTNodes/minimum_distance_between_bst_nodes.py)
 * [Jewels and Stones](JewelsandStones/jewels_and_stones.py)
