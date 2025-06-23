@@ -1,5 +1,6 @@
 
 ## Easy
+* [X of a Kind in a Deck of Cards](XofaKindinaDeckofCards/x_of_a_kind_in_a_deck_of_cards.py)
 * [Smallest Range I](SmallestRangeI/smallest_range_i.py)
 * [Sort Array By Parity](SortArrayByParity/sort_array_by_parity.py)
 * [Increasing Order Search Tree](IncreasingOrderSearchTree/increasing_order_search_tree.py)
