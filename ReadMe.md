@@ -1,5 +1,6 @@
 
 ## Easy
+* [Minimum Absolute Difference in BST](MinimumAbsoluteDifferenceinBST/minimum_absolute_difference_in_bst.py)
 * [Longest Uncommon Subsequence I](LongestUncommonSubsequenceI/longest_uncommon_subsequence_i.py)
 * [Detect Capital](DetectCapital/detect_capital.py)
 * [Game Play Analysis II](GamePlayAnalysisII/game_play_analysis_ii.py)
