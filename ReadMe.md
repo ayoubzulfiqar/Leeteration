@@ -1,5 +1,6 @@
 
 ## Easy
+* [Design HashMap](DesignHashMap/design_hashmap.py)
 * [Design HashSet](DesignHashSet/design_hashset.py)
 * [Binary Search](BinarySearch/binary_search.py)
 * [Kth Largest Element in a Stream](KthLargestElementinaStream/kth_largest_element_in_a_stream.py)
