@@ -1,5 +1,6 @@
 
 ## Easy
+* [High Five](HighFive/high_five.py)
 * [Sum of Digits in the Minimum Number](SumofDigitsintheMinimumNumber/sum_of_digits_in_the_minimum_number.py)
 * [Sales Analysis III](SalesAnalysisIII/sales_analysis_iii.py)
 * [Sales Analysis II](SalesAnalysisII/sales_analysis_ii.py)
