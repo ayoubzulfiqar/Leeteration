@@ -1,5 +1,6 @@
 
 ## Easy
+* [Maximum Depth of N-ary Tree](MaximumDepthofN-aryTree/maximum_depth_of_n-ary_tree.py)
 * [Reverse Words in a String III](ReverseWordsinaStringIII/reverse_words_in_a_string_iii.py)
 * [Student Attendance Record I](StudentAttendanceRecordI/student_attendance_record_i.py)
 * [Diameter of Binary Tree](DiameterofBinaryTree/diameter_of_binary_tree.py)
