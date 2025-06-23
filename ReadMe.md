@@ -1,5 +1,6 @@
 
 ## Easy
+* [Length of Last Word](LengthofLastWord/length_of_last_word.py)
 * [Search Insert Position](SearchInsertPosition/search_insert_position.py)
 * [Find the Index of the First Occurrence in a String](FindtheIndexoftheFirstOccurrenceinaString/find_the_index_of_the_first_occurrence_in_a_string.py)
 * [Remove Element](RemoveElement/remove_element.py)
