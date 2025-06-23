@@ -1,5 +1,6 @@
 
 ## Easy
+* [Island Perimeter](IslandPerimeter/island_perimeter.py)
 * [Hamming Distance](HammingDistance/hamming_distance.py)
 * [Repeated Substring Pattern](RepeatedSubstringPattern/repeated_substring_pattern.py)
 * [Assign Cookies](AssignCookies/assign_cookies.py)
