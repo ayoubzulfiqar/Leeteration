@@ -1,5 +1,6 @@
 
 ## Easy
+* [Employee Bonus](EmployeeBonus/employee_bonus.py)
 * [Distribute Candies](DistributeCandies/distribute_candies.py)
 * [Subtree of Another Tree](SubtreeofAnotherTree/subtree_of_another_tree.py)
 * [Reshape the Matrix](ReshapetheMatrix/reshape_the_matrix.py)
