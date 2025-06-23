@@ -1,5 +1,6 @@
 
 ## Easy
+* [Ransom Note](RansomNote/ransom_note.py)
 * [Guess Number Higher or Lower](GuessNumberHigherorLower/guess_number_higher_or_lower.py)
 * [Valid Perfect Square](ValidPerfectSquare/valid_perfect_square.py)
 * [Logger Rate Limiter](LoggerRateLimiter/logger_rate_limiter.py)
