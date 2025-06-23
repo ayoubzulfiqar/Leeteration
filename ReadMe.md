@@ -1,5 +1,6 @@
 
 ## Easy
+* [To Lower Case](ToLowerCase/to_lower_case.py)
 * [Design HashMap](DesignHashMap/design_hashmap.py)
 * [Design HashSet](DesignHashSet/design_hashset.py)
 * [Binary Search](BinarySearch/binary_search.py)
