@@ -1,5 +1,6 @@
 
 ## Easy
+* [Combine Two Tables](CombineTwoTables/combine_two_tables.py)
 * [Excel Sheet Column Number](ExcelSheetColumnNumber/excel_sheet_column_number.py)
 * [Two Sum III - Data structure design](TwoSumIII-Datastructuredesign/two_sum_iii_-_data_structure_design.py)
 * [Majority Element](MajorityElement/majority_element.py)
