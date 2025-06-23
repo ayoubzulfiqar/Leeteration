@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find the Difference](FindtheDifference/find_the_difference.py)
 * [First Unique Character in a String](FirstUniqueCharacterinaString/first_unique_character_in_a_string.py)
 * [Ransom Note](RansomNote/ransom_note.py)
 * [Guess Number Higher or Lower](GuessNumberHigherorLower/guess_number_higher_or_lower.py)
