@@ -1,5 +1,6 @@
 
 ## Easy
+* [Rising Temperature](RisingTemperature/rising_temperature.py)
 * [Delete Duplicate Emails](DeleteDuplicateEmails/delete_duplicate_emails.py)
 * [Tenth Line](TenthLine/tenth_line.py)
 * [Valid Phone Numbers](ValidPhoneNumbers/valid_phone_numbers.py)
