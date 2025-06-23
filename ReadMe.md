@@ -1,5 +1,6 @@
 
 ## Easy
+* [Number of Recent Calls](NumberofRecentCalls/number_of_recent_calls.py)
 * [Unique Email Addresses](UniqueEmailAddresses/unique_email_addresses.py)
 * [Long Pressed Name](LongPressedName/long_pressed_name.py)
 * [Sort Array By Parity II](SortArrayByParityII/sort_array_by_parity_ii.py)
