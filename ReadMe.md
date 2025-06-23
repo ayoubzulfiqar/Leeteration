@@ -1,5 +1,6 @@
 
 ## Easy
+* [Reshape the Matrix](ReshapetheMatrix/reshape_the_matrix.py)
 * [Binary Tree Tilt](BinaryTreeTilt/binary_tree_tilt.py)
 * [Array Partition](ArrayPartition/array_partition.py)
 * [Maximum Depth of N-ary Tree](MaximumDepthofN-aryTree/maximum_depth_of_n-ary_tree.py)
