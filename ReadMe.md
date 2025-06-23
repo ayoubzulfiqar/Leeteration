@@ -1,5 +1,6 @@
 
 ## Easy
+* [Second Minimum Node In a Binary Tree](SecondMinimumNodeInaBinaryTree/second_minimum_node_in_a_binary_tree.py)
 * [Image Smoother](ImageSmoother/image_smoother.py)
 * [Robot Return to Origin](RobotReturntoOrigin/robot_return_to_origin.py)
 * [Two Sum IV - Input is a BST](TwoSumIV-InputisaBST/two_sum_iv_-_input_is_a_bst.py)
