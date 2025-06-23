@@ -1,5 +1,6 @@
 
 ## Easy
+* [Binary Tree Preorder Traversal](BinaryTreePreorderTraversal/binary_tree_preorder_traversal.py)
 * [Linked List Cycle](LinkedListCycle/linked_list_cycle.py)
 * [Single Number](SingleNumber/single_number.py)
 * [Best Time to Buy and Sell Stock](BestTimetoBuyandSellStock/best_time_to_buy_and_sell_stock.py)
