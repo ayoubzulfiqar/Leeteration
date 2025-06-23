@@ -1,5 +1,6 @@
 
 ## Easy
+* [Maximum Product of Three Numbers](MaximumProductofThreeNumbers/maximum_product_of_three_numbers.py)
 * [Swap Salary](SwapSalary/swap_salary.py)
 * [Not Boring Movies](NotBoringMovies/not_boring_movies.py)
 * [Biggest Single Number](BiggestSingleNumber/biggest_single_number.py)
