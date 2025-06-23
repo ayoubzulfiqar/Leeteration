@@ -1,5 +1,6 @@
 
 ## Easy
+* [Buddy Strings](BuddyStrings/buddy_strings.py)
 * [Backspace String Compare](BackspaceStringCompare/backspace_string_compare.py)
 * [Rectangle Overlap](RectangleOverlap/rectangle_overlap.py)
 * [Flipping an Image](FlippinganImage/flipping_an_image.py)
