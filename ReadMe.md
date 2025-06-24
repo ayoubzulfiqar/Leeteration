@@ -1,5 +1,6 @@
 
 ## Easy
+* [Defuse the Bomb](DefusetheBomb/defuse_the_bomb.py)
 * [Get Maximum in Generated Array](GetMaximuminGeneratedArray/get_maximum_in_generated_array.py)
 * [Check Array Formation Through Concatenation](CheckArrayFormationThroughConcatenation/check_array_formation_through_concatenation.py)
 * [Widest Vertical Area Between Two Points Containing No Points](WidestVerticalAreaBetweenTwoPointsContainingNoPoints/widest_vertical_area_between_two_points_containing_no_points.py)
