@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count Substrings with Only One Distinct Letter](CountSubstringswithOnlyOneDistinctLetter/count_substrings_with_only_one_distinct_letter.py)
 * [Reformat Department Table](ReformatDepartmentTable/reformat_department_table.py)
 * [Diet Plan Performance](DietPlanPerformance/diet_plan_performance.py)
 * [Prime Arrangements](PrimeArrangements/prime_arrangements.py)
