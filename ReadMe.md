@@ -1,5 +1,6 @@
 
 ## Easy
+* [NPV Queries](NPVQueries/npv_queries.py)
 * [Reformat The String](ReformatTheString/reformat_the_string.py)
 * [Minimum Value to Get Positive Step by Step Sum](MinimumValuetoGetPositiveStepbyStepSum/minimum_value_to_get_positive_step_by_step_sum.py)
 * [String Matching in an Array](StringMatchinginanArray/string_matching_in_an_array.py)
