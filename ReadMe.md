@@ -1,5 +1,6 @@
 
 ## Easy
+* [Rearrange Spaces Between Words](RearrangeSpacesBetweenWords/rearrange_spaces_between_words.py)
 * [Sum of All Odd Length Subarrays](SumofAllOddLengthSubarrays/sum_of_all_odd_length_subarrays.py)
 * [Bank Account Summary II](BankAccountSummaryII/bank_account_summary_ii.py)
 * [Special Positions in a Binary Matrix](SpecialPositionsinaBinaryMatrix/special_positions_in_a_binary_matrix.py)
