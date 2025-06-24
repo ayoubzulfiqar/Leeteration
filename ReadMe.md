@@ -1,5 +1,6 @@
 
 ## Easy
+* [Water Bottles](WaterBottles/water_bottles.py)
 * [Find Users With Valid E-Mails](FindUsersWithValidE-Mails/find_users_with_valid_e-mails.py)
 * [Number of Good Pairs](NumberofGoodPairs/number_of_good_pairs.py)
 * [Customer Order Frequency](CustomerOrderFrequency/customer_order_frequency.py)
