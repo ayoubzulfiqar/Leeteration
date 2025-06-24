@@ -1,5 +1,6 @@
 
 ## Easy
+* [Maximum 69 Number](Maximum69Number/maximum_69_number.py)
 * [Ads Performance](AdsPerformance/ads_performance.py)
 * [Convert Integer to the Sum of Two No-Zero Integers](ConvertIntegertotheSumofTwoNo-ZeroIntegers/convert_integer_to_the_sum_of_two_no-zero_integers.py)
 * [Decompress Run-Length Encoded List](DecompressRun-LengthEncodedList/decompress_run-length_encoded_list.py)
