@@ -1,5 +1,6 @@
 
 ## Easy
+* [User Activity for the Past 30 Days II](UserActivityforthePast30DaysII/user_activity_for_the_past_30_days_ii.py)
 * [User Activity for the Past 30 Days I](UserActivityforthePast30DaysI/user_activity_for_the_past_30_days_i.py)
 * [N-th Tribonacci Number](N-thTribonacciNumber/n-th_tribonacci_number.py)
 * [Armstrong Number](ArmstrongNumber/armstrong_number.py)
