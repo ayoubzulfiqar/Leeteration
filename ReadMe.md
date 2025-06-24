@@ -1,5 +1,6 @@
 
 ## Easy
+* [The K Weakest Rows in a Matrix](TheKWeakestRowsinaMatrix/the_k_weakest_rows_in_a_matrix.py)
 * [Remove Palindromic Subsequences](RemovePalindromicSubsequences/remove_palindromic_subsequences.py)
 * [Rank Transform of an Array](RankTransformofanArray/rank_transform_of_an_array.py)
 * [List the Products Ordered in a Period](ListtheProductsOrderedinaPeriod/list_the_products_ordered_in_a_period.py)
