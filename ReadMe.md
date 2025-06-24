@@ -1,5 +1,6 @@
 
 ## Easy
+* [Check If All 1's Are at Least Length K Places Away](CheckIfAll1'sAreatLeastLengthKPlacesAway/check_if_all_1's_are_at_least_length_k_places_away.py)
 * [Destination City](DestinationCity/destination_city.py)
 * [Create a Session Bar Chart](CreateaSessionBarChart/create_a_session_bar_chart.py)
 * [Kids With the Greatest Number of Candies](KidsWiththeGreatestNumberofCandies/kids_with_the_greatest_number_of_candies.py)
