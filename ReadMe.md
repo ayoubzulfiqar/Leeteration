@@ -1,5 +1,6 @@
 
 ## Easy
+* [Number of Days Between Two Dates](NumberofDaysBetweenTwoDates/number_of_days_between_two_dates.py)
 * [Sort Integers by The Number of 1 Bits](SortIntegersbyTheNumberof1Bits/sort_integers_by_the_number_of_1_bits.py)
 * [Count Negative Numbers in a Sorted Matrix](CountNegativeNumbersinaSortedMatrix/count_negative_numbers_in_a_sorted_matrix.py)
 * [Students With Invalid Departments](StudentsWithInvalidDepartments/students_with_invalid_departments.py)
