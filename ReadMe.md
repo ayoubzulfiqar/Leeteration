@@ -1,5 +1,6 @@
 
 ## Easy
+* [Counting Elements](CountingElements/counting_elements.py)
 * [Maximum Score After Splitting a String](MaximumScoreAfterSplittingaString/maximum_score_after_splitting_a_string.py)
 * [NPV Queries](NPVQueries/npv_queries.py)
 * [Reformat The String](ReformatTheString/reformat_the_string.py)
