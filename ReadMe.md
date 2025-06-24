@@ -1,5 +1,6 @@
 
 ## Easy
+* [Minimum Value to Get Positive Step by Step Sum](MinimumValuetoGetPositiveStepbyStepSum/minimum_value_to_get_positive_step_by_step_sum.py)
 * [String Matching in an Array](StringMatchinginanArray/string_matching_in_an_array.py)
 * [Top Travellers](TopTravellers/top_travellers.py)
 * [Minimum Subsequence in Non-Increasing Order](MinimumSubsequenceinNon-IncreasingOrder/minimum_subsequence_in_non-increasing_order.py)
