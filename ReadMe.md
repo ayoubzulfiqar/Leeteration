@@ -1,5 +1,6 @@
 
 ## Easy
+* [Final Prices With a Special Discount in a Shop](FinalPricesWithaSpecialDiscountinaShop/final_prices_with_a_special_discount_in_a_shop.py)
 * [Delete N Nodes After M Nodes of a Linked List](DeleteNNodesAfterMNodesofaLinkedList/delete_n_nodes_after_m_nodes_of_a_linked_list.py)
 * [Shuffle the Array](ShuffletheArray/shuffle_the_array.py)
 * [Find All The Lonely Nodes](FindAllTheLonelyNodes/find_all_the_lonely_nodes.py)
