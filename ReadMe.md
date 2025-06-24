@@ -1,5 +1,6 @@
 
 ## Easy
+* [Shuffle String](ShuffleString/shuffle_string.py)
 * [Patients With a Condition](PatientsWithaCondition/patients_with_a_condition.py)
 * [Count Odd Numbers in an Interval Range](CountOddNumbersinanIntervalRange/count_odd_numbers_in_an_interval_range.py)
 * [Water Bottles](WaterBottles/water_bottles.py)
