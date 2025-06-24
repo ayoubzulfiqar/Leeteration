@@ -1,5 +1,6 @@
 
 ## Easy
+* [N-th Tribonacci Number](N-thTribonacciNumber/n-th_tribonacci_number.py)
 * [Armstrong Number](ArmstrongNumber/armstrong_number.py)
 * [Largest Unique Number](LargestUniqueNumber/largest_unique_number.py)
 * [Number of Equivalent Domino Pairs](NumberofEquivalentDominoPairs/number_of_equivalent_domino_pairs.py)
