@@ -1,5 +1,6 @@
 
 ## Easy
+* [Replace Employee ID With The Unique Identifier](ReplaceEmployeeIDWithTheUniqueIdentifier/replace_employee_id_with_the_unique_identifier.py)
 * [Generate a String With Characters That Have Odd Counts](GenerateaStringWithCharactersThatHaveOddCounts/generate_a_string_with_characters_that_have_odd_counts.py)
 * [Increasing Decreasing String](IncreasingDecreasingString/increasing_decreasing_string.py)
 * [How Many Numbers Are Smaller Than the Current Number](HowManyNumbersAreSmallerThantheCurrentNumber/how_many_numbers_are_smaller_than_the_current_number.py)
