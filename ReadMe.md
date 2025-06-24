@@ -1,5 +1,6 @@
 
 ## Easy
+* [Increasing Decreasing String](IncreasingDecreasingString/increasing_decreasing_string.py)
 * [How Many Numbers Are Smaller Than the Current Number](HowManyNumbersAreSmallerThantheCurrentNumber/how_many_numbers_are_smaller_than_the_current_number.py)
 * [Number of Days Between Two Dates](NumberofDaysBetweenTwoDates/number_of_days_between_two_dates.py)
 * [Sort Integers by The Number of 1 Bits](SortIntegersbyTheNumberof1Bits/sort_integers_by_the_number_of_1_bits.py)
