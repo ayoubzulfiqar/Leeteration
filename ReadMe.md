@@ -1,5 +1,6 @@
 
 ## Easy
+* [Matrix Diagonal Sum](MatrixDiagonalSum/matrix_diagonal_sum.py)
 * [Warehouse Manager](WarehouseManager/warehouse_manager.py)
 * [Detect Pattern of Length M Repeated K or More Times](DetectPatternofLengthMRepeatedKorMoreTimes/detect_pattern_of_length_m_repeated_k_or_more_times.py)
 * [Unique Orders and Customers Per Month](UniqueOrdersandCustomersPerMonth/unique_orders_and_customers_per_month.py)
