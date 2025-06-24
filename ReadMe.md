@@ -1,5 +1,6 @@
 
 ## Easy
+* [Check If It Is a Straight Line](CheckIfItIsaStraightLine/check_if_it_is_a_straight_line.py)
 * [Missing Number In Arithmetic Progression](MissingNumberInArithmeticProgression/missing_number_in_arithmetic_progression.py)
 * [Split a String in Balanced Strings](SplitaStringinBalancedStrings/split_a_string_in_balanced_strings.py)
 * [Minimum Cost to Move Chips to The Same Position](MinimumCosttoMoveChipstoTheSamePosition/minimum_cost_to_move_chips_to_the_same_position.py)
