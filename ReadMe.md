@@ -1,5 +1,6 @@
 
 ## Easy
+* [Diet Plan Performance](DietPlanPerformance/diet_plan_performance.py)
 * [Prime Arrangements](PrimeArrangements/prime_arrangements.py)
 * [Immediate Food Delivery I](ImmediateFoodDeliveryI/immediate_food_delivery_i.py)
 * [Single-Row Keyboard](Single-RowKeyboard/single-row_keyboard.py)
