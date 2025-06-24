@@ -1,5 +1,6 @@
 
 ## Easy
+* [Average Time of Process per Machine](AverageTimeofProcessperMachine/average_time_of_process_per_machine.py)
 * [Design an Ordered Stream](DesignanOrderedStream/design_an_ordered_stream.py)
 * [Defuse the Bomb](DefusetheBomb/defuse_the_bomb.py)
 * [Get Maximum in Generated Array](GetMaximuminGeneratedArray/get_maximum_in_generated_array.py)
