@@ -1,5 +1,6 @@
 
 ## Easy
+* [Design Parking System](DesignParkingSystem/design_parking_system.py)
 * [Crawler Log Folder](CrawlerLogFolder/crawler_log_folder.py)
 * [Rearrange Spaces Between Words](RearrangeSpacesBetweenWords/rearrange_spaces_between_words.py)
 * [Sum of All Odd Length Subarrays](SumofAllOddLengthSubarrays/sum_of_all_odd_length_subarrays.py)
