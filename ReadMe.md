@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find Lucky Integer in an Array](FindLuckyIntegerinanArray/find_lucky_integer_in_an_array.py)
 * [Create Target Array in the Given Order](CreateTargetArrayintheGivenOrder/create_target_array_in_the_given_order.py)
 * [Find the Distance Value Between Two Arrays](FindtheDistanceValueBetweenTwoArrays/find_the_distance_value_between_two_arrays.py)
 * [Lucky Numbers in a Matrix](LuckyNumbersinaMatrix/lucky_numbers_in_a_matrix.py)
