@@ -1,5 +1,6 @@
 
 ## Easy
+* [Prime Arrangements](PrimeArrangements/prime_arrangements.py)
 * [Immediate Food Delivery I](ImmediateFoodDeliveryI/immediate_food_delivery_i.py)
 * [Single-Row Keyboard](Single-RowKeyboard/single-row_keyboard.py)
 * [Find Words That Can Be Formed by Characters](FindWordsThatCanBeFormedbyCharacters/find_words_that_can_be_formed_by_characters.py)
