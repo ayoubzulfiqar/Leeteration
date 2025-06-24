@@ -1,5 +1,6 @@
 
 ## Easy
+* [Number of Steps to Reduce a Number to Zero](NumberofStepstoReduceaNumbertoZero/number_of_steps_to_reduce_a_number_to_zero.py)
 * [The K Weakest Rows in a Matrix](TheKWeakestRowsinaMatrix/the_k_weakest_rows_in_a_matrix.py)
 * [Remove Palindromic Subsequences](RemovePalindromicSubsequences/remove_palindromic_subsequences.py)
 * [Rank Transform of an Array](RankTransformofanArray/rank_transform_of_an_array.py)
