@@ -1,5 +1,6 @@
 
 ## Easy
+* [How Many Apples Can You Put into the Basket](HowManyApplesCanYouPutintotheBasket/how_many_apples_can_you_put_into_the_basket.py)
 * [Maximum Number of Balloons](MaximumNumberofBalloons/maximum_number_of_balloons.py)
 * [Day of the Week](DayoftheWeek/day_of_the_week.py)
 * [Distance Between Bus Stops](DistanceBetweenBusStops/distance_between_bus_stops.py)
