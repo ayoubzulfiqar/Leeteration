@@ -1,5 +1,6 @@
 
 ## Easy
+* [Relative Sort Array](RelativeSortArray/relative_sort_array.py)
 * [Remove Vowels from a String](RemoveVowelsfromaString/remove_vowels_from_a_string.py)
 * [Duplicate Zeros](DuplicateZeros/duplicate_zeros.py)
 * [Number of Days in a Month](NumberofDaysinaMonth/number_of_days_in_a_month.py)
