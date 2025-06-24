@@ -1,5 +1,6 @@
 
 ## Easy
+* [Unique Orders and Customers Per Month](UniqueOrdersandCustomersPerMonth/unique_orders_and_customers_per_month.py)
 * [Thousand Separator](ThousandSeparator/thousand_separator.py)
 * [Three Consecutive Odds](ThreeConsecutiveOdds/three_consecutive_odds.py)
 * [Make The String Great](MakeTheStringGreat/make_the_string_great.py)
