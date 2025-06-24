@@ -1,5 +1,6 @@
 
 ## Easy
+* [Reformat Department Table](ReformatDepartmentTable/reformat_department_table.py)
 * [Diet Plan Performance](DietPlanPerformance/diet_plan_performance.py)
 * [Prime Arrangements](PrimeArrangements/prime_arrangements.py)
 * [Immediate Food Delivery I](ImmediateFoodDeliveryI/immediate_food_delivery_i.py)
