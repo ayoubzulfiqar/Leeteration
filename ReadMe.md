@@ -1,5 +1,6 @@
 
 ## Easy
+* [Minimum Cost to Move Chips to The Same Position](MinimumCosttoMoveChipstoTheSamePosition/minimum_cost_to_move_chips_to_the_same_position.py)
 * [Intersection of Three Sorted Arrays](IntersectionofThreeSortedArrays/intersection_of_three_sorted_arrays.py)
 * [Queries Quality and Percentage](QueriesQualityandPercentage/queries_quality_and_percentage.py)
 * [Unique Number of Occurrences](UniqueNumberofOccurrences/unique_number_of_occurrences.py)
