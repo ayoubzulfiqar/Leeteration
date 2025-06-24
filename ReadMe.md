@@ -1,5 +1,6 @@
 
 ## Easy
+* [Three Consecutive Odds](ThreeConsecutiveOdds/three_consecutive_odds.py)
 * [Make The String Great](MakeTheStringGreat/make_the_string_great.py)
 * [Fix Product Name Format](FixProductNameFormat/fix_product_name_format.py)
 * [Kth Missing Positive Number](KthMissingPositiveNumber/kth_missing_positive_number.py)
