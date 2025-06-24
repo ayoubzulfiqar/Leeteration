@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find All The Lonely Nodes](FindAllTheLonelyNodes/find_all_the_lonely_nodes.py)
 * [Maximum Product of Two Elements in an Array](MaximumProductofTwoElementsinanArray/maximum_product_of_two_elements_in_an_array.py)
 * [Make Two Arrays Equal by Reversing Subarrays](MakeTwoArraysEqualbyReversingSubarrays/make_two_arrays_equal_by_reversing_subarrays.py)
 * [Check If a Word Occurs As a Prefix of Any Word in a Sentence](CheckIfaWordOccursAsaPrefixofAnyWordinaSentence/check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence.py)
