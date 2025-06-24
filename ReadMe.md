@@ -1,5 +1,6 @@
 
 ## Easy
+* [Create Target Array in the Given Order](CreateTargetArrayintheGivenOrder/create_target_array_in_the_given_order.py)
 * [Find the Distance Value Between Two Arrays](FindtheDistanceValueBetweenTwoArrays/find_the_distance_value_between_two_arrays.py)
 * [Lucky Numbers in a Matrix](LuckyNumbersinaMatrix/lucky_numbers_in_a_matrix.py)
 * [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree/find_a_corresponding_node_of_a_binary_tree_in_a_clone_of_that_tree.py)
