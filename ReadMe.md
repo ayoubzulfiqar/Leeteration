@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count Negative Numbers in a Sorted Matrix](CountNegativeNumbersinaSortedMatrix/count_negative_numbers_in_a_sorted_matrix.py)
 * [Students With Invalid Departments](StudentsWithInvalidDepartments/students_with_invalid_departments.py)
 * [Check If N and Its Double Exist](CheckIfNandItsDoubleExist/check_if_n_and_its_double_exist.py)
 * [Number of Steps to Reduce a Number to Zero](NumberofStepstoReduceaNumbertoZero/number_of_steps_to_reduce_a_number_to_zero.py)
