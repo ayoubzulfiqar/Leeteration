@@ -1,5 +1,6 @@
 
 ## Easy
+* [XOR Operation in an Array](XOROperationinanArray/xor_operation_in_an_array.py)
 * [Group Sold Products By The Date](GroupSoldProductsByTheDate/group_sold_products_by_the_date.py)
 * [Running Sum of 1d Array](RunningSumof1dArray/running_sum_of_1d_array.py)
 * [Final Prices With a Special Discount in a Shop](FinalPricesWithaSpecialDiscountinaShop/final_prices_with_a_special_discount_in_a_shop.py)
