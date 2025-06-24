@@ -1,5 +1,6 @@
 
 ## Easy
+* [Number of Days in a Month](NumberofDaysinaMonth/number_of_days_in_a_month.py)
 * [Print in Order](PrintinOrder/print_in_order.py)
 * [Reported Posts](ReportedPosts/reported_posts.py)
 * [Defanging an IP Address](DefanginganIPAddress/defanging_an_ip_address.py)
