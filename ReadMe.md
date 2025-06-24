@@ -1,5 +1,6 @@
 
 ## Easy
+* [Create a Session Bar Chart](CreateaSessionBarChart/create_a_session_bar_chart.py)
 * [Kids With the Greatest Number of Candies](KidsWiththeGreatestNumberofCandies/kids_with_the_greatest_number_of_candies.py)
 * [Perform String Shifts](PerformStringShifts/perform_string_shifts.py)
 * [Counting Elements](CountingElements/counting_elements.py)
