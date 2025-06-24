@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find N Unique Integers Sum up to Zero](FindNUniqueIntegersSumuptoZero/find_n_unique_integers_sum_up_to_zero.py)
 * [Find the Team Size](FindtheTeamSize/find_the_team_size.py)
 * [Replace Elements with Greatest Element on Right Side](ReplaceElementswithGreatestElementonRightSide/replace_elements_with_greatest_element_on_right_side.py)
 * [Find Numbers with Even Number of Digits](FindNumberswithEvenNumberofDigits/find_numbers_with_even_number_of_digits.py)
