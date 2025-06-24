@@ -1,5 +1,6 @@
 
 ## Easy
+* [Fix Product Name Format](FixProductNameFormat/fix_product_name_format.py)
 * [Kth Missing Positive Number](KthMissingPositiveNumber/kth_missing_positive_number.py)
 * [Count Good Triplets](CountGoodTriplets/count_good_triplets.py)
 * [Shuffle String](ShuffleString/shuffle_string.py)
