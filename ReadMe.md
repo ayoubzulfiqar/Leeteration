@@ -1,5 +1,6 @@
 
 ## Easy
+* [Missing Number In Arithmetic Progression](MissingNumberInArithmeticProgression/missing_number_in_arithmetic_progression.py)
 * [Split a String in Balanced Strings](SplitaStringinBalancedStrings/split_a_string_in_balanced_strings.py)
 * [Minimum Cost to Move Chips to The Same Position](MinimumCosttoMoveChipstoTheSamePosition/minimum_cost_to_move_chips_to_the_same_position.py)
 * [Intersection of Three Sorted Arrays](IntersectionofThreeSortedArrays/intersection_of_three_sorted_arrays.py)
