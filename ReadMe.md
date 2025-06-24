@@ -1,5 +1,6 @@
 
 ## Easy
+* [Slowest Key](SlowestKey/slowest_key.py)
 * [Largest Substring Between Two Equal Characters](LargestSubstringBetweenTwoEqualCharacters/largest_substring_between_two_equal_characters.py)
 * [All Valid Triplets That Can Represent a Country](AllValidTripletsThatCanRepresentaCountry/all_valid_triplets_that_can_represent_a_country.py)
 * [Mean of Array After Removing Some Elements](MeanofArrayAfterRemovingSomeElements/mean_of_array_after_removing_some_elements.py)
