@@ -1,5 +1,6 @@
 
 ## Easy
+* [Sellers With No Sales](SellersWithNoSales/sellers_with_no_sales.py)
 * [Design Parking System](DesignParkingSystem/design_parking_system.py)
 * [Crawler Log Folder](CrawlerLogFolder/crawler_log_folder.py)
 * [Rearrange Spaces Between Words](RearrangeSpacesBetweenWords/rearrange_spaces_between_words.py)
