@@ -1,5 +1,6 @@
 
 ## Easy
+* [Rank Transform of an Array](RankTransformofanArray/rank_transform_of_an_array.py)
 * [List the Products Ordered in a Period](ListtheProductsOrderedinaPeriod/list_the_products_ordered_in_a_period.py)
 * [Maximum 69 Number](Maximum69Number/maximum_69_number.py)
 * [Ads Performance](AdsPerformance/ads_performance.py)
