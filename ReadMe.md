@@ -1,5 +1,6 @@
 
 ## Easy
+* [Widest Vertical Area Between Two Points Containing No Points](WidestVerticalAreaBetweenTwoPointsContainingNoPoints/widest_vertical_area_between_two_points_containing_no_points.py)
 * [Sort Array by Increasing Frequency](SortArraybyIncreasingFrequency/sort_array_by_increasing_frequency.py)
 * [Percentage of Users Attended a Contest](PercentageofUsersAttendedaContest/percentage_of_users_attended_a_contest.py)
 * [Slowest Key](SlowestKey/slowest_key.py)
