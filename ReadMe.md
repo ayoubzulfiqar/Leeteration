@@ -1,5 +1,6 @@
 
 ## Easy
+* [Customer Order Frequency](CustomerOrderFrequency/customer_order_frequency.py)
 * [Reformat Date](ReformatDate/reformat_date.py)
 * [Can Make Arithmetic Progression From Sequence](CanMakeArithmeticProgressionFromSequence/can_make_arithmetic_progression_from_sequence.py)
 * [Path Crossing](PathCrossing/path_crossing.py)
