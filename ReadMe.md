@@ -1,5 +1,6 @@
 
 ## Easy
+* [Lucky Numbers in a Matrix](LuckyNumbersinaMatrix/lucky_numbers_in_a_matrix.py)
 * [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](FindaCorrespondingNodeofaBinaryTreeinaCloneofThatTree/find_a_corresponding_node_of_a_binary_tree_in_a_clone_of_that_tree.py)
 * [Replace Employee ID With The Unique Identifier](ReplaceEmployeeIDWithTheUniqueIdentifier/replace_employee_id_with_the_unique_identifier.py)
 * [Generate a String With Characters That Have Odd Counts](GenerateaStringWithCharactersThatHaveOddCounts/generate_a_string_with_characters_that_have_odd_counts.py)
