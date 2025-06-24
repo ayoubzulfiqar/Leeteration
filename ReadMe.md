@@ -1,5 +1,6 @@
 
 ## Easy
+* [Ads Performance](AdsPerformance/ads_performance.py)
 * [Convert Integer to the Sum of Two No-Zero Integers](ConvertIntegertotheSumofTwoNo-ZeroIntegers/convert_integer_to_the_sum_of_two_no-zero_integers.py)
 * [Decompress Run-Length Encoded List](DecompressRun-LengthEncodedList/decompress_run-length_encoded_list.py)
 * [Decrypt String from Alphabet to Integer Mapping](DecryptStringfromAlphabettoIntegerMapping/decrypt_string_from_alphabet_to_integer_mapping.py)
