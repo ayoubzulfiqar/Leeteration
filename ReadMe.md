@@ -1,5 +1,6 @@
 
 ## Easy
+* [Mean of Array After Removing Some Elements](MeanofArrayAfterRemovingSomeElements/mean_of_array_after_removing_some_elements.py)
 * [Maximum Nesting Depth of the Parentheses](MaximumNestingDepthoftheParentheses/maximum_nesting_depth_of_the_parentheses.py)
 * [Special Array With X Elements Greater Than or Equal X](SpecialArrayWithXElementsGreaterThanorEqualX/special_array_with_x_elements_greater_than_or_equal_x.py)
 * [Sellers With No Sales](SellersWithNoSales/sellers_with_no_sales.py)
