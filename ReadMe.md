@@ -1,5 +1,6 @@
 
 ## Easy
+* [Can Make Arithmetic Progression From Sequence](CanMakeArithmeticProgressionFromSequence/can_make_arithmetic_progression_from_sequence.py)
 * [Path Crossing](PathCrossing/path_crossing.py)
 * [Friendly Movies Streamed Last Month](FriendlyMoviesStreamedLastMonth/friendly_movies_streamed_last_month.py)
 * [Average Salary Excluding the Minimum and Maximum Salary](AverageSalaryExcludingtheMinimumandMaximumSalary/average_salary_excluding_the_minimum_and_maximum_salary.py)
