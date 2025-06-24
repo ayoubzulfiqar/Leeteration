@@ -1,5 +1,6 @@
 
 ## Easy
+* [Day of the Week](DayoftheWeek/day_of_the_week.py)
 * [Distance Between Bus Stops](DistanceBetweenBusStops/distance_between_bus_stops.py)
 * [Count Substrings with Only One Distinct Letter](CountSubstringswithOnlyOneDistinctLetter/count_substrings_with_only_one_distinct_letter.py)
 * [Reformat Department Table](ReformatDepartmentTable/reformat_department_table.py)
