@@ -1,5 +1,6 @@
 
 ## Easy
+* [Check If a Number Is Majority Element in a Sorted Array](CheckIfaNumberIsMajorityElementinaSortedArray/check_if_a_number_is_majority_element_in_a_sorted_array.py)
 * [Article Views I](ArticleViewsI/article_views_i.py)
 * [User Activity for the Past 30 Days II](UserActivityforthePast30DaysII/user_activity_for_the_past_30_days_ii.py)
 * [User Activity for the Past 30 Days I](UserActivityforthePast30DaysI/user_activity_for_the_past_30_days_i.py)
