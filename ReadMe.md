@@ -1,5 +1,6 @@
 
 ## Easy
+* [Number of Good Pairs](NumberofGoodPairs/number_of_good_pairs.py)
 * [Customer Order Frequency](CustomerOrderFrequency/customer_order_frequency.py)
 * [Reformat Date](ReformatDate/reformat_date.py)
 * [Can Make Arithmetic Progression From Sequence](CanMakeArithmeticProgressionFromSequence/can_make_arithmetic_progression_from_sequence.py)
