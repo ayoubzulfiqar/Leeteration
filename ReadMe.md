@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count Odd Numbers in an Interval Range](CountOddNumbersinanIntervalRange/count_odd_numbers_in_an_interval_range.py)
 * [Water Bottles](WaterBottles/water_bottles.py)
 * [Find Users With Valid E-Mails](FindUsersWithValidE-Mails/find_users_with_valid_e-mails.py)
 * [Number of Good Pairs](NumberofGoodPairs/number_of_good_pairs.py)
