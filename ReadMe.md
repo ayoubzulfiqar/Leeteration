@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find the Team Size](FindtheTeamSize/find_the_team_size.py)
 * [Replace Elements with Greatest Element on Right Side](ReplaceElementswithGreatestElementonRightSide/replace_elements_with_greatest_element_on_right_side.py)
 * [Find Numbers with Even Number of Digits](FindNumberswithEvenNumberofDigits/find_numbers_with_even_number_of_digits.py)
 * [Weather Type in Each Country](WeatherTypeinEachCountry/weather_type_in_each_country.py)
