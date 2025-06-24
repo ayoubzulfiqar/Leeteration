@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find Winner on a Tic Tac Toe Game](FindWinneronaTicTacToeGame/find_winner_on_a_tic_tac_toe_game.py)
 * [Hexspeak](Hexspeak/hexspeak.py)
 * [Minimum Time Visiting All Points](MinimumTimeVisitingAllPoints/minimum_time_visiting_all_points.py)
 * [Shift 2D Grid](Shift2DGrid/shift_2d_grid.py)
