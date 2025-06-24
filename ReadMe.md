@@ -1,5 +1,6 @@
 
 ## Easy
+* [Thousand Separator](ThousandSeparator/thousand_separator.py)
 * [Three Consecutive Odds](ThreeConsecutiveOdds/three_consecutive_odds.py)
 * [Make The String Great](MakeTheStringGreat/make_the_string_great.py)
 * [Fix Product Name Format](FixProductNameFormat/fix_product_name_format.py)
