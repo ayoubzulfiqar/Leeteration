@@ -1,5 +1,6 @@
 
 ## Easy
+* [Maximum Score After Splitting a String](MaximumScoreAfterSplittingaString/maximum_score_after_splitting_a_string.py)
 * [NPV Queries](NPVQueries/npv_queries.py)
 * [Reformat The String](ReformatTheString/reformat_the_string.py)
 * [Minimum Value to Get Positive Step by Step Sum](MinimumValuetoGetPositiveStepbyStepSum/minimum_value_to_get_positive_step_by_step_sum.py)
