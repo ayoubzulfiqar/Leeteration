@@ -1,5 +1,6 @@
 
 ## Easy
+* [Kids With the Greatest Number of Candies](KidsWiththeGreatestNumberofCandies/kids_with_the_greatest_number_of_candies.py)
 * [Perform String Shifts](PerformStringShifts/perform_string_shifts.py)
 * [Counting Elements](CountingElements/counting_elements.py)
 * [Maximum Score After Splitting a String](MaximumScoreAfterSplittingaString/maximum_score_after_splitting_a_string.py)
