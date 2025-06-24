@@ -1,5 +1,6 @@
 
 ## Easy
+* [Unique Number of Occurrences](UniqueNumberofOccurrences/unique_number_of_occurrences.py)
 * [Minimum Absolute Difference](MinimumAbsoluteDifference/minimum_absolute_difference.py)
 * [How Many Apples Can You Put into the Basket](HowManyApplesCanYouPutintotheBasket/how_many_apples_can_you_put_into_the_basket.py)
 * [Maximum Number of Balloons](MaximumNumberofBalloons/maximum_number_of_balloons.py)
