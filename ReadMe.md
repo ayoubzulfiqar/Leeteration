@@ -1,5 +1,6 @@
 
 ## Easy
+* [Generate a String With Characters That Have Odd Counts](GenerateaStringWithCharactersThatHaveOddCounts/generate_a_string_with_characters_that_have_odd_counts.py)
 * [Increasing Decreasing String](IncreasingDecreasingString/increasing_decreasing_string.py)
 * [How Many Numbers Are Smaller Than the Current Number](HowManyNumbersAreSmallerThantheCurrentNumber/how_many_numbers_are_smaller_than_the_current_number.py)
 * [Number of Days Between Two Dates](NumberofDaysBetweenTwoDates/number_of_days_between_two_dates.py)
