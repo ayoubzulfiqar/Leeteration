@@ -1,5 +1,6 @@
 
 ## Easy
+* [Replace Elements with Greatest Element on Right Side](ReplaceElementswithGreatestElementonRightSide/replace_elements_with_greatest_element_on_right_side.py)
 * [Find Numbers with Even Number of Digits](FindNumberswithEvenNumberofDigits/find_numbers_with_even_number_of_digits.py)
 * [Weather Type in Each Country](WeatherTypeinEachCountry/weather_type_in_each_country.py)
 * [Convert Binary Number in a Linked List to Integer](ConvertBinaryNumberinaLinkedListtoInteger/convert_binary_number_in_a_linked_list_to_integer.py)
