@@ -1,5 +1,6 @@
 
 ## Easy
+* [Element Appearing More Than 25% In Sorted Array](ElementAppearingMoreThan25%InSortedArray/element_appearing_more_than_25%_in_sorted_array.py)
 * [Subtract the Product and Sum of Digits of an Integer](SubtracttheProductandSumofDigitsofanInteger/subtract_the_product_and_sum_of_digits_of_an_integer.py)
 * [Students and Examinations](StudentsandExaminations/students_and_examinations.py)
 * [Traffic Light Controlled Intersection](TrafficLightControlledIntersection/traffic_light_controlled_intersection.py)
