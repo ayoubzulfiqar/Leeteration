@@ -1,5 +1,6 @@
 
 ## Easy
+* [Special Positions in a Binary Matrix](SpecialPositionsinaBinaryMatrix/special_positions_in_a_binary_matrix.py)
 * [Customer Who Visited but Did Not Make Any Transactions](CustomerWhoVisitedbutDidNotMakeAnyTransactions/customer_who_visited_but_did_not_make_any_transactions.py)
 * [Replace All To Avoid Consecutive Repeating Characters](ReplaceAllToAvoidConsecutiveRepeatingCharacters/replace_all_to_avoid_consecutive_repeating_characters.py)
 * [Matrix Diagonal Sum](MatrixDiagonalSum/matrix_diagonal_sum.py)
