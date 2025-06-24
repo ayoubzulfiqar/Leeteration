@@ -1,5 +1,6 @@
 
 ## Easy
+* [Design an Ordered Stream](DesignanOrderedStream/design_an_ordered_stream.py)
 * [Defuse the Bomb](DefusetheBomb/defuse_the_bomb.py)
 * [Get Maximum in Generated Array](GetMaximuminGeneratedArray/get_maximum_in_generated_array.py)
 * [Check Array Formation Through Concatenation](CheckArrayFormationThroughConcatenation/check_array_formation_through_concatenation.py)
