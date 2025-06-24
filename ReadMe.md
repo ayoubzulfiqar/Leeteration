@@ -1,5 +1,6 @@
 
 ## Easy
+* [Convert Binary Number in a Linked List to Integer](ConvertBinaryNumberinaLinkedListtoInteger/convert_binary_number_in_a_linked_list_to_integer.py)
 * [Element Appearing More Than 25% In Sorted Array](ElementAppearingMoreThan25%InSortedArray/element_appearing_more_than_25%_in_sorted_array.py)
 * [Subtract the Product and Sum of Digits of an Integer](SubtracttheProductandSumofDigitsofanInteger/subtract_the_product_and_sum_of_digits_of_an_integer.py)
 * [Students and Examinations](StudentsandExaminations/students_and_examinations.py)
