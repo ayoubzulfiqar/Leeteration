@@ -1,5 +1,6 @@
 
 ## Easy
+* [Check If a Word Occurs As a Prefix of Any Word in a Sentence](CheckIfaWordOccursAsaPrefixofAnyWordinaSentence/check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence.py)
 * [Number of Students Doing Homework at a Given Time](NumberofStudentsDoingHomeworkataGivenTime/number_of_students_doing_homework_at_a_given_time.py)
 * [Consecutive Characters](ConsecutiveCharacters/consecutive_characters.py)
 * [Check If All 1's Are at Least Length K Places Away](CheckIfAll1'sAreatLeastLengthKPlacesAway/check_if_all_1's_are_at_least_length_k_places_away.py)
