@@ -1,5 +1,6 @@
 
 ## Easy
+* [Friendly Movies Streamed Last Month](FriendlyMoviesStreamedLastMonth/friendly_movies_streamed_last_month.py)
 * [Average Salary Excluding the Minimum and Maximum Salary](AverageSalaryExcludingtheMinimumandMaximumSalary/average_salary_excluding_the_minimum_and_maximum_salary.py)
 * [XOR Operation in an Array](XOROperationinanArray/xor_operation_in_an_array.py)
 * [Group Sold Products By The Date](GroupSoldProductsByTheDate/group_sold_products_by_the_date.py)
