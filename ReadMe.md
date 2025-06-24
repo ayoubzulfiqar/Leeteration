@@ -1,5 +1,6 @@
 
 ## Easy
+* [Check If Two String Arrays are Equivalent](CheckIfTwoStringArraysareEquivalent/check_if_two_string_arrays_are_equivalent.py)
 * [Average Time of Process per Machine](AverageTimeofProcessperMachine/average_time_of_process_per_machine.py)
 * [Design an Ordered Stream](DesignanOrderedStream/design_an_ordered_stream.py)
 * [Defuse the Bomb](DefusetheBomb/defuse_the_bomb.py)
