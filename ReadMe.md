@@ -1,5 +1,6 @@
 
 ## Easy
+* [Number of Equivalent Domino Pairs](NumberofEquivalentDominoPairs/number_of_equivalent_domino_pairs.py)
 * [Relative Sort Array](RelativeSortArray/relative_sort_array.py)
 * [Remove Vowels from a String](RemoveVowelsfromaString/remove_vowels_from_a_string.py)
 * [Duplicate Zeros](DuplicateZeros/duplicate_zeros.py)
