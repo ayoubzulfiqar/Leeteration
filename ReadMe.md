@@ -1,5 +1,6 @@
 
 ## Easy
+* [Students and Examinations](StudentsandExaminations/students_and_examinations.py)
 * [Traffic Light Controlled Intersection](TrafficLightControlledIntersection/traffic_light_controlled_intersection.py)
 * [Find Winner on a Tic Tac Toe Game](FindWinneronaTicTacToeGame/find_winner_on_a_tic_tac_toe_game.py)
 * [Hexspeak](Hexspeak/hexspeak.py)
