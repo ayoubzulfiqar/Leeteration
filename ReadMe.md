@@ -1,5 +1,6 @@
 
 ## Easy
+* [Intersection of Three Sorted Arrays](IntersectionofThreeSortedArrays/intersection_of_three_sorted_arrays.py)
 * [Queries Quality and Percentage](QueriesQualityandPercentage/queries_quality_and_percentage.py)
 * [Unique Number of Occurrences](UniqueNumberofOccurrences/unique_number_of_occurrences.py)
 * [Minimum Absolute Difference](MinimumAbsoluteDifference/minimum_absolute_difference.py)
