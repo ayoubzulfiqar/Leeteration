@@ -1,5 +1,6 @@
 
 ## Easy
+* [Minimum Subsequence in Non-Increasing Order](MinimumSubsequenceinNon-IncreasingOrder/minimum_subsequence_in_non-increasing_order.py)
 * [Count Largest Group](CountLargestGroup/count_largest_group.py)
 * [Find Lucky Integer in an Array](FindLuckyIntegerinanArray/find_lucky_integer_in_an_array.py)
 * [Create Target Array in the Given Order](CreateTargetArrayintheGivenOrder/create_target_array_in_the_given_order.py)
