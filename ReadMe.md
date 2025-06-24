@@ -1,5 +1,6 @@
 
 ## Easy
+* [Array Transformation](ArrayTransformation/array_transformation.py)
 * [Number of Comments per Post](NumberofCommentsperPost/number_of_comments_per_post.py)
 * [Check If It Is a Straight Line](CheckIfItIsaStraightLine/check_if_it_is_a_straight_line.py)
 * [Missing Number In Arithmetic Progression](MissingNumberInArithmeticProgression/missing_number_in_arithmetic_progression.py)
