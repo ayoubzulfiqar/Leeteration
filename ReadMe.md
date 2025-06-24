@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find Words That Can Be Formed by Characters](FindWordsThatCanBeFormedbyCharacters/find_words_that_can_be_formed_by_characters.py)
 * [Day of the Year](DayoftheYear/day_of_the_year.py)
 * [Check If a Number Is Majority Element in a Sorted Array](CheckIfaNumberIsMajorityElementinaSortedArray/check_if_a_number_is_majority_element_in_a_sorted_array.py)
 * [Article Views I](ArticleViewsI/article_views_i.py)
