@@ -1,5 +1,6 @@
 
 ## Easy
+* [Number of Arithmetic Triplets](NumberofArithmeticTriplets/number_of_arithmetic_triplets.py)
 * [Merge Similar Items](MergeSimilarItems/merge_similar_items.py)
 * [Make Array Zero by Subtracting Equal Amounts](MakeArrayZerobySubtractingEqualAmounts/make_array_zero_by_subtracting_equal_amounts.py)
 * [Number of Unique Subjects Taught by Each Teacher](NumberofUniqueSubjectsTaughtbyEachTeacher/number_of_unique_subjects_taught_by_each_teacher.py)
