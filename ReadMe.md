@@ -1,5 +1,6 @@
 
 ## Easy
+* [Maximum Number of Words Found in Sentences](MaximumNumberofWordsFoundinSentences/maximum_number_of_words_found_in_sentences.py)
 * [Find First Palindromic String in the Array](FindFirstPalindromicStringintheArray/find_first_palindromic_string_in_the_array.py)
 * [Rings and Rods](RingsandRods/rings_and_rods.py)
 * [Find Subsequence of Length K With the Largest Sum](FindSubsequenceofLengthKWiththeLargestSum/find_subsequence_of_length_k_with_the_largest_sum.py)
