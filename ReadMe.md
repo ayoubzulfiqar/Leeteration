@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count Vowel Substrings of a String](CountVowelSubstringsofaString/count_vowel_substrings_of_a_string.py)
 * [Smallest Index With Equal Value](SmallestIndexWithEqualValue/smallest_index_with_equal_value.py)
 * [Kth Distinct String in an Array](KthDistinctStringinanArray/kth_distinct_string_in_an_array.py)
 * [Number of Valid Words in a Sentence](NumberofValidWordsinaSentence/number_of_valid_words_in_a_sentence.py)
