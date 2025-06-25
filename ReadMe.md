@@ -1,5 +1,6 @@
 
 ## Easy
+* [Product's Price for Each Store](Product'sPriceforEachStore/product's_price_for_each_store.py)
 * [Count Items Matching a Rule](CountItemsMatchingaRule/count_items_matching_a_rule.py)
 * [Merge Strings Alternately](MergeStringsAlternately/merge_strings_alternately.py)
 * [Longest Nice Substring](LongestNiceSubstring/longest_nice_substring.py)
