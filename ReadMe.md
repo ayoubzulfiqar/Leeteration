@@ -1,5 +1,6 @@
 
 ## Easy
+* [Best Poker Hand](BestPokerHand/best_poker_hand.py)
 * [Maximum Number of Pairs in Array](MaximumNumberofPairsinArray/maximum_number_of_pairs_in_array.py)
 * [All the Matches of the League](AlltheMatchesoftheLeague/all_the_matches_of_the_league.py)
 * [Minimum Amount of Time to Fill Cups](MinimumAmountofTimetoFillCups/minimum_amount_of_time_to_fill_cups.py)
