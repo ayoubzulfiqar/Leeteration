@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count Common Words With One Occurrence](CountCommonWordsWithOneOccurrence/count_common_words_with_one_occurrence.py)
 * [The Number of Rich Customers](TheNumberofRichCustomers/the_number_of_rich_customers.py)
 * [Two Furthest Houses With Different Colors](TwoFurthestHousesWithDifferentColors/two_furthest_houses_with_different_colors.py)
 * [Time Needed to Buy Tickets](TimeNeededtoBuyTickets/time_needed_to_buy_tickets.py)
