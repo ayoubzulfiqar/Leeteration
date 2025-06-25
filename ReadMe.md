@@ -1,5 +1,6 @@
 
 ## Easy
+* [Minimum Number of Moves to Seat Everyone](MinimumNumberofMovestoSeatEveryone/minimum_number_of_moves_to_seat_everyone.py)
 * [Two Out of Three](TwoOutofThree/two_out_of_three.py)
 * [Minimum Moves to Convert String](MinimumMovestoConvertString/minimum_moves_to_convert_string.py)
 * [Low-Quality Problems](Low-QualityProblems/low-quality_problems.py)
