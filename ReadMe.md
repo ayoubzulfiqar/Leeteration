@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count Hills and Valleys in an Array](CountHillsandValleysinanArray/count_hills_and_valleys_in_an_array.py)
 * [Divide Array Into Equal Pairs](DivideArrayIntoEqualPairs/divide_array_into_equal_pairs.py)
 * [The Number of Users That Are Eligible for Discount](TheNumberofUsersThatAreEligibleforDiscount/the_number_of_users_that_are_eligible_for_discount.py)
 * [Find All K-Distant Indices in an Array](FindAllK-DistantIndicesinanArray/find_all_k-distant_indices_in_an_array.py)
