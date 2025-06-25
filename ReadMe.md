@@ -1,5 +1,6 @@
 
 ## Easy
+* [Minimum Recolors to Get K Consecutive Black Blocks](MinimumRecolorstoGetKConsecutiveBlackBlocks/minimum_recolors_to_get_k_consecutive_black_blocks.py)
 * [Sort the Olympic Table](SorttheOlympicTable/sort_the_olympic_table.py)
 * [Largest Local Values in a Matrix](LargestLocalValuesinaMatrix/largest_local_values_in_a_matrix.py)
 * [Number of Arithmetic Triplets](NumberofArithmeticTriplets/number_of_arithmetic_triplets.py)
