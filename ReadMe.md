@@ -1,5 +1,6 @@
 
 ## Easy
+* [Number of Different Integers in a String](NumberofDifferentIntegersinaString/number_of_different_integers_in_a_string.py)
 * [Maximum Ascending Subarray Sum](MaximumAscendingSubarraySum/maximum_ascending_subarray_sum.py)
 * [Second Largest Digit in a String](SecondLargestDigitinaString/second_largest_digit_in_a_string.py)
 * [Rearrange Products Table](RearrangeProductsTable/rearrange_products_table.py)
