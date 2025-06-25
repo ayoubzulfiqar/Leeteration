@@ -1,5 +1,6 @@
 
 ## Easy
+* [Strong Password Checker II](StrongPasswordCheckerII/strong_password_checker_ii.py)
 * [Min Max Game](MinMaxGame/min_max_game.py)
 * [Rearrange Characters to Make Target String](RearrangeCharacterstoMakeTargetString/rearrange_characters_to_make_target_string.py)
 * [Check if Number Has Equal Digit Count and Digit Value](CheckifNumberHasEqualDigitCountandDigitValue/check_if_number_has_equal_digit_count_and_digit_value.py)
