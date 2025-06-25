@@ -1,5 +1,6 @@
 
 ## Easy
+* [Redistribute Characters to Make All Strings Equal](RedistributeCharacterstoMakeAllStringsEqual/redistribute_characters_to_make_all_strings_equal.py)
 * [Check if All the Integers in a Range Are Covered](CheckifAlltheIntegersinaRangeAreCovered/check_if_all_the_integers_in_a_range_are_covered.py)
 * [The Latest Login in 2020](TheLatestLoginin2020/the_latest_login_in_2020.py)
 * [Determine Whether Matrix Can Be Obtained By Rotation](DetermineWhetherMatrixCanBeObtainedByRotation/determine_whether_matrix_can_be_obtained_by_rotation.py)
