@@ -1,5 +1,6 @@
 
 ## Easy
+* [Maximum Units on a Truck](MaximumUnitsonaTruck/maximum_units_on_a_truck.py)
 * [Largest Subarray Length K](LargestSubarrayLengthK/largest_subarray_length_k.py)
 * [Determine if String Halves Are Alike](DetermineifStringHalvesAreAlike/determine_if_string_halves_are_alike.py)
 * [Number of Students Unable to Eat Lunch](NumberofStudentsUnabletoEatLunch/number_of_students_unable_to_eat_lunch.py)
