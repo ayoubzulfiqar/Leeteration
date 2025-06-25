@@ -1,5 +1,6 @@
 
 ## Easy
+* [The Number of Employees Which Report to Each Employee](TheNumberofEmployeesWhichReporttoEachEmployee/the_number_of_employees_which_report_to_each_employee.py)
 * [Find Followers Count](FindFollowersCount/find_followers_count.py)
 * [Number Of Rectangles That Can Form The Largest Square](NumberOfRectanglesThatCanFormTheLargestSquare/number_of_rectangles_that_can_form_the_largest_square.py)
 * [Decode XORed Array](DecodeXORedArray/decode_xored_array.py)
