@@ -1,5 +1,6 @@
 
 ## Easy
+* [Minimum Amount of Time to Fill Cups](MinimumAmountofTimetoFillCups/minimum_amount_of_time_to_fill_cups.py)
 * [Evaluate Boolean Binary Tree](EvaluateBooleanBinaryTree/evaluate_boolean_binary_tree.py)
 * [Product Sales Analysis V](ProductSalesAnalysisV/product_sales_analysis_v.py)
 * [Decode the Message](DecodetheMessage/decode_the_message.py)
