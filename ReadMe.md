@@ -1,5 +1,6 @@
 
 ## Easy
+* [Sorting the Sentence](SortingtheSentence/sorting_the_sentence.py)
 * [Maximum Population Year](MaximumPopulationYear/maximum_population_year.py)
 * [Convert Date Format](ConvertDateFormat/convert_date_format.py)
 * [Minimum Distance to the Target Element](MinimumDistancetotheTargetElement/minimum_distance_to_the_target_element.py)
