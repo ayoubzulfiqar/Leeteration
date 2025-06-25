@@ -1,5 +1,6 @@
 
 ## Easy
+* [Second Largest Digit in a String](SecondLargestDigitinaString/second_largest_digit_in_a_string.py)
 * [Rearrange Products Table](RearrangeProductsTable/rearrange_products_table.py)
 * [Find Center of Star Graph](FindCenterofStarGraph/find_center_of_star_graph.py)
 * [Check if One String Swap Can Make Strings Equal](CheckifOneStringSwapCanMakeStringsEqual/check_if_one_string_swap_can_make_strings_equal.py)
