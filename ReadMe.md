@@ -1,5 +1,6 @@
 
 ## Easy
+* [Check if Every Row and Column Contains All Numbers](CheckifEveryRowandColumnContainsAllNumbers/check_if_every_row_and_column_contains_all_numbers.py)
 * [Capitalize the Title](CapitalizetheTitle/capitalize_the_title.py)
 * [Check if All A's Appears Before All B's](CheckifAllA'sAppearsBeforeAllB's/check_if_all_a's_appears_before_all_b's.py)
 * [A Number After a Double Reversal](ANumberAfteraDoubleReversal/a_number_after_a_double_reversal.py)
