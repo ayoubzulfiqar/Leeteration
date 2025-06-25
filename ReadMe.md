@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find Resultant Array After Removing Anagrams](FindResultantArrayAfterRemovingAnagrams/find_resultant_array_after_removing_anagrams.py)
 * [Find the K-Beauty of a Number](FindtheK-BeautyofaNumber/find_the_k-beauty_of_a_number.py)
 * [Largest 3-Same-Digit Number in String](Largest3-Same-DigitNumberinString/largest_3-same-digit_number_in_string.py)
 * [Remove Digit From Number to Maximize Result](RemoveDigitFromNumbertoMaximizeResult/remove_digit_from_number_to_maximize_result.py)
