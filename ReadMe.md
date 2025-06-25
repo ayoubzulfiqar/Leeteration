@@ -1,5 +1,6 @@
 
 ## Easy
+* [Reverse Prefix of Word](ReversePrefixofWord/reverse_prefix_of_word.py)
 * [Count Special Quadruplets](CountSpecialQuadruplets/count_special_quadruplets.py)
 * [Find the Middle Index in Array](FindtheMiddleIndexinArray/find_the_middle_index_in_array.py)
 * [Minimum Difference Between Highest and Lowest of K Scores](MinimumDifferenceBetweenHighestandLowestofKScores/minimum_difference_between_highest_and_lowest_of_k_scores.py)
