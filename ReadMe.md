@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count Number of Pairs With Absolute Difference K](CountNumberofPairsWithAbsoluteDifferenceK/count_number_of_pairs_with_absolute_difference_k.py)
 * [Reverse Prefix of Word](ReversePrefixofWord/reverse_prefix_of_word.py)
 * [Count Special Quadruplets](CountSpecialQuadruplets/count_special_quadruplets.py)
 * [Find the Middle Index in Array](FindtheMiddleIndexinArray/find_the_middle_index_in_array.py)
