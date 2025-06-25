@@ -1,5 +1,6 @@
 
 ## Easy
+* [Longest Nice Substring](LongestNiceSubstring/longest_nice_substring.py)
 * [Minimum Changes To Make Alternating Binary String](MinimumChangesToMakeAlternatingBinaryString/minimum_changes_to_make_alternating_binary_string.py)
 * [Recyclable and Low Fat Products](RecyclableandLowFatProducts/recyclable_and_low_fat_products.py)
 * [Check if Array Is Sorted and Rotated](CheckifArrayIsSortedandRotated/check_if_array_is_sorted_and_rotated.py)
