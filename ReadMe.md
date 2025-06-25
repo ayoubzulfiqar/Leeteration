@@ -1,5 +1,6 @@
 
 ## Easy
+* [Minimum Time to Type Word Using Special Typewriter](MinimumTimetoTypeWordUsingSpecialTypewriter/minimum_time_to_type_word_using_special_typewriter.py)
 * [Find if Path Exists in Graph](FindifPathExistsinGraph/find_if_path_exists_in_graph.py)
 * [Number of Strings That Appear as Substrings in Word](NumberofStringsThatAppearasSubstringsinWord/number_of_strings_that_appear_as_substrings_in_word.py)
 * [Employees With Missing Information](EmployeesWithMissingInformation/employees_with_missing_information.py)
