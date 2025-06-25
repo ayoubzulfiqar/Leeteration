@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count Items Matching a Rule](CountItemsMatchingaRule/count_items_matching_a_rule.py)
 * [Merge Strings Alternately](MergeStringsAlternately/merge_strings_alternately.py)
 * [Longest Nice Substring](LongestNiceSubstring/longest_nice_substring.py)
 * [Minimum Changes To Make Alternating Binary String](MinimumChangesToMakeAlternatingBinaryString/minimum_changes_to_make_alternating_binary_string.py)
