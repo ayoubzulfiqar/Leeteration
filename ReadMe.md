@@ -1,5 +1,6 @@
 
 ## Easy
+* [Two Furthest Houses With Different Colors](TwoFurthestHousesWithDifferentColors/two_furthest_houses_with_different_colors.py)
 * [Time Needed to Buy Tickets](TimeNeededtoBuyTickets/time_needed_to_buy_tickets.py)
 * [The Winner University](TheWinnerUniversity/the_winner_university.py)
 * [Check Whether Two Strings are Almost Equivalent](CheckWhetherTwoStringsareAlmostEquivalent/check_whether_two_strings_are_almost_equivalent.py)
