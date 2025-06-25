@@ -1,5 +1,6 @@
 
 ## Easy
+* [Calculate Digit Sum of a String](CalculateDigitSumofaString/calculate_digit_sum_of_a_string.py)
 * [Find Closest Number to Zero](FindClosestNumbertoZero/find_closest_number_to_zero.py)
 * [Root Equals Sum of Children](RootEqualsSumofChildren/root_equals_sum_of_children.py)
 * [Add Two Integers](AddTwoIntegers/add_two_integers.py)
