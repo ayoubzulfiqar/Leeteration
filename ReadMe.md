@@ -1,5 +1,6 @@
 
 ## Easy
+* [Remove Digit From Number to Maximize Result](RemoveDigitFromNumbertoMaximizeResult/remove_digit_from_number_to_maximize_result.py)
 * [Count Prefixes of a Given String](CountPrefixesofaGivenString/count_prefixes_of_a_given_string.py)
 * [Intersection of Multiple Arrays](IntersectionofMultipleArrays/intersection_of_multiple_arrays.py)
 * [Calculate Digit Sum of a String](CalculateDigitSumofaString/calculate_digit_sum_of_a_string.py)
