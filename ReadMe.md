@@ -1,5 +1,6 @@
 
 ## Easy
+* [Maximum Number of Balls in a Box](MaximumNumberofBallsinaBox/maximum_number_of_balls_in_a_box.py)
 * [Find Total Time Spent by Each Employee](FindTotalTimeSpentbyEachEmployee/find_total_time_spent_by_each_employee.py)
 * [Latest Time by Replacing Hidden Digits](LatestTimebyReplacingHiddenDigits/latest_time_by_replacing_hidden_digits.py)
 * [Find the Highest Altitude](FindtheHighestAltitude/find_the_highest_altitude.py)
