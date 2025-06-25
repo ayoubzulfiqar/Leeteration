@@ -1,5 +1,6 @@
 
 ## Easy
+* [Calculate Amount Paid in Taxes](CalculateAmountPaidinTaxes/calculate_amount_paid_in_taxes.py)
 * [Strong Password Checker II](StrongPasswordCheckerII/strong_password_checker_ii.py)
 * [Min Max Game](MinMaxGame/min_max_game.py)
 * [Rearrange Characters to Make Target String](RearrangeCharacterstoMakeTargetString/rearrange_characters_to_make_target_string.py)
