@@ -1,5 +1,6 @@
 
 ## Easy
+* [Check if the Sentence Is Pangram](CheckiftheSentenceIsPangram/check_if_the_sentence_is_pangram.py)
 * [Minimum Operations to Make the Array Increasing](MinimumOperationstoMaketheArrayIncreasing/minimum_operations_to_make_the_array_increasing.py)
 * [Faulty Sensor](FaultySensor/faulty_sensor.py)
 * [Sign of the Product of an Array](SignoftheProductofanArray/sign_of_the_product_of_an_array.py)
