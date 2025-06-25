@@ -1,5 +1,6 @@
 
 ## Easy
+* [Latest Time by Replacing Hidden Digits](LatestTimebyReplacingHiddenDigits/latest_time_by_replacing_hidden_digits.py)
 * [Find the Highest Altitude](FindtheHighestAltitude/find_the_highest_altitude.py)
 * [The Number of Employees Which Report to Each Employee](TheNumberofEmployeesWhichReporttoEachEmployee/the_number_of_employees_which_report_to_each_employee.py)
 * [Find Followers Count](FindFollowersCount/find_followers_count.py)
