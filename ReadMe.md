@@ -1,5 +1,6 @@
 
 ## Easy
+* [Number of Students Unable to Eat Lunch](NumberofStudentsUnabletoEatLunch/number_of_students_unable_to_eat_lunch.py)
 * [Reformat Phone Number](ReformatPhoneNumber/reformat_phone_number.py)
 * [Daily Leads and Partners](DailyLeadsandPartners/daily_leads_and_partners.py)
 * [Count of Matches in Tournament](CountofMatchesinTournament/count_of_matches_in_tournament.py)
