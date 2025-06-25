@@ -1,5 +1,6 @@
 
 ## Easy
+* [A Number After a Double Reversal](ANumberAfteraDoubleReversal/a_number_after_a_double_reversal.py)
 * [Maximum Number of Words Found in Sentences](MaximumNumberofWordsFoundinSentences/maximum_number_of_words_found_in_sentences.py)
 * [Find First Palindromic String in the Array](FindFirstPalindromicStringintheArray/find_first_palindromic_string_in_the_array.py)
 * [Rings and Rods](RingsandRods/rings_and_rods.py)
