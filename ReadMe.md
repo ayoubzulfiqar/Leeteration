@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find Subarrays With Equal Sum](FindSubarraysWithEqualSum/find_subarrays_with_equal_sum.py)
 * [Longest Subsequence With Limited Sum](LongestSubsequenceWithLimitedSum/longest_subsequence_with_limited_sum.py)
 * [Minimum Hours of Training to Win a Competition](MinimumHoursofTrainingtoWinaCompetition/minimum_hours_of_training_to_win_a_competition.py)
 * [Minimum Recolors to Get K Consecutive Black Blocks](MinimumRecolorstoGetKConsecutiveBlackBlocks/minimum_recolors_to_get_k_consecutive_black_blocks.py)
