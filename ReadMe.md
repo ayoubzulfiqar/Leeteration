@@ -1,5 +1,6 @@
 
 ## Easy
+* [Counting Words With a Given Prefix](CountingWordsWithaGivenPrefix/counting_words_with_a_given_prefix.py)
 * [Count Integers With Even Digit Sum](CountIntegersWithEvenDigitSum/count_integers_with_even_digit_sum.py)
 * [Count Equal and Divisible Pairs in an Array](CountEqualandDivisiblePairsinanArray/count_equal_and_divisible_pairs_in_an_array.py)
 * [Count Operations to Obtain Zero](CountOperationstoObtainZero/count_operations_to_obtain_zero.py)
