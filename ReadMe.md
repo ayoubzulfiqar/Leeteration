@@ -1,5 +1,6 @@
 
 ## Easy
+* [Merge Strings Alternately](MergeStringsAlternately/merge_strings_alternately.py)
 * [Longest Nice Substring](LongestNiceSubstring/longest_nice_substring.py)
 * [Minimum Changes To Make Alternating Binary String](MinimumChangesToMakeAlternatingBinaryString/minimum_changes_to_make_alternating_binary_string.py)
 * [Recyclable and Low Fat Products](RecyclableandLowFatProducts/recyclable_and_low_fat_products.py)
