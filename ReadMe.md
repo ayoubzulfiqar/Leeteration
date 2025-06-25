@@ -1,5 +1,6 @@
 
 ## Easy
+* [Check if Binary String Has at Most One Segment of Ones](CheckifBinaryStringHasatMostOneSegmentofOnes/check_if_binary_string_has_at_most_one_segment_of_ones.py)
 * [Find Nearest Point That Has the Same X or Y Coordinate](FindNearestPointThatHastheSameXorYCoordinate/find_nearest_point_that_has_the_same_x_or_y_coordinate.py)
 * [Product's Price for Each Store](Product'sPriceforEachStore/product's_price_for_each_store.py)
 * [Count Items Matching a Rule](CountItemsMatchingaRule/count_items_matching_a_rule.py)
