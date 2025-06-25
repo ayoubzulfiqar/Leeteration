@@ -1,5 +1,6 @@
 
 ## Easy
+* [Sort Even and Odd Indices Independently](SortEvenandOddIndicesIndependently/sort_even_and_odd_indices_independently.py)
 * [Minimum Sum of Four Digit Number After Splitting Digits](MinimumSumofFourDigitNumberAfterSplittingDigits/minimum_sum_of_four_digit_number_after_splitting_digits.py)
 * [Keep Multiplying Found Values by Two](KeepMultiplyingFoundValuesbyTwo/keep_multiplying_found_values_by_two.py)
 * [Count Elements With Strictly Smaller and Greater Elements ](CountElementsWithStrictlySmallerandGreaterElements/count_elements_with_strictly_smaller_and_greater_elements_.py)
