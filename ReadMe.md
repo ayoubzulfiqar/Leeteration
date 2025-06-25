@@ -1,5 +1,6 @@
 
 ## Easy
+* [Determine Color of a Chessboard Square](DetermineColorofaChessboardSquare/determine_color_of_a_chessboard_square.py)
 * [Ad-Free Sessions](Ad-FreeSessions/ad-free_sessions.py)
 * [Number of Different Integers in a String](NumberofDifferentIntegersinaString/number_of_different_integers_in_a_string.py)
 * [Maximum Ascending Subarray Sum](MaximumAscendingSubarraySum/maximum_ascending_subarray_sum.py)
