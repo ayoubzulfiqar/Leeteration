@@ -1,5 +1,6 @@
 
 ## Easy
+* [Root Equals Sum of Children](RootEqualsSumofChildren/root_equals_sum_of_children.py)
 * [Add Two Integers](AddTwoIntegers/add_two_integers.py)
 * [Largest Number After Digit Swaps by Parity](LargestNumberAfterDigitSwapsbyParity/largest_number_after_digit_swaps_by_parity.py)
 * [The Users That Are Eligible for Discount](TheUsersThatAreEligibleforDiscount/the_users_that_are_eligible_for_discount.py)
