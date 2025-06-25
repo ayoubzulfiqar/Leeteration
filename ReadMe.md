@@ -1,5 +1,6 @@
 
 ## Easy
+* [Longer Contiguous Segments of Ones than Zeros](LongerContiguousSegmentsofOnesthanZeros/longer_contiguous_segments_of_ones_than_zeros.py)
 * [Sum of All Subset XOR Totals](SumofAllSubsetXORTotals/sum_of_all_subset_xor_totals.py)
 * [Sorting the Sentence](SortingtheSentence/sorting_the_sentence.py)
 * [Maximum Population Year](MaximumPopulationYear/maximum_population_year.py)
