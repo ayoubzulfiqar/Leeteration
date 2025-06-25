@@ -1,5 +1,6 @@
 
 ## Easy
+* [Make Array Zero by Subtracting Equal Amounts](MakeArrayZerobySubtractingEqualAmounts/make_array_zero_by_subtracting_equal_amounts.py)
 * [Number of Unique Subjects Taught by Each Teacher](NumberofUniqueSubjectsTaughtbyEachTeacher/number_of_unique_subjects_taught_by_each_teacher.py)
 * [First Letter to Appear Twice](FirstLettertoAppearTwice/first_letter_to_appear_twice.py)
 * [Best Poker Hand](BestPokerHand/best_poker_hand.py)
