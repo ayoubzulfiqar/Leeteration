@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find if Path Exists in Graph](FindifPathExistsinGraph/find_if_path_exists_in_graph.py)
 * [Number of Strings That Appear as Substrings in Word](NumberofStringsThatAppearasSubstringsinWord/number_of_strings_that_appear_as_substrings_in_word.py)
 * [Employees With Missing Information](EmployeesWithMissingInformation/employees_with_missing_information.py)
 * [Check If String Is a Prefix of Array](CheckIfStringIsaPrefixofArray/check_if_string_is_a_prefix_of_array.py)
