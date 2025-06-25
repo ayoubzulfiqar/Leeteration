@@ -1,5 +1,6 @@
 
 ## Easy
+* [Check if All Characters Have Equal Number of Occurrences](CheckifAllCharactersHaveEqualNumberofOccurrences/check_if_all_characters_have_equal_number_of_occurrences.py)
 * [Users That Actively Request Confirmation Messages](UsersThatActivelyRequestConfirmationMessages/users_that_actively_request_confirmation_messages.py)
 * [Maximum Number of Words You Can Type](MaximumNumberofWordsYouCanType/maximum_number_of_words_you_can_type.py)
 * [Check if String Is Decomposable Into Value-Equal Substrings](CheckifStringIsDecomposableIntoValue-EqualSubstrings/check_if_string_is_decomposable_into_value-equal_substrings.py)
