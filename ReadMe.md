@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count Operations to Obtain Zero](CountOperationstoObtainZero/count_operations_to_obtain_zero.py)
 * [Sort Even and Odd Indices Independently](SortEvenandOddIndicesIndependently/sort_even_and_odd_indices_independently.py)
 * [Minimum Sum of Four Digit Number After Splitting Digits](MinimumSumofFourDigitNumberAfterSplittingDigits/minimum_sum_of_four_digit_number_after_splitting_digits.py)
 * [Keep Multiplying Found Values by Two](KeepMultiplyingFoundValuesbyTwo/keep_multiplying_found_values_by_two.py)
