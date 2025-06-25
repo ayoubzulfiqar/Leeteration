@@ -1,5 +1,6 @@
 
 ## Easy
+* [Employees With Missing Information](EmployeesWithMissingInformation/employees_with_missing_information.py)
 * [Check If String Is a Prefix of Array](CheckIfStringIsaPrefixofArray/check_if_string_is_a_prefix_of_array.py)
 * [Delete Characters to Make Fancy String](DeleteCharacterstoMakeFancyString/delete_characters_to_make_fancy_string.py)
 * [Three Divisors](ThreeDivisors/three_divisors.py)
