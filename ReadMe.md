@@ -1,5 +1,6 @@
 
 ## Easy
+* [The Latest Login in 2020](TheLatestLoginin2020/the_latest_login_in_2020.py)
 * [Determine Whether Matrix Can Be Obtained By Rotation](DetermineWhetherMatrixCanBeObtainedByRotation/determine_whether_matrix_can_be_obtained_by_rotation.py)
 * [Check if Word Equals Summation of Two Words](CheckifWordEqualsSummationofTwoWords/check_if_word_equals_summation_of_two_words.py)
 * [Substrings of Size Three with Distinct Characters](SubstringsofSizeThreewithDistinctCharacters/substrings_of_size_three_with_distinct_characters.py)
