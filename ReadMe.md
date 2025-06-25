@@ -1,5 +1,6 @@
 
 ## Easy
+* [Check if Number Has Equal Digit Count and Digit Value](CheckifNumberHasEqualDigitCountandDigitValue/check_if_number_has_equal_digit_count_and_digit_value.py)
 * [Percentage of Letter in String](PercentageofLetterinString/percentage_of_letter_in_string.py)
 * [Find Resultant Array After Removing Anagrams](FindResultantArrayAfterRemovingAnagrams/find_resultant_array_after_removing_anagrams.py)
 * [Find the K-Beauty of a Number](FindtheK-BeautyofaNumber/find_the_k-beauty_of_a_number.py)
