@@ -1,5 +1,6 @@
 
 ## Easy
+* [Sum of All Subset XOR Totals](SumofAllSubsetXORTotals/sum_of_all_subset_xor_totals.py)
 * [Sorting the Sentence](SortingtheSentence/sorting_the_sentence.py)
 * [Maximum Population Year](MaximumPopulationYear/maximum_population_year.py)
 * [Convert Date Format](ConvertDateFormat/convert_date_format.py)
