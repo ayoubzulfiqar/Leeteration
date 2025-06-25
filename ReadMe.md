@@ -1,5 +1,6 @@
 
 ## Easy
+* [Minimum Distance to the Target Element](MinimumDistancetotheTargetElement/minimum_distance_to_the_target_element.py)
 * [Replace All Digits with Characters](ReplaceAllDigitswithCharacters/replace_all_digits_with_characters.py)
 * [Sum of Digits in Base K](SumofDigitsinBaseK/sum_of_digits_in_base_k.py)
 * [Check if the Sentence Is Pangram](CheckiftheSentenceIsPangram/check_if_the_sentence_is_pangram.py)
