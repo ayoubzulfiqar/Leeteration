@@ -1,5 +1,6 @@
 
 ## Easy
+* [The Number of Rich Customers](TheNumberofRichCustomers/the_number_of_rich_customers.py)
 * [Two Furthest Houses With Different Colors](TwoFurthestHousesWithDifferentColors/two_furthest_houses_with_different_colors.py)
 * [Time Needed to Buy Tickets](TimeNeededtoBuyTickets/time_needed_to_buy_tickets.py)
 * [The Winner University](TheWinnerUniversity/the_winner_university.py)
