@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find First Palindromic String in the Array](FindFirstPalindromicStringintheArray/find_first_palindromic_string_in_the_array.py)
 * [Rings and Rods](RingsandRods/rings_and_rods.py)
 * [Find Subsequence of Length K With the Largest Sum](FindSubsequenceofLengthKWiththeLargestSum/find_subsequence_of_length_k_with_the_largest_sum.py)
 * [Finding 3-Digit Even Numbers](Finding3-DigitEvenNumbers/finding_3-digit_even_numbers.py)
