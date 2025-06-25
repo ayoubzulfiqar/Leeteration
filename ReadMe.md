@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find All K-Distant Indices in an Array](FindAllK-DistantIndicesinanArray/find_all_k-distant_indices_in_an_array.py)
 * [Cells in a Range on an Excel Sheet](CellsinaRangeonanExcelSheet/cells_in_a_range_on_an_excel_sheet.py)
 * [Most Frequent Number Following Key In an Array](MostFrequentNumberFollowingKeyInanArray/most_frequent_number_following_key_in_an_array.py)
 * [Counting Words With a Given Prefix](CountingWordsWithaGivenPrefix/counting_words_with_a_given_prefix.py)
