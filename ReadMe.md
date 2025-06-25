@@ -1,5 +1,6 @@
 
 ## Easy
+* [Three Divisors](ThreeDivisors/three_divisors.py)
 * [Sum of Digits of String After Convert](SumofDigitsofStringAfterConvert/sum_of_digits_of_string_after_convert.py)
 * [Check if All Characters Have Equal Number of Occurrences](CheckifAllCharactersHaveEqualNumberofOccurrences/check_if_all_characters_have_equal_number_of_occurrences.py)
 * [Users That Actively Request Confirmation Messages](UsersThatActivelyRequestConfirmationMessages/users_that_actively_request_confirmation_messages.py)
