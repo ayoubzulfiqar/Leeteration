@@ -1,5 +1,6 @@
 
 ## Easy
+* [Replace All Digits with Characters](ReplaceAllDigitswithCharacters/replace_all_digits_with_characters.py)
 * [Sum of Digits in Base K](SumofDigitsinBaseK/sum_of_digits_in_base_k.py)
 * [Check if the Sentence Is Pangram](CheckiftheSentenceIsPangram/check_if_the_sentence_is_pangram.py)
 * [Minimum Operations to Make the Array Increasing](MinimumOperationstoMaketheArrayIncreasing/minimum_operations_to_make_the_array_increasing.py)
