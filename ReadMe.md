@@ -1,5 +1,6 @@
 
 ## Easy
+* [All the Matches of the League](AlltheMatchesoftheLeague/all_the_matches_of_the_league.py)
 * [Minimum Amount of Time to Fill Cups](MinimumAmountofTimetoFillCups/minimum_amount_of_time_to_fill_cups.py)
 * [Evaluate Boolean Binary Tree](EvaluateBooleanBinaryTree/evaluate_boolean_binary_tree.py)
 * [Product Sales Analysis V](ProductSalesAnalysisV/product_sales_analysis_v.py)
