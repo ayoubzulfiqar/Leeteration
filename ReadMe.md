@@ -1,5 +1,6 @@
 
 ## Easy
+* [Time Needed to Buy Tickets](TimeNeededtoBuyTickets/time_needed_to_buy_tickets.py)
 * [The Winner University](TheWinnerUniversity/the_winner_university.py)
 * [Check Whether Two Strings are Almost Equivalent](CheckWhetherTwoStringsareAlmostEquivalent/check_whether_two_strings_are_almost_equivalent.py)
 * [Count Vowel Substrings of a String](CountVowelSubstringsofaString/count_vowel_substrings_of_a_string.py)
