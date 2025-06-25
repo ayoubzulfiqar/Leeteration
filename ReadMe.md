@@ -1,5 +1,6 @@
 
 ## Easy
+* [Divide Array Into Equal Pairs](DivideArrayIntoEqualPairs/divide_array_into_equal_pairs.py)
 * [The Number of Users That Are Eligible for Discount](TheNumberofUsersThatAreEligibleforDiscount/the_number_of_users_that_are_eligible_for_discount.py)
 * [Find All K-Distant Indices in an Array](FindAllK-DistantIndicesinanArray/find_all_k-distant_indices_in_an_array.py)
 * [Cells in a Range on an Excel Sheet](CellsinaRangeonanExcelSheet/cells_in_a_range_on_an_excel_sheet.py)
