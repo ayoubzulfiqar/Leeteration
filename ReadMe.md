@@ -1,5 +1,6 @@
 
 ## Easy
+* [Keep Multiplying Found Values by Two](KeepMultiplyingFoundValuesbyTwo/keep_multiplying_found_values_by_two.py)
 * [Count Elements With Strictly Smaller and Greater Elements ](CountElementsWithStrictlySmallerandGreaterElements/count_elements_with_strictly_smaller_and_greater_elements_.py)
 * [Minimum Cost of Buying Candies With Discount](MinimumCostofBuyingCandiesWithDiscount/minimum_cost_of_buying_candies_with_discount.py)
 * [Divide a String Into Groups of Size k](DivideaStringIntoGroupsofSizek/divide_a_string_into_groups_of_size_k.py)
