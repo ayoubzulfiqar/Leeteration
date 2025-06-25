@@ -1,5 +1,6 @@
 
 ## Easy
+* [The Users That Are Eligible for Discount](TheUsersThatAreEligibleforDiscount/the_users_that_are_eligible_for_discount.py)
 * [Check if an Array Is Consecutive](CheckifanArrayIsConsecutive/check_if_an_array_is_consecutive.py)
 * [Minimum Number of Operations to Convert Time](MinimumNumberofOperationstoConvertTime/minimum_number_of_operations_to_convert_time.py)
 * [Minimum Bit Flips to Convert Number](MinimumBitFlipstoConvertNumber/minimum_bit_flips_to_convert_number.py)
