@@ -1,5 +1,6 @@
 
 ## Easy
+* [Remove Letter To Equalize Frequency](RemoveLetterToEqualizeFrequency/remove_letter_to_equalize_frequency.py)
 * [Sort the People](SortthePeople/sort_the_people.py)
 * [Smallest Even Multiple](SmallestEvenMultiple/smallest_even_multiple.py)
 * [Count Days Spent Together](CountDaysSpentTogether/count_days_spent_together.py)
