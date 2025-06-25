@@ -1,5 +1,6 @@
 
 ## Easy
+* [Kth Distinct String in an Array](KthDistinctStringinanArray/kth_distinct_string_in_an_array.py)
 * [Number of Valid Words in a Sentence](NumberofValidWordsinaSentence/number_of_valid_words_in_a_sentence.py)
 * [Check if Numbers Are Ascending in a Sentence](CheckifNumbersAreAscendinginaSentence/check_if_numbers_are_ascending_in_a_sentence.py)
 * [Minimum Number of Moves to Seat Everyone](MinimumNumberofMovestoSeatEveryone/minimum_number_of_moves_to_seat_everyone.py)
