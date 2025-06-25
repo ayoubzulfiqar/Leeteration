@@ -1,5 +1,6 @@
 
 ## Easy
+* [Decode the Message](DecodetheMessage/decode_the_message.py)
 * [Check if Matrix Is X-Matrix](CheckifMatrixIsX-Matrix/check_if_matrix_is_x-matrix.py)
 * [Count Asterisks](CountAsterisks/count_asterisks.py)
 * [Greatest English Letter in Upper and Lower Case](GreatestEnglishLetterinUpperandLowerCase/greatest_english_letter_in_upper_and_lower_case.py)
