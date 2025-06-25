@@ -1,5 +1,6 @@
 
 ## Easy
+* [Check Distances Between Same Letters](CheckDistancesBetweenSameLetters/check_distances_between_same_letters.py)
 * [Find Subarrays With Equal Sum](FindSubarraysWithEqualSum/find_subarrays_with_equal_sum.py)
 * [Longest Subsequence With Limited Sum](LongestSubsequenceWithLimitedSum/longest_subsequence_with_limited_sum.py)
 * [Minimum Hours of Training to Win a Competition](MinimumHoursofTrainingtoWinaCompetition/minimum_hours_of_training_to_win_a_competition.py)
