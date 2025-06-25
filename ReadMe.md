@@ -1,5 +1,6 @@
 
 ## Easy
+* [Minimum Changes To Make Alternating Binary String](MinimumChangesToMakeAlternatingBinaryString/minimum_changes_to_make_alternating_binary_string.py)
 * [Recyclable and Low Fat Products](RecyclableandLowFatProducts/recyclable_and_low_fat_products.py)
 * [Check if Array Is Sorted and Rotated](CheckifArrayIsSortedandRotated/check_if_array_is_sorted_and_rotated.py)
 * [Sum of Unique Elements](SumofUniqueElements/sum_of_unique_elements.py)
