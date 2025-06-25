@@ -1,5 +1,6 @@
 
 ## Easy
+* [Low-Quality Problems](Low-QualityProblems/low-quality_problems.py)
 * [Convert 1D Array Into 2D Array](Convert1DArrayInto2DArray/convert_1d_array_into_2d_array.py)
 * [Maximum Difference Between Increasing Elements](MaximumDifferenceBetweenIncreasingElements/maximum_difference_between_increasing_elements.py)
 * [Final Value of Variable After Performing Operations](FinalValueofVariableAfterPerformingOperations/final_value_of_variable_after_performing_operations.py)
