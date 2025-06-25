@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find the Difference of Two Arrays](FindtheDifferenceofTwoArrays/find_the_difference_of_two_arrays.py)
 * [Count Hills and Valleys in an Array](CountHillsandValleysinanArray/count_hills_and_valleys_in_an_array.py)
 * [Divide Array Into Equal Pairs](DivideArrayIntoEqualPairs/divide_array_into_equal_pairs.py)
 * [The Number of Users That Are Eligible for Discount](TheNumberofUsersThatAreEligibleforDiscount/the_number_of_users_that_are_eligible_for_discount.py)
