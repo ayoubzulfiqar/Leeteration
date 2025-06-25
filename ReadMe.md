@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count of Matches in Tournament](CountofMatchesinTournament/count_of_matches_in_tournament.py)
 * [Count the Number of Consistent Strings](CounttheNumberofConsistentStrings/count_the_number_of_consistent_strings.py)
 * [Invalid Tweets](InvalidTweets/invalid_tweets.py)
 * [Goal Parser Interpretation](GoalParserInterpretation/goal_parser_interpretation.py)
