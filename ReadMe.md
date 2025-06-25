@@ -1,5 +1,6 @@
 
 ## Easy
+* [Sign of the Product of an Array](SignoftheProductofanArray/sign_of_the_product_of_an_array.py)
 * [Find Customers With Positive Revenue this Year](FindCustomersWithPositiveRevenuethisYear/find_customers_with_positive_revenue_this_year.py)
 * [Truncate Sentence](TruncateSentence/truncate_sentence.py)
 * [Determine Color of a Chessboard Square](DetermineColorofaChessboardSquare/determine_color_of_a_chessboard_square.py)
