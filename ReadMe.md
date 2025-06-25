@@ -1,5 +1,6 @@
 
 ## Easy
+* [Two Out of Three](TwoOutofThree/two_out_of_three.py)
 * [Minimum Moves to Convert String](MinimumMovestoConvertString/minimum_moves_to_convert_string.py)
 * [Low-Quality Problems](Low-QualityProblems/low-quality_problems.py)
 * [Convert 1D Array Into 2D Array](Convert1DArrayInto2DArray/convert_1d_array_into_2d_array.py)
