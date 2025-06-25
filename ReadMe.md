@@ -1,5 +1,6 @@
 
 ## Easy
+* [Minimum Difference Between Highest and Lowest of K Scores](MinimumDifferenceBetweenHighestandLowestofKScores/minimum_difference_between_highest_and_lowest_of_k_scores.py)
 * [Find Greatest Common Divisor of Array](FindGreatestCommonDivisorofArray/find_greatest_common_divisor_of_array.py)
 * [Employees Whose Manager Left the Company](EmployeesWhoseManagerLefttheCompany/employees_whose_manager_left_the_company.py)
 * [Minimum Time to Type Word Using Special Typewriter](MinimumTimetoTypeWordUsingSpecialTypewriter/minimum_time_to_type_word_using_special_typewriter.py)
