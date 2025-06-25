@@ -1,5 +1,6 @@
 
 ## Easy
+* [Min Max Game](MinMaxGame/min_max_game.py)
 * [Rearrange Characters to Make Target String](RearrangeCharacterstoMakeTargetString/rearrange_characters_to_make_target_string.py)
 * [Check if Number Has Equal Digit Count and Digit Value](CheckifNumberHasEqualDigitCountandDigitValue/check_if_number_has_equal_digit_count_and_digit_value.py)
 * [Percentage of Letter in String](PercentageofLetterinString/percentage_of_letter_in_string.py)
