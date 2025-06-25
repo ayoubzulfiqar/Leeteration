@@ -1,5 +1,6 @@
 
 ## Easy
+* [Smallest Even Multiple](SmallestEvenMultiple/smallest_even_multiple.py)
 * [Count Days Spent Together](CountDaysSpentTogether/count_days_spent_together.py)
 * [Most Frequent Even Element](MostFrequentEvenElement/most_frequent_even_element.py)
 * [Check Distances Between Same Letters](CheckDistancesBetweenSameLetters/check_distances_between_same_letters.py)
