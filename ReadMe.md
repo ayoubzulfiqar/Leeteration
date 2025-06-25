@@ -1,5 +1,6 @@
 
 ## Easy
+* [Maximum Product Difference Between Two Pairs](MaximumProductDifferenceBetweenTwoPairs/maximum_product_difference_between_two_pairs.py)
 * [Remove One Element to Make the Array Strictly Increasing](RemoveOneElementtoMaketheArrayStrictlyIncreasing/remove_one_element_to_make_the_array_strictly_increasing.py)
 * [Largest Odd Number in String](LargestOddNumberinString/largest_odd_number_in_string.py)
 * [Redistribute Characters to Make All Strings Equal](RedistributeCharacterstoMakeAllStringsEqual/redistribute_characters_to_make_all_strings_equal.py)
