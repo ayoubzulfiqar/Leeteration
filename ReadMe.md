@@ -1,5 +1,6 @@
 
 ## Easy
+* [Final Value of Variable After Performing Operations](FinalValueofVariableAfterPerformingOperations/final_value_of_variable_after_performing_operations.py)
 * [Count Number of Pairs With Absolute Difference K](CountNumberofPairsWithAbsoluteDifferenceK/count_number_of_pairs_with_absolute_difference_k.py)
 * [Reverse Prefix of Word](ReversePrefixofWord/reverse_prefix_of_word.py)
 * [Count Special Quadruplets](CountSpecialQuadruplets/count_special_quadruplets.py)
