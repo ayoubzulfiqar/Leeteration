@@ -1,5 +1,6 @@
 
 ## Easy
+* [Percentage of Letter in String](PercentageofLetterinString/percentage_of_letter_in_string.py)
 * [Find Resultant Array After Removing Anagrams](FindResultantArrayAfterRemovingAnagrams/find_resultant_array_after_removing_anagrams.py)
 * [Find the K-Beauty of a Number](FindtheK-BeautyofaNumber/find_the_k-beauty_of_a_number.py)
 * [Largest 3-Same-Digit Number in String](Largest3-Same-DigitNumberinString/largest_3-same-digit_number_in_string.py)
