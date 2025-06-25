@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count Equal and Divisible Pairs in an Array](CountEqualandDivisiblePairsinanArray/count_equal_and_divisible_pairs_in_an_array.py)
 * [Count Operations to Obtain Zero](CountOperationstoObtainZero/count_operations_to_obtain_zero.py)
 * [Sort Even and Odd Indices Independently](SortEvenandOddIndicesIndependently/sort_even_and_odd_indices_independently.py)
 * [Minimum Sum of Four Digit Number After Splitting Digits](MinimumSumofFourDigitNumberAfterSplittingDigits/minimum_sum_of_four_digit_number_after_splitting_digits.py)
