@@ -1,5 +1,6 @@
 
 ## Easy
+* [Daily Leads and Partners](DailyLeadsandPartners/daily_leads_and_partners.py)
 * [Count of Matches in Tournament](CountofMatchesinTournament/count_of_matches_in_tournament.py)
 * [Count the Number of Consistent Strings](CounttheNumberofConsistentStrings/count_the_number_of_consistent_strings.py)
 * [Invalid Tweets](InvalidTweets/invalid_tweets.py)
