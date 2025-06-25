@@ -1,5 +1,6 @@
 
 ## Easy
+* [Check if One String Swap Can Make Strings Equal](CheckifOneStringSwapCanMakeStringsEqual/check_if_one_string_swap_can_make_strings_equal.py)
 * [Primary Department for Each Employee](PrimaryDepartmentforEachEmployee/primary_department_for_each_employee.py)
 * [Check if Binary String Has at Most One Segment of Ones](CheckifBinaryStringHasatMostOneSegmentofOnes/check_if_binary_string_has_at_most_one_segment_of_ones.py)
 * [Find Nearest Point That Has the Same X or Y Coordinate](FindNearestPointThatHastheSameXorYCoordinate/find_nearest_point_that_has_the_same_x_or_y_coordinate.py)
