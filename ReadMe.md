@@ -1,5 +1,6 @@
 
 ## Easy
+* [Minimum Hours of Training to Win a Competition](MinimumHoursofTrainingtoWinaCompetition/minimum_hours_of_training_to_win_a_competition.py)
 * [Minimum Recolors to Get K Consecutive Black Blocks](MinimumRecolorstoGetKConsecutiveBlackBlocks/minimum_recolors_to_get_k_consecutive_black_blocks.py)
 * [Sort the Olympic Table](SorttheOlympicTable/sort_the_olympic_table.py)
 * [Largest Local Values in a Matrix](LargestLocalValuesinaMatrix/largest_local_values_in_a_matrix.py)
