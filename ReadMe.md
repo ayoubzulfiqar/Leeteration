@@ -1,5 +1,6 @@
 
 ## Easy
+* [Determine if String Halves Are Alike](DetermineifStringHalvesAreAlike/determine_if_string_halves_are_alike.py)
 * [Number of Students Unable to Eat Lunch](NumberofStudentsUnabletoEatLunch/number_of_students_unable_to_eat_lunch.py)
 * [Reformat Phone Number](ReformatPhoneNumber/reformat_phone_number.py)
 * [Daily Leads and Partners](DailyLeadsandPartners/daily_leads_and_partners.py)
