@@ -1,5 +1,6 @@
 
 ## Easy
+* [Delete Characters to Make Fancy String](DeleteCharacterstoMakeFancyString/delete_characters_to_make_fancy_string.py)
 * [Three Divisors](ThreeDivisors/three_divisors.py)
 * [Sum of Digits of String After Convert](SumofDigitsofStringAfterConvert/sum_of_digits_of_string_after_convert.py)
 * [Check if All Characters Have Equal Number of Occurrences](CheckifAllCharactersHaveEqualNumberofOccurrences/check_if_all_characters_have_equal_number_of_occurrences.py)
