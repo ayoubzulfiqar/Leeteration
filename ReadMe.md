@@ -1,5 +1,6 @@
 
 ## Easy
+* [Capitalize the Title](CapitalizetheTitle/capitalize_the_title.py)
 * [Check if All A's Appears Before All B's](CheckifAllA'sAppearsBeforeAllB's/check_if_all_a's_appears_before_all_b's.py)
 * [A Number After a Double Reversal](ANumberAfteraDoubleReversal/a_number_after_a_double_reversal.py)
 * [Maximum Number of Words Found in Sentences](MaximumNumberofWordsFoundinSentences/maximum_number_of_words_found_in_sentences.py)
