@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find Nearest Point That Has the Same X or Y Coordinate](FindNearestPointThatHastheSameXorYCoordinate/find_nearest_point_that_has_the_same_x_or_y_coordinate.py)
 * [Product's Price for Each Store](Product'sPriceforEachStore/product's_price_for_each_store.py)
 * [Count Items Matching a Rule](CountItemsMatchingaRule/count_items_matching_a_rule.py)
 * [Merge Strings Alternately](MergeStringsAlternately/merge_strings_alternately.py)
