@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count Square Sum Triples](CountSquareSumTriples/count_square_sum_triples.py)
 * [Build Array from Permutation](BuildArrayfromPermutation/build_array_from_permutation.py)
 * [Maximum Product Difference Between Two Pairs](MaximumProductDifferenceBetweenTwoPairs/maximum_product_difference_between_two_pairs.py)
 * [Remove One Element to Make the Array Strictly Increasing](RemoveOneElementtoMaketheArrayStrictlyIncreasing/remove_one_element_to_make_the_array_strictly_increasing.py)
