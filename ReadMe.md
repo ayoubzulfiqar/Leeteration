@@ -1,5 +1,6 @@
 
 ## Easy
+* [Divide a String Into Groups of Size k](DivideaStringIntoGroupsofSizek/divide_a_string_into_groups_of_size_k.py)
 * [Check if Every Row and Column Contains All Numbers](CheckifEveryRowandColumnContainsAllNumbers/check_if_every_row_and_column_contains_all_numbers.py)
 * [Capitalize the Title](CapitalizetheTitle/capitalize_the_title.py)
 * [Check if All A's Appears Before All B's](CheckifAllA'sAppearsBeforeAllB's/check_if_all_a's_appears_before_all_b's.py)
