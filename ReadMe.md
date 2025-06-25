@@ -1,5 +1,6 @@
 
 ## Easy
+* [Recyclable and Low Fat Products](RecyclableandLowFatProducts/recyclable_and_low_fat_products.py)
 * [Check if Array Is Sorted and Rotated](CheckifArrayIsSortedandRotated/check_if_array_is_sorted_and_rotated.py)
 * [Sum of Unique Elements](SumofUniqueElements/sum_of_unique_elements.py)
 * [Maximum Number of Balls in a Box](MaximumNumberofBallsinaBox/maximum_number_of_balls_in_a_box.py)
