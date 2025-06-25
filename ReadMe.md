@@ -1,5 +1,6 @@
 
 ## Easy
+* [Finding 3-Digit Even Numbers](Finding3-DigitEvenNumbers/finding_3-digit_even_numbers.py)
 * [Find Target Indices After Sorting Array](FindTargetIndicesAfterSortingArray/find_target_indices_after_sorting_array.py)
 * [Count Common Words With One Occurrence](CountCommonWordsWithOneOccurrence/count_common_words_with_one_occurrence.py)
 * [The Number of Rich Customers](TheNumberofRichCustomers/the_number_of_rich_customers.py)
