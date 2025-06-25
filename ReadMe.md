@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find Followers Count](FindFollowersCount/find_followers_count.py)
 * [Number Of Rectangles That Can Form The Largest Square](NumberOfRectanglesThatCanFormTheLargestSquare/number_of_rectangles_that_can_form_the_largest_square.py)
 * [Decode XORed Array](DecodeXORedArray/decode_xored_array.py)
 * [Calculate Money in Leetcode Bank](CalculateMoneyinLeetcodeBank/calculate_money_in_leetcode_bank.py)
