@@ -1,5 +1,6 @@
 
 ## Easy
+* [Check if Word Equals Summation of Two Words](CheckifWordEqualsSummationofTwoWords/check_if_word_equals_summation_of_two_words.py)
 * [Substrings of Size Three with Distinct Characters](SubstringsofSizeThreewithDistinctCharacters/substrings_of_size_three_with_distinct_characters.py)
 * [Calculate Special Bonus](CalculateSpecialBonus/calculate_special_bonus.py)
 * [Longer Contiguous Segments of Ones than Zeros](LongerContiguousSegmentsofOnesthanZeros/longer_contiguous_segments_of_ones_than_zeros.py)
