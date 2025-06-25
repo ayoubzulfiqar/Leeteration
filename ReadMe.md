@@ -1,5 +1,6 @@
 
 ## Easy
+* [Largest Local Values in a Matrix](LargestLocalValuesinaMatrix/largest_local_values_in_a_matrix.py)
 * [Number of Arithmetic Triplets](NumberofArithmeticTriplets/number_of_arithmetic_triplets.py)
 * [Merge Similar Items](MergeSimilarItems/merge_similar_items.py)
 * [Make Array Zero by Subtracting Equal Amounts](MakeArrayZerobySubtractingEqualAmounts/make_array_zero_by_subtracting_equal_amounts.py)
