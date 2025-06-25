@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count the Number of Consistent Strings](CounttheNumberofConsistentStrings/count_the_number_of_consistent_strings.py)
 * [Invalid Tweets](InvalidTweets/invalid_tweets.py)
 * [Goal Parser Interpretation](GoalParserInterpretation/goal_parser_interpretation.py)
 * [Product's Worth Over Invoices](Product'sWorthOverInvoices/product's_worth_over_invoices.py)
