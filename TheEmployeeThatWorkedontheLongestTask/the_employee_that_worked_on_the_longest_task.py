@@ -1,4 +1,3 @@
-```python
 def longestTask(n, logs):
     max_time = 0
     employee_id = -1
@@ -14,4 +13,3 @@ def longestTask(n, logs):
             employee_id = min(employee_id, emp_id)
         start_time = leave_time
     return employee_id
-```
