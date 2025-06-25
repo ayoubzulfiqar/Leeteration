@@ -1,5 +1,6 @@
 
 ## Easy
+* [Product's Worth Over Invoices](Product'sWorthOverInvoices/product's_worth_over_invoices.py)
 * [Most Visited Sector in  a Circular Track](MostVisitedSectorinaCircularTrack/most_visited_sector_in__a_circular_track.py)
 * [Richest Customer Wealth](RichestCustomerWealth/richest_customer_wealth.py)
 * [Maximum Repeating Substring](MaximumRepeatingSubstring/maximum_repeating_substring.py)
