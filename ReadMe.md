@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find Center of Star Graph](FindCenterofStarGraph/find_center_of_star_graph.py)
 * [Check if One String Swap Can Make Strings Equal](CheckifOneStringSwapCanMakeStringsEqual/check_if_one_string_swap_can_make_strings_equal.py)
 * [Primary Department for Each Employee](PrimaryDepartmentforEachEmployee/primary_department_for_each_employee.py)
 * [Check if Binary String Has at Most One Segment of Ones](CheckifBinaryStringHasatMostOneSegmentofOnes/check_if_binary_string_has_at_most_one_segment_of_ones.py)
