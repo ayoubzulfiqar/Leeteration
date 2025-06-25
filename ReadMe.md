@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count Special Quadruplets](CountSpecialQuadruplets/count_special_quadruplets.py)
 * [Find the Middle Index in Array](FindtheMiddleIndexinArray/find_the_middle_index_in_array.py)
 * [Minimum Difference Between Highest and Lowest of K Scores](MinimumDifferenceBetweenHighestandLowestofKScores/minimum_difference_between_highest_and_lowest_of_k_scores.py)
 * [Find Greatest Common Divisor of Array](FindGreatestCommonDivisorofArray/find_greatest_common_divisor_of_array.py)
