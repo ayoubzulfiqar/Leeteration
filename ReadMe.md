@@ -1,5 +1,6 @@
 
 ## Easy
+* [Product Sales Analysis V](ProductSalesAnalysisV/product_sales_analysis_v.py)
 * [Decode the Message](DecodetheMessage/decode_the_message.py)
 * [Check if Matrix Is X-Matrix](CheckifMatrixIsX-Matrix/check_if_matrix_is_x-matrix.py)
 * [Count Asterisks](CountAsterisks/count_asterisks.py)
