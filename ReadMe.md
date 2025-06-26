@@ -1,5 +1,6 @@
 
 ## Easy
+* [Separate the Digits in an Array](SeparatetheDigitsinanArray/separate_the_digits_in_an_array.py)
 * [Count Distinct Numbers on Board](CountDistinctNumbersonBoard/count_distinct_numbers_on_board.py)
 * [Alternating Digit Sum](AlternatingDigitSum/alternating_digit_sum.py)
 * [Minimum Common Value](MinimumCommonValue/minimum_common_value.py)
