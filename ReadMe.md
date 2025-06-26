@@ -1,5 +1,6 @@
 
 ## Easy
+* [Divisible and Non-divisible Sums Difference](DivisibleandNon-divisibleSumsDifference/divisible_and_non-divisible_sums_difference.py)
 * [Method Chaining](MethodChaining/method_chaining.py)
 * [Reshape Data Melt](ReshapeDataMelt/reshape_data_melt.py)
 * [Reshape Data Pivot](ReshapeDataPivot/reshape_data_pivot.py)
