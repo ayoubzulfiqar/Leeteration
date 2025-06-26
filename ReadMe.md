@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count Pairs Of Similar Strings](CountPairsOfSimilarStrings/count_pairs_of_similar_strings.py)
 * [Concatenate the Name and the Profession](ConcatenatetheNameandtheProfession/concatenate_the_name_and_the_profession.py)
 * [Delete Greatest Value in Each Row](DeleteGreatestValueinEachRow/delete_greatest_value_in_each_row.py)
 * [Maximum Value of a String in an Array](MaximumValueofaStringinanArray/maximum_value_of_a_string_in_an_array.py)
