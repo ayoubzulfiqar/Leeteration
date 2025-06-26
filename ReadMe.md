@@ -1,5 +1,6 @@
 
 ## Easy
+* [Drop Missing Data](DropMissingData/drop_missing_data.py)
 * [Drop Duplicate Rows](DropDuplicateRows/drop_duplicate_rows.py)
 * [Create a New Column](CreateaNewColumn/create_a_new_column.py)
 * [Select Data](SelectData/select_data.py)
