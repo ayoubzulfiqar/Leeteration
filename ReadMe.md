@@ -1,5 +1,6 @@
 
 ## Easy
+* [Circular Sentence](CircularSentence/circular_sentence.py)
 * [Find the Pivot Integer](FindthePivotInteger/find_the_pivot_integer.py)
 * [Minimum Cuts to Divide a Circle](MinimumCutstoDivideaCircle/minimum_cuts_to_divide_a_circle.py)
 * [Form a Chemical Bond](FormaChemicalBond/form_a_chemical_bond.py)
