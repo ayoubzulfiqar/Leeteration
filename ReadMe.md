@@ -1,5 +1,6 @@
 
 ## Easy
+* [Apply Operations to an Array](ApplyOperationstoanArray/apply_operations_to_an_array.py)
 * [Average Value of Even Numbers That Are Divisible by Three](AverageValueofEvenNumbersThatAreDivisiblebyThree/average_value_of_even_numbers_that_are_divisible_by_three.py)
 * [Odd String Difference](OddStringDifference/odd_string_difference.py)
 * [Determine if Two Events Have Conflict](DetermineifTwoEventsHaveConflict/determine_if_two_events_have_conflict.py)
