@@ -1,5 +1,6 @@
 
 ## Easy
+* [Account Balance After Rounded Purchase](AccountBalanceAfterRoundedPurchase/account_balance_after_rounded_purchase.py)
 * [Array Prototype ForEach](ArrayPrototypeForEach/array_prototype_foreach.py)
 * [Factorial Generator](FactorialGenerator/factorial_generator.py)
 * [Number of Employees Who Met the Target](NumberofEmployeesWhoMettheTarget/number_of_employees_who_met_the_target.py)
