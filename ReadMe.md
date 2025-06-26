@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find the Longest Balanced Substring of a Binary String](FindtheLongestBalancedSubstringofaBinaryString/find_the_longest_balanced_substring_of_a_binary_string.py)
 * [Form Smallest Number From Two Digit Arrays](FormSmallestNumberFromTwoDigitArrays/form_smallest_number_from_two_digit_arrays.py)
 * [K Items With the Maximum Sum](KItemsWiththeMaximumSum/k_items_with_the_maximum_sum.py)
 * [Number of Even and Odd Bits](NumberofEvenandOddBits/number_of_even_and_odd_bits.py)
