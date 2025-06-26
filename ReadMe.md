@@ -1,5 +1,6 @@
 
 ## Easy
+* [Distribute Candies Among Children I](DistributeCandiesAmongChildrenI/distribute_candies_among_children_i.py)
 * [Find Champion I](FindChampionI/find_champion_i.py)
 * [Find the K-or of an Array](FindtheK-orofanArray/find_the_k-or_of_an_array.py)
 * [Subarrays Distinct Element Sum of Squares I](SubarraysDistinctElementSumofSquaresI/subarrays_distinct_element_sum_of_squares_i.py)
