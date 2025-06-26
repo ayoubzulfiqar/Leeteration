@@ -1,5 +1,6 @@
 
 ## Easy
+* [Check if Array is Good](CheckifArrayisGood/check_if_array_is_good.py)
 * [Sum of Squares of Special Elements ](SumofSquaresofSpecialElements/sum_of_squares_of_special_elements_.py)
 * [Array Upper Bound](ArrayUpperBound/array_upper_bound.py)
 * [Find the Maximum Achievable Number](FindtheMaximumAchievableNumber/find_the_maximum_achievable_number.py)
