@@ -1,5 +1,6 @@
 
 ## Easy
+* [Convert the Temperature](ConverttheTemperature/convert_the_temperature.py)
 * [Number of Distinct Averages](NumberofDistinctAverages/number_of_distinct_averages.py)
 * [Apply Operations to an Array](ApplyOperationstoanArray/apply_operations_to_an_array.py)
 * [Average Value of Even Numbers That Are Divisible by Three](AverageValueofEvenNumbersThatAreDivisiblebyThree/average_value_of_even_numbers_that_are_divisible_by_three.py)
