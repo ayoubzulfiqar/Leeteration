@@ -1,5 +1,6 @@
 
 ## Easy
+* [Maximum Value of an Ordered Triplet I](MaximumValueofanOrderedTripletI/maximum_value_of_an_ordered_triplet_i.py)
 * [Minimum Operations to Collect Elements](MinimumOperationstoCollectElements/minimum_operations_to_collect_elements.py)
 * [Maximum Odd Binary Number](MaximumOddBinaryNumber/maximum_odd_binary_number.py)
 * [Sum of Values at Indices With K Set Bits](SumofValuesatIndicesWithKSetBits/sum_of_values_at_indices_with_k_set_bits.py)
