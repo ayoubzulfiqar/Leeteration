@@ -1,5 +1,6 @@
 
 ## Easy
+* [Calculate Delayed Arrival Time](CalculateDelayedArrivalTime/calculate_delayed_arrival_time.py)
 * [Generate Fibonacci Sequence](GenerateFibonacciSequence/generate_fibonacci_sequence.py)
 * [Find the Maximum Divisibility Score](FindtheMaximumDivisibilityScore/find_the_maximum_divisibility_score.py)
 * [Row With Maximum Ones](RowWithMaximumOnes/row_with_maximum_ones.py)
