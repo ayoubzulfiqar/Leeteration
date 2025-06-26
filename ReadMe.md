@@ -1,5 +1,6 @@
 
 ## Easy
+* [Total Traveled Distance](TotalTraveledDistance/total_traveled_distance.py)
 * [Furthest Point From Origin](FurthestPointFromOrigin/furthest_point_from_origin.py)
 * [Check if a String Is an Acronym of Words](CheckifaStringIsanAcronymofWords/check_if_a_string_is_an_acronym_of_words.py)
 * [Count Pairs Whose Sum is Less than Target](CountPairsWhoseSumisLessthanTarget/count_pairs_whose_sum_is_less_than_target.py)
