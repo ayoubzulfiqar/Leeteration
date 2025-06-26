@@ -1,5 +1,6 @@
 
 ## Easy
+* [Buy Two Chocolates](BuyTwoChocolates/buy_two_chocolates.py)
 * [To Be Or Not To Be](ToBeOrNotToBe/to_be_or_not_to_be.py)
 * [Return Length of Arguments Passed](ReturnLengthofArgumentsPassed/return_length_of_arguments_passed.py)
 * [Lexicographically Smallest Palindrome](LexicographicallySmallestPalindrome/lexicographically_smallest_palindrome.py)
