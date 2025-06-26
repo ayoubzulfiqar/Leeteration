@@ -1,5 +1,6 @@
 
 ## Easy
+* [Maximum Odd Binary Number](MaximumOddBinaryNumber/maximum_odd_binary_number.py)
 * [Sum of Values at Indices With K Set Bits](SumofValuesatIndicesWithKSetBits/sum_of_values_at_indices_with_k_set_bits.py)
 * [Highest Salaries Difference](HighestSalariesDifference/highest_salaries_difference.py)
 * [Points That Intersect With Cars](PointsThatIntersectWithCars/points_that_intersect_with_cars.py)
