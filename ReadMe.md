@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count Pairs Whose Sum is Less than Target](CountPairsWhoseSumisLessthanTarget/count_pairs_whose_sum_is_less_than_target.py)
 * [Inversion of Object](InversionofObject/inversion_of_object.py)
 * [Max Pair Sum in an Array](MaxPairSuminanArray/max_pair_sum_in_an_array.py)
 * [Faulty Keyboard](FaultyKeyboard/faulty_keyboard.py)
