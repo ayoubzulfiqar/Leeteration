@@ -1,5 +1,6 @@
 
 ## Easy
+* [Categorize Box According to Criteria](CategorizeBoxAccordingtoCriteria/categorize_box_according_to_criteria.py)
 * [Count the Digits That Divide a Number](CounttheDigitsThatDivideaNumber/count_the_digits_that_divide_a_number.py)
 * [Shortest Distance to Target String in a Circular Array](ShortestDistancetoTargetStringinaCircularArray/shortest_distance_to_target_string_in_a_circular_array.py)
 * [Maximum Enemy Forts That Can Be Captured](MaximumEnemyFortsThatCanBeCaptured/maximum_enemy_forts_that_can_be_captured.py)
