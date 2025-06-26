@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find the Maximum Achievable Number](FindtheMaximumAchievableNumber/find_the_maximum_achievable_number.py)
 * [Longest Alternating Subarray](LongestAlternatingSubarray/longest_alternating_subarray.py)
 * [Longest Even Odd Subarray With Threshold](LongestEvenOddSubarrayWithThreshold/longest_even_odd_subarray_with_threshold.py)
 * [Next Day](NextDay/next_day.py)
