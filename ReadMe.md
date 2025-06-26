@@ -1,5 +1,6 @@
 
 ## Easy
+* [Counter](Counter/counter.py)
 * [Array Prototype Last](ArrayPrototypeLast/array_prototype_last.py)
 * [Prime In Diagonal](PrimeInDiagonal/prime_in_diagonal.py)
 * [Find the Longest Balanced Substring of a Binary String](FindtheLongestBalancedSubstringofaBinaryString/find_the_longest_balanced_substring_of_a_binary_string.py)
