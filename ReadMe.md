@@ -1,5 +1,6 @@
 
 ## Easy
+* [Split With Minimum Sum](SplitWithMinimumSum/split_with_minimum_sum.py)
 * [Left and Right Sum Differences](LeftandRightSumDifferences/left_and_right_sum_differences.py)
 * [Merge Two 2D Arrays by Summing Values](MergeTwo2DArraysbySummingValues/merge_two_2d_arrays_by_summing_values.py)
 * [Maximum Difference by Remapping a Digit](MaximumDifferencebyRemappingaDigit/maximum_difference_by_remapping_a_digit.py)
