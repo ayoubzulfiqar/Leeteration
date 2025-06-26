@@ -1,5 +1,6 @@
 
 ## Easy
+* [Minimum Sum of Mountain Triplets I](MinimumSumofMountainTripletsI/minimum_sum_of_mountain_triplets_i.py)
 * [Find Indices With Index and Value Difference I](FindIndicesWithIndexandValueDifferenceI/find_indices_with_index_and_value_difference_i.py)
 * [Longest Unequal Adjacent Groups Subsequence I](LongestUnequalAdjacentGroupsSubsequenceI/longest_unequal_adjacent_groups_subsequence_i.py)
 * [Last Visited Integers](LastVisitedIntegers/last_visited_integers.py)
