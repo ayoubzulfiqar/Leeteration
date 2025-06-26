@@ -1,5 +1,6 @@
 
 ## Easy
+* [Shortest Distance to Target String in a Circular Array](ShortestDistancetoTargetStringinaCircularArray/shortest_distance_to_target_string_in_a_circular_array.py)
 * [Maximum Enemy Forts That Can Be Captured](MaximumEnemyFortsThatCanBeCaptured/maximum_enemy_forts_that_can_be_captured.py)
 * [Count Pairs Of Similar Strings](CountPairsOfSimilarStrings/count_pairs_of_similar_strings.py)
 * [Concatenate the Name and the Profession](ConcatenatetheNameandtheProfession/concatenate_the_name_and_the_profession.py)
