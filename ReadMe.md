@@ -1,5 +1,6 @@
 
 ## Easy
+* [Number of Valid Clock Times](NumberofValidClockTimes/number_of_valid_clock_times.py)
 
 * [The Employee That Worked on the Longest Task](TheEmployeeThatWorkedontheLongestTask/the_employee_that_worked_on_the_longest_task.py)
 * [Number of Common Factors](NumberofCommonFactors/number_of_common_factors.py)
