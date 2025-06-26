@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find Latest Salaries](FindLatestSalaries/find_latest_salaries.py)
 * [Create Hello World Function](CreateHelloWorldFunction/create_hello_world_function.py)
 * [Allow One Function Call](AllowOneFunctionCall/allow_one_function_call.py)
 * [Counter II](CounterII/counter_ii.py)
