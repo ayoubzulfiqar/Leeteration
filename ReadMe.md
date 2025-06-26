@@ -1,5 +1,6 @@
 
 ## Easy
+* [Minimum String Length After Removing Substrings](MinimumStringLengthAfterRemovingSubstrings/minimum_string_length_after_removing_substrings.py)
 * [Array Wrapper](ArrayWrapper/array_wrapper.py)
 * [Infinite Method Object](InfiniteMethodObject/infinite_method_object.py)
 * [Extract Kth Character From The Rope Tree](ExtractKthCharacterFromTheRopeTree/extract_kth_character_from_the_rope_tree.py)
