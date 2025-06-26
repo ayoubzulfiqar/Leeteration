@@ -1,5 +1,6 @@
 
 ## Easy
+* [Allow One Function Call](AllowOneFunctionCall/allow_one_function_call.py)
 * [Counter II](CounterII/counter_ii.py)
 * [Determine the Winner of a Bowling Game](DeterminetheWinnerofaBowlingGame/determine_the_winner_of_a_bowling_game.py)
 * [Maximum Sum With Exactly K Elements ](MaximumSumWithExactlyKElements/maximum_sum_with_exactly_k_elements_.py)
