@@ -1,5 +1,6 @@
 
 ## Easy
+* [Maximum Enemy Forts That Can Be Captured](MaximumEnemyFortsThatCanBeCaptured/maximum_enemy_forts_that_can_be_captured.py)
 * [Count Pairs Of Similar Strings](CountPairsOfSimilarStrings/count_pairs_of_similar_strings.py)
 * [Concatenate the Name and the Profession](ConcatenatetheNameandtheProfession/concatenate_the_name_and_the_profession.py)
 * [Delete Greatest Value in Each Row](DeleteGreatestValueinEachRow/delete_greatest_value_in_each_row.py)
