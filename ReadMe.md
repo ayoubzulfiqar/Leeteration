@@ -1,5 +1,6 @@
 
 ## Easy
+* [Determine if Two Events Have Conflict](DetermineifTwoEventsHaveConflict/determine_if_two_events_have_conflict.py)
 * [Largest Positive Integer That Exists With Its Negative](LargestPositiveIntegerThatExistsWithItsNegative/largest_positive_integer_that_exists_with_its_negative.py)
 * [Number of Valid Clock Times](NumberofValidClockTimes/number_of_valid_clock_times.py)
 
