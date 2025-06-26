@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find the Width of Columns of a Grid](FindtheWidthofColumnsofaGrid/find_the_width_of_columns_of_a_grid.py)
 * [Apply Transform Over Each Element in Array](ApplyTransformOverEachElementinArray/apply_transform_over_each_element_in_array.py)
 * [Filter Elements from Array](FilterElementsfromArray/filter_elements_from_array.py)
 * [Function Composition](FunctionComposition/function_composition.py)
