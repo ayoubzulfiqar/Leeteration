@@ -1,5 +1,6 @@
 
 ## Easy
+* [Display the First Three Rows](DisplaytheFirstThreeRows/display_the_first_three_rows.py)
 * [Get the Size of a DataFrame](GettheSizeofaDataFrame/get_the_size_of_a_dataframe.py)
 * [Create a DataFrame from List](CreateaDataFramefromList/create_a_dataframe_from_list.py)
 * [Maximum Value of an Ordered Triplet I](MaximumValueofanOrderedTripletI/maximum_value_of_an_ordered_triplet_i.py)
