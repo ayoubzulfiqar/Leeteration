@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find the Losers of the Circular Game](FindtheLosersoftheCircularGame/find_the_losers_of_the_circular_game.py)
 * [Number of Senior Citizens](NumberofSeniorCitizens/number_of_senior_citizens.py)
 * [Chunk Array](ChunkArray/chunk_array.py)
 * [Find the Distinct Difference Array](FindtheDistinctDifferenceArray/find_the_distinct_difference_array.py)
