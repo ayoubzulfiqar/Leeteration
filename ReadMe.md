@@ -1,5 +1,6 @@
 
 ## Easy
+* [Number of Unequal Triplets in Array](NumberofUnequalTripletsinArray/number_of_unequal_triplets_in_array.py)
 * [Convert the Temperature](ConverttheTemperature/convert_the_temperature.py)
 * [Number of Distinct Averages](NumberofDistinctAverages/number_of_distinct_averages.py)
 * [Apply Operations to an Array](ApplyOperationstoanArray/apply_operations_to_an_array.py)
