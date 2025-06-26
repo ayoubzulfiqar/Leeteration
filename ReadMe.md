@@ -1,5 +1,6 @@
 
 ## Easy
+* [Calculator with Method Chaining](CalculatorwithMethodChaining/calculator_with_method_chaining.py)
 * [Interval Cancellation](IntervalCancellation/interval_cancellation.py)
 * [Sort By](SortBy/sort_by.py)
 * [Add Two Promises](AddTwoPromises/add_two_promises.py)
