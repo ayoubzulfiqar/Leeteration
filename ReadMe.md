@@ -1,5 +1,6 @@
 
 ## Easy
+* [Factorial Generator](FactorialGenerator/factorial_generator.py)
 * [Number of Employees Who Met the Target](NumberofEmployeesWhoMettheTarget/number_of_employees_who_met_the_target.py)
 * [Partial Function with Placeholders](PartialFunctionwithPlaceholders/partial_function_with_placeholders.py)
 * [Repeat String](RepeatString/repeat_string.py)
