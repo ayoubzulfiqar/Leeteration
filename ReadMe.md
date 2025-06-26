@@ -1,5 +1,6 @@
 
 ## Easy
+* [Semi-Ordered Permutation](Semi-OrderedPermutation/semi-ordered_permutation.py)
 * [Minimize String Length](MinimizeStringLength/minimize_string_length.py)
 * [Timeout Cancellation](TimeoutCancellation/timeout_cancellation.py)
 * [Remove Trailing Zeros From a String](RemoveTrailingZerosFromaString/remove_trailing_zeros_from_a_string.py)
