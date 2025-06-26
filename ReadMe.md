@@ -1,5 +1,6 @@
 
 ## Easy
+* [Sleep](Sleep/sleep.py)
 * [Counter](Counter/counter.py)
 * [Array Prototype Last](ArrayPrototypeLast/array_prototype_last.py)
 * [Prime In Diagonal](PrimeInDiagonal/prime_in_diagonal.py)
