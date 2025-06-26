@@ -1,5 +1,6 @@
 
 ## Easy
+* [Function Composition](FunctionComposition/function_composition.py)
 * [Array Reduce Transformation](ArrayReduceTransformation/array_reduce_transformation.py)
 * [Sleep](Sleep/sleep.py)
 * [Counter](Counter/counter.py)
