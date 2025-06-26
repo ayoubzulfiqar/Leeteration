@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find Maximum Number of String Pairs](FindMaximumNumberofStringPairs/find_maximum_number_of_string_pairs.py)
 * [Total Distance Traveled](TotalDistanceTraveled/total_distance_traveled.py)
 * [Neither Minimum nor Maximum](NeitherMinimumnorMaximum/neither_minimum_nor_maximum.py)
 * [Check if The Number is Fascinating](CheckifTheNumberisFascinating/check_if_the_number_is_fascinating.py)
