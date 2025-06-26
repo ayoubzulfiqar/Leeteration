@@ -1,5 +1,6 @@
 
 ## Easy
+* [Array Reduce Transformation](ArrayReduceTransformation/array_reduce_transformation.py)
 * [Sleep](Sleep/sleep.py)
 * [Counter](Counter/counter.py)
 * [Array Prototype Last](ArrayPrototypeLast/array_prototype_last.py)
