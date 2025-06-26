@@ -1,5 +1,6 @@
 
 ## Easy
+* [Apply Transform Over Each Element in Array](ApplyTransformOverEachElementinArray/apply_transform_over_each_element_in_array.py)
 * [Filter Elements from Array](FilterElementsfromArray/filter_elements_from_array.py)
 * [Function Composition](FunctionComposition/function_composition.py)
 * [Array Reduce Transformation](ArrayReduceTransformation/array_reduce_transformation.py)
