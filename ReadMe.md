@@ -1,5 +1,6 @@
 
 ## Easy
+* [Add Two Promises](AddTwoPromises/add_two_promises.py)
 * [Semi-Ordered Permutation](Semi-OrderedPermutation/semi-ordered_permutation.py)
 * [Minimize String Length](MinimizeStringLength/minimize_string_length.py)
 * [Timeout Cancellation](TimeoutCancellation/timeout_cancellation.py)
