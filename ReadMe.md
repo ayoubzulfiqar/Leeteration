@@ -1,5 +1,6 @@
 
 ## Easy
+* [Method Chaining](MethodChaining/method_chaining.py)
 * [Reshape Data Melt](ReshapeDataMelt/reshape_data_melt.py)
 * [Reshape Data Pivot](ReshapeDataPivot/reshape_data_pivot.py)
 * [Reshape Data Concatenate](ReshapeDataConcatenate/reshape_data_concatenate.py)
