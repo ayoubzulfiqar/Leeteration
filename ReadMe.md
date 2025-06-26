@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find Indices With Index and Value Difference I](FindIndicesWithIndexandValueDifferenceI/find_indices_with_index_and_value_difference_i.py)
 * [Longest Unequal Adjacent Groups Subsequence I](LongestUnequalAdjacentGroupsSubsequenceI/longest_unequal_adjacent_groups_subsequence_i.py)
 * [Last Visited Integers](LastVisitedIntegers/last_visited_integers.py)
 * [Divisible and Non-divisible Sums Difference](DivisibleandNon-divisibleSumsDifference/divisible_and_non-divisible_sums_difference.py)
