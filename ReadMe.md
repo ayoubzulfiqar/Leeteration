@@ -1,5 +1,6 @@
 
 ## Easy
+* [Split Strings by Separator](SplitStringsbySeparator/split_strings_by_separator.py)
 * [Check if Array is Good](CheckifArrayisGood/check_if_array_is_good.py)
 * [Sum of Squares of Special Elements ](SumofSquaresofSpecialElements/sum_of_squares_of_special_elements_.py)
 * [Array Upper Bound](ArrayUpperBound/array_upper_bound.py)
