@@ -1,5 +1,6 @@
 
 ## Easy
+* [Drop Duplicate Rows](DropDuplicateRows/drop_duplicate_rows.py)
 * [Create a New Column](CreateaNewColumn/create_a_new_column.py)
 * [Select Data](SelectData/select_data.py)
 * [Display the First Three Rows](DisplaytheFirstThreeRows/display_the_first_three_rows.py)
