@@ -1,5 +1,6 @@
 
 ## Easy
+* [Points That Intersect With Cars](PointsThatIntersectWithCars/points_that_intersect_with_cars.py)
 * [  Count Symmetric Integers](CountSymmetricIntegers/__count_symmetric_integers.py)
 * [Check if Strings Can be Made Equal With Operations I](CheckifStringsCanbeMadeEqualWithOperationsI/check_if_strings_can_be_made_equal_with_operations_i.py)
 * [Total Traveled Distance](TotalTraveledDistance/total_traveled_distance.py)
