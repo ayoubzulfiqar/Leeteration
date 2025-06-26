@@ -1,5 +1,6 @@
 
 ## Easy
+* [Minimum Right Shifts to Sort the Array](MinimumRightShiftstoSorttheArray/minimum_right_shifts_to_sort_the_array.py)
 * [Fill Missing Data](FillMissingData/fill_missing_data.py)
 * [Change Data Type](ChangeDataType/change_data_type.py)
 * [Rename Columns](RenameColumns/rename_columns.py)
