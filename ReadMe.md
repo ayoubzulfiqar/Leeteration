@@ -1,5 +1,6 @@
 
 ## Easy
+* [Delete Greatest Value in Each Row](DeleteGreatestValueinEachRow/delete_greatest_value_in_each_row.py)
 * [Maximum Value of a String in an Array](MaximumValueofaStringinanArray/maximum_value_of_a_string_in_an_array.py)
 * [Circular Sentence](CircularSentence/circular_sentence.py)
 * [Find the Pivot Integer](FindthePivotInteger/find_the_pivot_integer.py)
