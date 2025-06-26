@@ -1,5 +1,6 @@
 
 ## Easy
+* [Partial Function with Placeholders](PartialFunctionwithPlaceholders/partial_function_with_placeholders.py)
 * [Repeat String](RepeatString/repeat_string.py)
 * [Create Object from Two Arrays](CreateObjectfromTwoArrays/create_object_from_two_arrays.py)
 * [Split Strings by Separator](SplitStringsbySeparator/split_strings_by_separator.py)
