@@ -1,5 +1,6 @@
 
 ## Easy
+* [Total Distance Traveled](TotalDistanceTraveled/total_distance_traveled.py)
 * [Neither Minimum nor Maximum](NeitherMinimumnorMaximum/neither_minimum_nor_maximum.py)
 * [Check if The Number is Fascinating](CheckifTheNumberisFascinating/check_if_the_number_is_fascinating.py)
 * [Count Houses in a Circular Street](CountHousesinaCircularStreet/count_houses_in_a_circular_street.py)
