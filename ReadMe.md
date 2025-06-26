@@ -1,5 +1,6 @@
 
 ## Easy
+* [Rename Columns](RenameColumns/rename_columns.py)
 * [Modify Columns](ModifyColumns/modify_columns.py)
 * [Drop Missing Data](DropMissingData/drop_missing_data.py)
 * [Drop Duplicate Rows](DropDuplicateRows/drop_duplicate_rows.py)
