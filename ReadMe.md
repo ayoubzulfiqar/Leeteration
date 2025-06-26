@@ -1,5 +1,6 @@
 
 ## Easy
+* [Minimum Common Value](MinimumCommonValue/minimum_common_value.py)
 * [Difference Between Element Sum and Digit Sum of an Array](DifferenceBetweenElementSumandDigitSumofanArray/difference_between_element_sum_and_digit_sum_of_an_array.py)
 * [Maximum Count of Positive Integer and Negative Integer](MaximumCountofPositiveIntegerandNegativeInteger/maximum_count_of_positive_integer_and_negative_integer.py)
 * [Categorize Box According to Criteria](CategorizeBoxAccordingtoCriteria/categorize_box_according_to_criteria.py)
