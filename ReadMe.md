@@ -1,5 +1,6 @@
 
 ## Easy
+* [Faulty Keyboard](FaultyKeyboard/faulty_keyboard.py)
 * [Account Balance After Rounded Purchase](AccountBalanceAfterRoundedPurchase/account_balance_after_rounded_purchase.py)
 * [Array Prototype ForEach](ArrayPrototypeForEach/array_prototype_foreach.py)
 * [Factorial Generator](FactorialGenerator/factorial_generator.py)
