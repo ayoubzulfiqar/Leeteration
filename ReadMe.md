@@ -1,5 +1,6 @@
 
 ## Easy
+* [Generate Fibonacci Sequence](GenerateFibonacciSequence/generate_fibonacci_sequence.py)
 * [Find the Maximum Divisibility Score](FindtheMaximumDivisibilityScore/find_the_maximum_divisibility_score.py)
 * [Row With Maximum Ones](RowWithMaximumOnes/row_with_maximum_ones.py)
 * [Find the Width of Columns of a Grid](FindtheWidthofColumnsofaGrid/find_the_width_of_columns_of_a_grid.py)
