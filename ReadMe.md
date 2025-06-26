@@ -1,5 +1,6 @@
 
 ## Easy
+* [Create Hello World Function](CreateHelloWorldFunction/create_hello_world_function.py)
 * [Allow One Function Call](AllowOneFunctionCall/allow_one_function_call.py)
 * [Counter II](CounterII/counter_ii.py)
 * [Determine the Winner of a Bowling Game](DeterminetheWinnerofaBowlingGame/determine_the_winner_of_a_bowling_game.py)
