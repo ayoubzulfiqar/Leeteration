@@ -1,5 +1,6 @@
 
 ## Easy
+* [Filter Elements from Array](FilterElementsfromArray/filter_elements_from_array.py)
 * [Function Composition](FunctionComposition/function_composition.py)
 * [Array Reduce Transformation](ArrayReduceTransformation/array_reduce_transformation.py)
 * [Sleep](Sleep/sleep.py)
