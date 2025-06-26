@@ -1,5 +1,6 @@
 
 ## Easy
+* [Max Pair Sum in an Array](MaxPairSuminanArray/max_pair_sum_in_an_array.py)
 * [Faulty Keyboard](FaultyKeyboard/faulty_keyboard.py)
 * [Account Balance After Rounded Purchase](AccountBalanceAfterRoundedPurchase/account_balance_after_rounded_purchase.py)
 * [Array Prototype ForEach](ArrayPrototypeForEach/array_prototype_foreach.py)
