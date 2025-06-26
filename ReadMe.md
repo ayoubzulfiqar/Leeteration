@@ -1,5 +1,6 @@
 
 ## Easy
+* [Change Data Type](ChangeDataType/change_data_type.py)
 * [Rename Columns](RenameColumns/rename_columns.py)
 * [Modify Columns](ModifyColumns/modify_columns.py)
 * [Drop Missing Data](DropMissingData/drop_missing_data.py)
