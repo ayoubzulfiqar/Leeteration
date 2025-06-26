@@ -1,5 +1,6 @@
 
 ## Easy
+* [Select Data](SelectData/select_data.py)
 * [Display the First Three Rows](DisplaytheFirstThreeRows/display_the_first_three_rows.py)
 * [Get the Size of a DataFrame](GettheSizeofaDataFrame/get_the_size_of_a_dataframe.py)
 * [Create a DataFrame from List](CreateaDataFramefromList/create_a_dataframe_from_list.py)
