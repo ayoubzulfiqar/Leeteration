@@ -1,5 +1,6 @@
 
 ## Easy
+* [Next Day](NextDay/next_day.py)
 * [Number of Beautiful Pairs](NumberofBeautifulPairs/number_of_beautiful_pairs.py)
 * [Find Maximum Number of String Pairs](FindMaximumNumberofStringPairs/find_maximum_number_of_string_pairs.py)
 * [Total Distance Traveled](TotalDistanceTraveled/total_distance_traveled.py)
