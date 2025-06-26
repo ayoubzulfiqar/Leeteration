@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count Distinct Numbers on Board](CountDistinctNumbersonBoard/count_distinct_numbers_on_board.py)
 * [Alternating Digit Sum](AlternatingDigitSum/alternating_digit_sum.py)
 * [Minimum Common Value](MinimumCommonValue/minimum_common_value.py)
 * [Difference Between Element Sum and Digit Sum of an Array](DifferenceBetweenElementSumandDigitSumofanArray/difference_between_element_sum_and_digit_sum_of_an_array.py)
