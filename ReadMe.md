@@ -1,5 +1,6 @@
 
 ## Easy
+* [Number of Even and Odd Bits](NumberofEvenandOddBits/number_of_even_and_odd_bits.py)
 * [Count the Number of Vowel Strings in Range](CounttheNumberofVowelStringsinRange/count_the_number_of_vowel_strings_in_range.py)
 * [Pass the Pillow](PassthePillow/pass_the_pillow.py)
 * [Split With Minimum Sum](SplitWithMinimumSum/split_with_minimum_sum.py)
