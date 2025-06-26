@@ -1,5 +1,6 @@
 
 ## Easy
+* [Reshape Data Pivot](ReshapeDataPivot/reshape_data_pivot.py)
 * [Reshape Data Concatenate](ReshapeDataConcatenate/reshape_data_concatenate.py)
 * [Minimum Right Shifts to Sort the Array](MinimumRightShiftstoSorttheArray/minimum_right_shifts_to_sort_the_array.py)
 * [Fill Missing Data](FillMissingData/fill_missing_data.py)
