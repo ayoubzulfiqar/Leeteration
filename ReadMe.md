@@ -1,5 +1,6 @@
 
 ## Easy
+* [Last Visited Integers](LastVisitedIntegers/last_visited_integers.py)
 * [Divisible and Non-divisible Sums Difference](DivisibleandNon-divisibleSumsDifference/divisible_and_non-divisible_sums_difference.py)
 * [Method Chaining](MethodChaining/method_chaining.py)
 * [Reshape Data Melt](ReshapeDataMelt/reshape_data_melt.py)
