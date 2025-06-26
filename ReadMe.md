@@ -1,5 +1,6 @@
 
 ## Easy
+* [Number of Senior Citizens](NumberofSeniorCitizens/number_of_senior_citizens.py)
 * [Chunk Array](ChunkArray/chunk_array.py)
 * [Find the Distinct Difference Array](FindtheDistinctDifferenceArray/find_the_distinct_difference_array.py)
 * [Count Artist Occurrences On Spotify Ranking List](CountArtistOccurrencesOnSpotifyRankingList/count_artist_occurrences_on_spotify_ranking_list.py)
