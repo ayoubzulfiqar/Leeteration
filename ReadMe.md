@@ -1,5 +1,6 @@
 
 ## Easy
+* [Maximum Value of a String in an Array](MaximumValueofaStringinanArray/maximum_value_of_a_string_in_an_array.py)
 * [Circular Sentence](CircularSentence/circular_sentence.py)
 * [Find the Pivot Integer](FindthePivotInteger/find_the_pivot_integer.py)
 * [Minimum Cuts to Divide a Circle](MinimumCutstoDivideaCircle/minimum_cuts_to_divide_a_circle.py)
