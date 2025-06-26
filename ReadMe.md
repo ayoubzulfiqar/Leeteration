@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find the Distinct Difference Array](FindtheDistinctDifferenceArray/find_the_distinct_difference_array.py)
 * [Count Artist Occurrences On Spotify Ranking List](CountArtistOccurrencesOnSpotifyRankingList/count_artist_occurrences_on_spotify_ranking_list.py)
 * [Find Latest Salaries](FindLatestSalaries/find_latest_salaries.py)
 * [Create Hello World Function](CreateHelloWorldFunction/create_hello_world_function.py)
