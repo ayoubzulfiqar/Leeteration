@@ -1,5 +1,6 @@
 
 ## Easy
+* [Merge Two 2D Arrays by Summing Values](MergeTwo2DArraysbySummingValues/merge_two_2d_arrays_by_summing_values.py)
 * [Maximum Difference by Remapping a Digit](MaximumDifferencebyRemappingaDigit/maximum_difference_by_remapping_a_digit.py)
 * [Find the Array Concatenation Value](FindtheArrayConcatenationValue/find_the_array_concatenation_value.py)
 * [Take Gifts From the Richest Pile](TakeGiftsFromtheRichestPile/take_gifts_from_the_richest_pile.py)
