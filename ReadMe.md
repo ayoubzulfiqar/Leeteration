@@ -1,5 +1,6 @@
 
 ## Easy
+* [Interval Cancellation](IntervalCancellation/interval_cancellation.py)
 * [Sort By](SortBy/sort_by.py)
 * [Add Two Promises](AddTwoPromises/add_two_promises.py)
 * [Semi-Ordered Permutation](Semi-OrderedPermutation/semi-ordered_permutation.py)
