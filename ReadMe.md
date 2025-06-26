@@ -1,5 +1,6 @@
 
 ## Easy
+* [Subarrays Distinct Element Sum of Squares I](SubarraysDistinctElementSumofSquaresI/subarrays_distinct_element_sum_of_squares_i.py)
 * [Minimum Sum of Mountain Triplets I](MinimumSumofMountainTripletsI/minimum_sum_of_mountain_triplets_i.py)
 * [Find Indices With Index and Value Difference I](FindIndicesWithIndexandValueDifferenceI/find_indices_with_index_and_value_difference_i.py)
 * [Longest Unequal Adjacent Groups Subsequence I](LongestUnequalAdjacentGroupsSubsequenceI/longest_unequal_adjacent_groups_subsequence_i.py)
