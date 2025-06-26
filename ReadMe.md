@@ -1,5 +1,6 @@
 
 ## Easy
+* [Check if Strings Can be Made Equal With Operations I](CheckifStringsCanbeMadeEqualWithOperationsI/check_if_strings_can_be_made_equal_with_operations_i.py)
 * [Total Traveled Distance](TotalTraveledDistance/total_traveled_distance.py)
 * [Furthest Point From Origin](FurthestPointFromOrigin/furthest_point_from_origin.py)
 * [Check if a String Is an Acronym of Words](CheckifaStringIsanAcronymofWords/check_if_a_string_is_an_acronym_of_words.py)
