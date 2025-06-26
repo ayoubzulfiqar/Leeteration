@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count Artist Occurrences On Spotify Ranking List](CountArtistOccurrencesOnSpotifyRankingList/count_artist_occurrences_on_spotify_ranking_list.py)
 * [Find Latest Salaries](FindLatestSalaries/find_latest_salaries.py)
 * [Create Hello World Function](CreateHelloWorldFunction/create_hello_world_function.py)
 * [Allow One Function Call](AllowOneFunctionCall/allow_one_function_call.py)
