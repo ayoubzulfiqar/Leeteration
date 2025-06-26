@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find Champion I](FindChampionI/find_champion_i.py)
 * [Find the K-or of an Array](FindtheK-orofanArray/find_the_k-or_of_an_array.py)
 * [Subarrays Distinct Element Sum of Squares I](SubarraysDistinctElementSumofSquaresI/subarrays_distinct_element_sum_of_squares_i.py)
 * [Minimum Sum of Mountain Triplets I](MinimumSumofMountainTripletsI/minimum_sum_of_mountain_triplets_i.py)
