@@ -1,5 +1,6 @@
 
 ## Easy
+* [Longest Unequal Adjacent Groups Subsequence I](LongestUnequalAdjacentGroupsSubsequenceI/longest_unequal_adjacent_groups_subsequence_i.py)
 * [Last Visited Integers](LastVisitedIntegers/last_visited_integers.py)
 * [Divisible and Non-divisible Sums Difference](DivisibleandNon-divisibleSumsDifference/divisible_and_non-divisible_sums_difference.py)
 * [Method Chaining](MethodChaining/method_chaining.py)
