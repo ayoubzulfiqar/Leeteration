@@ -1,5 +1,6 @@
 
 ## Easy
+* [Check if The Number is Fascinating](CheckifTheNumberisFascinating/check_if_the_number_is_fascinating.py)
 * [Count Houses in a Circular Street](CountHousesinaCircularStreet/count_houses_in_a_circular_street.py)
 * [Is Object Empty](IsObjectEmpty/is_object_empty.py)
 * [Calculator with Method Chaining](CalculatorwithMethodChaining/calculator_with_method_chaining.py)
