@@ -1,5 +1,6 @@
 
 ## Easy
+* [Longest Alternating Subarray](LongestAlternatingSubarray/longest_alternating_subarray.py)
 * [Longest Even Odd Subarray With Threshold](LongestEvenOddSubarrayWithThreshold/longest_even_odd_subarray_with_threshold.py)
 * [Next Day](NextDay/next_day.py)
 * [Number of Beautiful Pairs](NumberofBeautifulPairs/number_of_beautiful_pairs.py)
