@@ -1,5 +1,6 @@
 
 ## Easy
+* [Check if Bitwise OR Has Trailing Zeros](CheckifBitwiseORHasTrailingZeros/check_if_bitwise_or_has_trailing_zeros.py)
 * [Minimum Number Game](MinimumNumberGame/minimum_number_game.py)
 * [Count the Number of Incremovable Subarrays I](CounttheNumberofIncremovableSubarraysI/count_the_number_of_incremovable_subarrays_i.py)
 * [Find Missing and Repeated Values](FindMissingandRepeatedValues/find_missing_and_repeated_values.py)
