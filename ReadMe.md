@@ -1,5 +1,6 @@
 
 ## Easy
+* [Make Three Strings Equal](MakeThreeStringsEqual/make_three_strings_equal.py)
 * [Maximum Strong Pair XOR I](MaximumStrongPairXORI/maximum_strong_pair_xor_i.py)
 * [Distribute Candies Among Children I](DistributeCandiesAmongChildrenI/distribute_candies_among_children_i.py)
 * [Find Champion I](FindChampionI/find_champion_i.py)
