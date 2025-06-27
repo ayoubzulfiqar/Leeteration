@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count Tested Devices After Test Operations](CountTestedDevicesAfterTestOperations/count_tested_devices_after_test_operations.py)
 * [Find Common Elements Between Two Arrays](FindCommonElementsBetweenTwoArrays/find_common_elements_between_two_arrays.py)
 * [Find the Peaks](FindthePeaks/find_the_peaks.py)
 * [Matrix Similarity After Cyclic Shifts](MatrixSimilarityAfterCyclicShifts/matrix_similarity_after_cyclic_shifts.py)
