@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find Words Containing Character](FindWordsContainingCharacter/find_words_containing_character.py)
 * [Distribute Money to Maximum Children](DistributeMoneytoMaximumChildren/distribute_money_to_maximum_children.py)
 * [Make Three Strings Equal](MakeThreeStringsEqual/make_three_strings_equal.py)
 * [Maximum Strong Pair XOR I](MaximumStrongPairXORI/maximum_strong_pair_xor_i.py)
