@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find Missing and Repeated Values](FindMissingandRepeatedValues/find_missing_and_repeated_values.py)
 * [Count Tested Devices After Test Operations](CountTestedDevicesAfterTestOperations/count_tested_devices_after_test_operations.py)
 * [Find Common Elements Between Two Arrays](FindCommonElementsBetweenTwoArrays/find_common_elements_between_two_arrays.py)
 * [Find the Peaks](FindthePeaks/find_the_peaks.py)
