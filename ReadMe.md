@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find Common Elements Between Two Arrays](FindCommonElementsBetweenTwoArrays/find_common_elements_between_two_arrays.py)
 * [Find the Peaks](FindthePeaks/find_the_peaks.py)
 * [Matrix Similarity After Cyclic Shifts](MatrixSimilarityAfterCyclicShifts/matrix_similarity_after_cyclic_shifts.py)
 * [Find Words Containing Character](FindWordsContainingCharacter/find_words_containing_character.py)
