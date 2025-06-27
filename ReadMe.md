@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count the Number of Incremovable Subarrays I](CounttheNumberofIncremovableSubarraysI/count_the_number_of_incremovable_subarrays_i.py)
 * [Find Missing and Repeated Values](FindMissingandRepeatedValues/find_missing_and_repeated_values.py)
 * [Count Tested Devices After Test Operations](CountTestedDevicesAfterTestOperations/count_tested_devices_after_test_operations.py)
 * [Find Common Elements Between Two Arrays](FindCommonElementsBetweenTwoArrays/find_common_elements_between_two_arrays.py)
