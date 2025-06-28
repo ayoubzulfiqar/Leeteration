@@ -1,5 +1,6 @@
 
 ## Easy
+* [Winner of the Linked List Game](WinneroftheLinkedListGame/winner_of_the_linked_list_game.py)
 * [Find All Unique Email Domains](FindAllUniqueEmailDomains/find_all_unique_email_domains.py)
 * [Classifying Triangles by Lengths](ClassifyingTrianglesbyLengths/classifying_triangles_by_lengths.py)
 * [Find Candidates for Data Scientist Position](FindCandidatesforDataScientistPosition/find_candidates_for_data_scientist_position.py)
