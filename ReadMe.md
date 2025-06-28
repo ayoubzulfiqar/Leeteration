@@ -1,5 +1,6 @@
 
 ## Easy
+* [Maximum Area of Longest Diagonal Rectangle](MaximumAreaofLongestDiagonalRectangle/maximum_area_of_longest_diagonal_rectangle.py)
 * [Smallest Missing Integer Greater Than Sequential Prefix Sum](SmallestMissingIntegerGreaterThanSequentialPrefixSum/smallest_missing_integer_greater_than_sequential_prefix_sum.py)
 * [Loan Types](LoanTypes/loan_types.py)
 * [Find Expensive Cities](FindExpensiveCities/find_expensive_cities.py)
