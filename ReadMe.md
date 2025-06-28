@@ -1,5 +1,6 @@
 
 ## Easy
+* [Minimum Number of Chairs in a Waiting Room](MinimumNumberofChairsinaWaitingRoom/minimum_number_of_chairs_in_a_waiting_room.py)
 * [Find the Number of Good Pairs I](FindtheNumberofGoodPairsI/find_the_number_of_good_pairs_i.py)
 * [Find the XOR of Numbers Which Appear Twice](FindtheXORofNumbersWhichAppearTwice/find_the_xor_of_numbers_which_appear_twice.py)
 * [Special Array I](SpecialArrayI/special_array_i.py)
