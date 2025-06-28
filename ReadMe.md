@@ -1,5 +1,6 @@
 
 ## Easy
+* [Type of Triangle](TypeofTriangle/type_of_triangle.py)
 * [Number of Changing Keys](NumberofChangingKeys/number_of_changing_keys.py)
 * [Minimum Number of Pushes to Type Word I](MinimumNumberofPushestoTypeWordI/minimum_number_of_pushes_to_type_word_i.py)
 * [Divide an Array Into Subarrays With Minimum Cost I](DivideanArrayIntoSubarraysWithMinimumCostI/divide_an_array_into_subarrays_with_minimum_cost_i.py)
