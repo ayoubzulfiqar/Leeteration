@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find the Child Who Has the Ball After K Seconds](FindtheChildWhoHastheBallAfterKSeconds/find_the_child_who_has_the_ball_after_k_seconds.py)
 * [Clear Digits](ClearDigits/clear_digits.py)
 * [Bitwise OR of Adjacent Elements](BitwiseORofAdjacentElements/bitwise_or_of_adjacent_elements.py)
 * [Second Day Verification](SecondDayVerification/second_day_verification.py)
