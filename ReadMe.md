@@ -1,5 +1,6 @@
 
 ## Easy
+* [Clear Digits](ClearDigits/clear_digits.py)
 * [Bitwise OR of Adjacent Elements](BitwiseORofAdjacentElements/bitwise_or_of_adjacent_elements.py)
 * [Second Day Verification](SecondDayVerification/second_day_verification.py)
 * [Minimum Number of Chairs in a Waiting Room](MinimumNumberofChairsinaWaitingRoom/minimum_number_of_chairs_in_a_waiting_room.py)
