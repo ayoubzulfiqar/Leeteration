@@ -1,5 +1,6 @@
 
 ## Easy
+* [Minimum Number of Pushes to Type Word I](MinimumNumberofPushestoTypeWordI/minimum_number_of_pushes_to_type_word_i.py)
 * [Divide an Array Into Subarrays With Minimum Cost I](DivideanArrayIntoSubarraysWithMinimumCostI/divide_an_array_into_subarrays_with_minimum_cost_i.py)
 * [Count Elements With Maximum Frequency](CountElementsWithMaximumFrequency/count_elements_with_maximum_frequency.py)
 * [Maximum Area of Longest Diagonal Rectangle](MaximumAreaofLongestDiagonalRectangle/maximum_area_of_longest_diagonal_rectangle.py)
