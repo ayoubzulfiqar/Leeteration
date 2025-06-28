@@ -1,5 +1,6 @@
 
 ## Easy
+* [Check if Two Chessboard Squares Have the Same Color](CheckifTwoChessboardSquaresHavetheSameColor/check_if_two_chessboard_squares_have_the_same_color.py)
 * [Find the Key of the Numbers](FindtheKeyoftheNumbers/find_the_key_of_the_numbers.py)
 * [Final Array State After K Multiplication Operations I](FinalArrayStateAfterKMultiplicationOperationsI/final_array_state_after_k_multiplication_operations_i.py)
 * [Convert Doubly Linked List to Array I](ConvertDoublyLinkedListtoArrayI/convert_doubly_linked_list_to_array_i.py)
