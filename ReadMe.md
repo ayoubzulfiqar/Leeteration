@@ -1,5 +1,6 @@
 
 ## Easy
+* [Score of a String](ScoreofaString/score_of_a_string.py)
 * [Longest Strictly Increasing or Strictly Decreasing Subarray](LongestStrictlyIncreasingorStrictlyDecreasingSubarray/longest_strictly_increasing_or_strictly_decreasing_subarray.py)
 * [Harshad Number](HarshadNumber/harshad_number.py)
 * [Shortest Subarray With OR at Least K I](ShortestSubarrayWithORatLeastKI/shortest_subarray_with_or_at_least_k_i.py)
