@@ -1,5 +1,6 @@
 
 ## Easy
+* [Premier League Table Ranking](PremierLeagueTableRanking/premier_league_table_ranking.py)
 * [Design Neighbor Sum Service](DesignNeighborSumService/design_neighbor_sum_service.py)
 * [Find the Number of Winning Players](FindtheNumberofWinningPlayers/find_the_number_of_winning_players.py)
 * [Find if Digit Game Can Be Won](FindifDigitGameCanBeWon/find_if_digit_game_can_be_won.py)
