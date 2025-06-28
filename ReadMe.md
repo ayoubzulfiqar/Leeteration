@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find the Encrypted String](FindtheEncryptedString/find_the_encrypted_string.py)
 * [Alternating Groups I](AlternatingGroupsI/alternating_groups_i.py)
 * [Maximum Height of a Triangle](MaximumHeightofaTriangle/maximum_height_of_a_triangle.py)
 * [Count Triplets with Even XOR Set Bits I](CountTripletswithEvenXORSetBitsI/count_triplets_with_even_xor_set_bits_i.py)
