@@ -1,5 +1,6 @@
 
 ## Easy
+* [Check if Grid Satisfies Conditions](CheckifGridSatisfiesConditions/check_if_grid_satisfies_conditions.py)
 * [Valid Word](ValidWord/valid_word.py)
 * [Find the Integer Added to Array I](FindtheIntegerAddedtoArrayI/find_the_integer_added_to_array_i.py)
 * [Make a Square with the Same Color](MakeaSquarewiththeSameColor/make_a_square_with_the_same_color.py)
