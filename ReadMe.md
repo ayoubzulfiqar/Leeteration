@@ -1,5 +1,6 @@
 
 ## Easy
+* [Loan Types](LoanTypes/loan_types.py)
 * [Find Expensive Cities](FindExpensiveCities/find_expensive_cities.py)
 * [Calculate Compressed Mean](CalculateCompressedMean/calculate_compressed_mean.py)
 * [Check if Bitwise OR Has Trailing Zeros](CheckifBitwiseORHasTrailingZeros/check_if_bitwise_or_has_trailing_zeros.py)
