@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find Candidates for Data Scientist Position](FindCandidatesforDataScientistPosition/find_candidates_for_data_scientist_position.py)
 * [Split the Array](SplittheArray/split_the_array.py)
 * [Count Prefix and Suffix Pairs I](CountPrefixandSuffixPairsI/count_prefix_and_suffix_pairs_i.py)
 * [Maximum Number of Operations With the Same Score I](MaximumNumberofOperationsWiththeSameScoreI/maximum_number_of_operations_with_the_same_score_i.py)
