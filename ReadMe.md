@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find the K-th Character in String Game I](FindtheK-thCharacterinStringGameI/find_the_k-th_character_in_string_game_i.py)
 * [Minimum Element After Replacement With Digit Sum](MinimumElementAfterReplacementWithDigitSum/minimum_element_after_replacement_with_digit_sum.py)
 * [The Two Sneaky Numbers of Digitville](TheTwoSneakyNumbersofDigitville/the_two_sneaky_numbers_of_digitville.py)
 * [Find Indices of Stable Mountains](FindIndicesofStableMountains/find_indices_of_stable_mountains.py)
