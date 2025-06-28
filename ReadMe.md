@@ -1,5 +1,6 @@
 
 ## Easy
+* [Final Array State After K Multiplication Operations I](FinalArrayStateAfterKMultiplicationOperationsI/final_array_state_after_k_multiplication_operations_i.py)
 * [Convert Doubly Linked List to Array I](ConvertDoublyLinkedListtoArrayI/convert_doubly_linked_list_to_array_i.py)
 * [Count Substrings That Satisfy K-Constraint I](CountSubstringsThatSatisfyK-ConstraintI/count_substrings_that_satisfy_k-constraint_i.py)
 * [Snake in Matrix](SnakeinMatrix/snake_in_matrix.py)
