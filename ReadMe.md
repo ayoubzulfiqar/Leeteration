@@ -1,5 +1,6 @@
 
 ## Easy
+* [Harshad Number](HarshadNumber/harshad_number.py)
 * [Shortest Subarray With OR at Least K I](ShortestSubarrayWithORatLeastKI/shortest_subarray_with_or_at_least_k_i.py)
 * [Maximum Length Substring With Two Occurrences](MaximumLengthSubstringWithTwoOccurrences/maximum_length_substring_with_two_occurrences.py)
 * [Existence of a Substring in a String and Its Reverse](ExistenceofaSubstringinaStringandItsReverse/existence_of_a_substring_in_a_string_and_its_reverse.py)
