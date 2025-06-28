@@ -1,5 +1,6 @@
 
 ## Easy
+* [Maximum Height of a Triangle](MaximumHeightofaTriangle/maximum_height_of_a_triangle.py)
 * [Count Triplets with Even XOR Set Bits I](CountTripletswithEvenXORSetBitsI/count_triplets_with_even_xor_set_bits_i.py)
 * [Find Cities in Each State](FindCitiesinEachState/find_cities_in_each_state.py)
 * [Minimum Average of Smallest and Largest Elements](MinimumAverageofSmallestandLargestElements/minimum_average_of_smallest_and_largest_elements.py)
