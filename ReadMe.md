@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find All Unique Email Domains](FindAllUniqueEmailDomains/find_all_unique_email_domains.py)
 * [Classifying Triangles by Lengths](ClassifyingTrianglesbyLengths/classifying_triangles_by_lengths.py)
 * [Find Candidates for Data Scientist Position](FindCandidatesforDataScientistPosition/find_candidates_for_data_scientist_position.py)
 * [Split the Array](SplittheArray/split_the_array.py)
