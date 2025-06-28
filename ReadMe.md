@@ -1,5 +1,6 @@
 
 ## Easy
+* [Classifying Triangles by Lengths](ClassifyingTrianglesbyLengths/classifying_triangles_by_lengths.py)
 * [Find Candidates for Data Scientist Position](FindCandidatesforDataScientistPosition/find_candidates_for_data_scientist_position.py)
 * [Split the Array](SplittheArray/split_the_array.py)
 * [Count Prefix and Suffix Pairs I](CountPrefixandSuffixPairsI/count_prefix_and_suffix_pairs_i.py)
