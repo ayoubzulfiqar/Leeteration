@@ -1,5 +1,6 @@
 
 ## Easy
+* [Snake in Matrix](SnakeinMatrix/snake_in_matrix.py)
 * [Premier League Table Ranking](PremierLeagueTableRanking/premier_league_table_ranking.py)
 * [Design Neighbor Sum Service](DesignNeighborSumService/design_neighbor_sum_service.py)
 * [Find the Number of Winning Players](FindtheNumberofWinningPlayers/find_the_number_of_winning_players.py)
