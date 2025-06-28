@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count Substrings That Satisfy K-Constraint I](CountSubstringsThatSatisfyK-ConstraintI/count_substrings_that_satisfy_k-constraint_i.py)
 * [Snake in Matrix](SnakeinMatrix/snake_in_matrix.py)
 * [Premier League Table Ranking](PremierLeagueTableRanking/premier_league_table_ranking.py)
 * [Design Neighbor Sum Service](DesignNeighborSumService/design_neighbor_sum_service.py)
