@@ -1,5 +1,6 @@
 
 ## Easy
+* [Minimum Average of Smallest and Largest Elements](MinimumAverageofSmallestandLargestElements/minimum_average_of_smallest_and_largest_elements.py)
 * [Find Minimum Operations to Make All Elements Divisible by Three](FindMinimumOperationstoMakeAllElementsDivisiblebyThree/find_minimum_operations_to_make_all_elements_divisible_by_three.py)
 * [Count Pairs That Form a Complete Day I](CountPairsThatFormaCompleteDayI/count_pairs_that_form_a_complete_day_i.py)
 * [Find the Child Who Has the Ball After K Seconds](FindtheChildWhoHastheBallAfterKSeconds/find_the_child_who_has_the_ball_after_k_seconds.py)
