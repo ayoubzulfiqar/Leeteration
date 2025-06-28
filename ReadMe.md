@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find the XOR of Numbers Which Appear Twice](FindtheXORofNumbersWhichAppearTwice/find_the_xor_of_numbers_which_appear_twice.py)
 * [Special Array I](SpecialArrayI/special_array_i.py)
 * [Invalid Tweets II](InvalidTweetsII/invalid_tweets_ii.py)
 * [Permutation Difference between Two Strings](PermutationDifferencebetweenTwoStrings/permutation_difference_between_two_strings.py)
