@@ -1,5 +1,6 @@
 
 ## Easy
+* [Number of Bit Changes to Make Two Integers Equal](NumberofBitChangestoMakeTwoIntegersEqual/number_of_bit_changes_to_make_two_integers_equal.py)
 * [Find the Winning Player in Coin Game](FindtheWinningPlayerinCoinGame/find_the_winning_player_in_coin_game.py)
 * [Lexicographically Smallest String After a Swap](LexicographicallySmallestStringAfteraSwap/lexicographically_smallest_string_after_a_swap.py)
 * [Find the Encrypted String](FindtheEncryptedString/find_the_encrypted_string.py)
