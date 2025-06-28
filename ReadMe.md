@@ -1,5 +1,6 @@
 
 ## Easy
+* [Modify the Matrix](ModifytheMatrix/modify_the_matrix.py)
 * [Count Numbers With Unique Digits II](CountNumbersWithUniqueDigitsII/count_numbers_with_unique_digits_ii.py)
 * [Ant on the Boundary](AntontheBoundary/ant_on_the_boundary.py)
 * [Type of Triangle](TypeofTriangle/type_of_triangle.py)
