@@ -1,5 +1,6 @@
 
 ## Easy
+* [Minimum Operations to Exceed Threshold Value I](MinimumOperationstoExceedThresholdValueI/minimum_operations_to_exceed_threshold_value_i.py)
 * [Linked List Frequency](LinkedListFrequency/linked_list_frequency.py)
 * [Winner of the Linked List Game](WinneroftheLinkedListGame/winner_of_the_linked_list_game.py)
 * [Find All Unique Email Domains](FindAllUniqueEmailDomains/find_all_unique_email_domains.py)
