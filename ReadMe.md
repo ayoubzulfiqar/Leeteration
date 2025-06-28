@@ -1,5 +1,6 @@
 
 ## Easy
+* [Minimum Element After Replacement With Digit Sum](MinimumElementAfterReplacementWithDigitSum/minimum_element_after_replacement_with_digit_sum.py)
 * [The Two Sneaky Numbers of Digitville](TheTwoSneakyNumbersofDigitville/the_two_sneaky_numbers_of_digitville.py)
 * [Find Indices of Stable Mountains](FindIndicesofStableMountains/find_indices_of_stable_mountains.py)
 * [Convert Date to Binary](ConvertDatetoBinary/convert_date_to_binary.py)
