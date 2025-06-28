@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count Pairs That Form a Complete Day I](CountPairsThatFormaCompleteDayI/count_pairs_that_form_a_complete_day_i.py)
 * [Find the Child Who Has the Ball After K Seconds](FindtheChildWhoHastheBallAfterKSeconds/find_the_child_who_has_the_ball_after_k_seconds.py)
 * [Clear Digits](ClearDigits/clear_digits.py)
 * [Bitwise OR of Adjacent Elements](BitwiseORofAdjacentElements/bitwise_or_of_adjacent_elements.py)
