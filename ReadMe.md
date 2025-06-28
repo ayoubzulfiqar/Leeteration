@@ -1,5 +1,6 @@
 
 ## Easy
+* [The Two Sneaky Numbers of Digitville](TheTwoSneakyNumbersofDigitville/the_two_sneaky_numbers_of_digitville.py)
 * [Find Indices of Stable Mountains](FindIndicesofStableMountains/find_indices_of_stable_mountains.py)
 * [Convert Date to Binary](ConvertDatetoBinary/convert_date_to_binary.py)
 * [Check if Two Chessboard Squares Have the Same Color](CheckifTwoChessboardSquaresHavetheSameColor/check_if_two_chessboard_squares_have_the_same_color.py)
