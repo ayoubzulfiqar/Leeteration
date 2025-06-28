@@ -1,5 +1,6 @@
 
 ## Easy
+* [Maximum Number of Operations With the Same Score I](MaximumNumberofOperationsWiththeSameScoreI/maximum_number_of_operations_with_the_same_score_i.py)
 * [Modify the Matrix](ModifytheMatrix/modify_the_matrix.py)
 * [Count Numbers With Unique Digits II](CountNumbersWithUniqueDigitsII/count_numbers_with_unique_digits_ii.py)
 * [Ant on the Boundary](AntontheBoundary/ant_on_the_boundary.py)
