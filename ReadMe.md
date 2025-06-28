@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find the Number of Good Pairs I](FindtheNumberofGoodPairsI/find_the_number_of_good_pairs_i.py)
 * [Find the XOR of Numbers Which Appear Twice](FindtheXORofNumbersWhichAppearTwice/find_the_xor_of_numbers_which_appear_twice.py)
 * [Special Array I](SpecialArrayI/special_array_i.py)
 * [Invalid Tweets II](InvalidTweetsII/invalid_tweets_ii.py)
