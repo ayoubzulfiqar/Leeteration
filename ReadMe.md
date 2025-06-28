@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find the Integer Added to Array I](FindtheIntegerAddedtoArrayI/find_the_integer_added_to_array_i.py)
 * [Make a Square with the Same Color](MakeaSquarewiththeSameColor/make_a_square_with_the_same_color.py)
 * [Count the Number of Special Characters I](CounttheNumberofSpecialCharactersI/count_the_number_of_special_characters_i.py)
 * [Latest Time You Can Obtain After Replacing Characters](LatestTimeYouCanObtainAfterReplacingCharacters/latest_time_you_can_obtain_after_replacing_characters.py)
