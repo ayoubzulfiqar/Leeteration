@@ -1,5 +1,6 @@
 
 ## Easy
+* [Latest Time You Can Obtain After Replacing Characters](LatestTimeYouCanObtainAfterReplacingCharacters/latest_time_you_can_obtain_after_replacing_characters.py)
 * [Score of a String](ScoreofaString/score_of_a_string.py)
 * [Longest Strictly Increasing or Strictly Decreasing Subarray](LongestStrictlyIncreasingorStrictlyDecreasingSubarray/longest_strictly_increasing_or_strictly_decreasing_subarray.py)
 * [Harshad Number](HarshadNumber/harshad_number.py)
