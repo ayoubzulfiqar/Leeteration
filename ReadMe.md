@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count Numbers With Unique Digits II](CountNumbersWithUniqueDigitsII/count_numbers_with_unique_digits_ii.py)
 * [Ant on the Boundary](AntontheBoundary/ant_on_the_boundary.py)
 * [Type of Triangle](TypeofTriangle/type_of_triangle.py)
 * [Number of Changing Keys](NumberofChangingKeys/number_of_changing_keys.py)
