@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find the Number of Winning Players](FindtheNumberofWinningPlayers/find_the_number_of_winning_players.py)
 * [Find if Digit Game Can Be Won](FindifDigitGameCanBeWon/find_if_digit_game_can_be_won.py)
 * [Number of Bit Changes to Make Two Integers Equal](NumberofBitChangestoMakeTwoIntegersEqual/number_of_bit_changes_to_make_two_integers_equal.py)
 * [Find the Winning Player in Coin Game](FindtheWinningPlayerinCoinGame/find_the_winning_player_in_coin_game.py)
