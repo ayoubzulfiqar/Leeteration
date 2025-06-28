@@ -1,5 +1,6 @@
 
 ## Easy
+* [Special Array I](SpecialArrayI/special_array_i.py)
 * [Invalid Tweets II](InvalidTweetsII/invalid_tweets_ii.py)
 * [Permutation Difference between Two Strings](PermutationDifferencebetweenTwoStrings/permutation_difference_between_two_strings.py)
 * [Check if Grid Satisfies Conditions](CheckifGridSatisfiesConditions/check_if_grid_satisfies_conditions.py)
