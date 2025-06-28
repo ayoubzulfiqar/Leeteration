@@ -1,5 +1,6 @@
 
 ## Easy
+* [Lexicographically Smallest String After a Swap](LexicographicallySmallestStringAfteraSwap/lexicographically_smallest_string_after_a_swap.py)
 * [Find the Encrypted String](FindtheEncryptedString/find_the_encrypted_string.py)
 * [Alternating Groups I](AlternatingGroupsI/alternating_groups_i.py)
 * [Maximum Height of a Triangle](MaximumHeightofaTriangle/maximum_height_of_a_triangle.py)
