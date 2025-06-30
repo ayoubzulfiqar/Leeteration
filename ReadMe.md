@@ -1,5 +1,6 @@
 
 ## Easy
+* [Count Subarrays of Length Three With a Condition](CountSubarraysofLengthThreeWithaCondition/count_subarrays_of_length_three_with_a_condition.py)
 * [Button with Longest Push Time](ButtonwithLongestPushTime/button_with_longest_push_time.py)
 * [Transformed Array](TransformedArray/transformed_array.py)
 * [Minimum Operations to Make Array Values Equal to K](MinimumOperationstoMakeArrayValuesEqualtoK/minimum_operations_to_make_array_values_equal_to_k.py)
