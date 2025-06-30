@@ -1,5 +1,6 @@
 
 ## Easy
+* [Stone Removal Game](StoneRemovalGame/stone_removal_game.py)
 * [Books with NULL Ratings](BookswithNULLRatings/books_with_null_ratings.py)
 * [Make Array Elements Equal to Zero](MakeArrayElementsEqualtoZero/make_array_elements_equal_to_zero.py)
 * [Minimum Total Operations](MinimumTotalOperations/minimum_total_operations.py)
