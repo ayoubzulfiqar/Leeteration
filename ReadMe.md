@@ -1,5 +1,6 @@
 
 ## Easy
+* [Fruits Into Baskets II](FruitsIntoBasketsII/fruits_into_baskets_ii.py)
 * [Find the Largest Almost Missing Integer](FindtheLargestAlmostMissingInteger/find_the_largest_almost_missing_integer.py)
 * [Transform Array by Parity](TransformArraybyParity/transform_array_by_parity.py)
 * [Find Products with Valid Serial Numbers](FindProductswithValidSerialNumbers/find_products_with_valid_serial_numbers.py)
