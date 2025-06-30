@@ -1,5 +1,6 @@
 
 ## Easy
+* [Books with NULL Ratings](BookswithNULLRatings/books_with_null_ratings.py)
 * [Make Array Elements Equal to Zero](MakeArrayElementsEqualtoZero/make_array_elements_equal_to_zero.py)
 * [Minimum Total Operations](MinimumTotalOperations/minimum_total_operations.py)
 * [Adjacent Increasing Subarrays Detection I](AdjacentIncreasingSubarraysDetectionI/adjacent_increasing_subarrays_detection_i.py)
