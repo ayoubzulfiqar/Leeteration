@@ -1,5 +1,6 @@
 
 ## Easy
+* [Smallest Number With All Set Bits](SmallestNumberWithAllSetBits/smallest_number_with_all_set_bits.py)
 * [Minimum Positive Sum Subarray ](MinimumPositiveSumSubarray/minimum_positive_sum_subarray_.py)
 * [Stone Removal Game](StoneRemovalGame/stone_removal_game.py)
 * [Books with NULL Ratings](BookswithNULLRatings/books_with_null_ratings.py)
