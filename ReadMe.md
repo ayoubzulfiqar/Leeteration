@@ -1,5 +1,6 @@
 
 ## Easy
+* [Minimum Cost to Reach Every Position](MinimumCosttoReachEveryPosition/minimum_cost_to_reach_every_position.py)
 * [Reverse Degree of a String](ReverseDegreeofaString/reverse_degree_of_a_string.py)
 * [Maximum Containers on a Ship](MaximumContainersonaShip/maximum_containers_on_a_ship.py)
 * [Phone Number Prefix](PhoneNumberPrefix/phone_number_prefix.py)
