@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find Most Frequent Vowel and Consonant](FindMostFrequentVowelandConsonant/find_most_frequent_vowel_and_consonant.py)
 * [Maximum Product of Two Digits](MaximumProductofTwoDigits/maximum_product_of_two_digits.py)
 * [Find Closest Person](FindClosestPerson/find_closest_person.py)
 * [Minimum Operations to Make Array Sum Divisible by K](MinimumOperationstoMakeArraySumDivisiblebyK/minimum_operations_to_make_array_sum_divisible_by_k.py)
