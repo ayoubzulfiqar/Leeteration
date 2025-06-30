@@ -1,5 +1,6 @@
 
 ## Easy
+* [Smallest Divisible Digit Product I](SmallestDivisibleDigitProductI/smallest_divisible_digit_product_i.py)
 * [Check Balanced String](CheckBalancedString/check_balanced_string.py)
 * [Find the Original Typed String I](FindtheOriginalTypedStringI/find_the_original_typed_string_i.py)
 * [Find X-Sum of All K-Long Subarrays I](FindX-SumofAllK-LongSubarraysI/find_x-sum_of_all_k-long_subarrays_i.py)
