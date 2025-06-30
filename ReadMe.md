@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find Valid Emails](FindValidEmails/find_valid_emails.py)
 * [Count Partitions with Even Sum Difference](CountPartitionswithEvenSumDifference/count_partitions_with_even_sum_difference.py)
 * [Sum of Variable Length Subarrays](SumofVariableLengthSubarrays/sum_of_variable_length_subarrays.py)
 * [Maximum Difference Between Adjacent Elements in a Circular Array](MaximumDifferenceBetweenAdjacentElementsinaCircularArray/maximum_difference_between_adjacent_elements_in_a_circular_array.py)
