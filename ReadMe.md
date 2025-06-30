@@ -1,5 +1,6 @@
 
 ## Easy
+* [Adjacent Increasing Subarrays Detection I](AdjacentIncreasingSubarraysDetectionI/adjacent_increasing_subarrays_detection_i.py)
 * [Smallest Divisible Digit Product I](SmallestDivisibleDigitProductI/smallest_divisible_digit_product_i.py)
 * [Check Balanced String](CheckBalancedString/check_balanced_string.py)
 * [Find the Original Typed String I](FindtheOriginalTypedStringI/find_the_original_typed_string_i.py)
