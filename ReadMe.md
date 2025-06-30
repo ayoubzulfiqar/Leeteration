@@ -1,5 +1,6 @@
 
 ## Easy
+* [Minimum Pair Removal to Sort Array I](MinimumPairRemovaltoSortArrayI/minimum_pair_removal_to_sort_array_i.py)
 * [Minimum Cost to Reach Every Position](MinimumCosttoReachEveryPosition/minimum_cost_to_reach_every_position.py)
 * [Reverse Degree of a String](ReverseDegreeofaString/reverse_degree_of_a_string.py)
 * [Maximum Containers on a Ship](MaximumContainersonaShip/maximum_containers_on_a_ship.py)
