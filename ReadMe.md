@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find Valid Pair of Adjacent Digits in String](FindValidPairofAdjacentDigitsinString/find_valid_pair_of_adjacent_digits_in_string.py)
 * [Find Valid Emails](FindValidEmails/find_valid_emails.py)
 * [Count Partitions with Even Sum Difference](CountPartitionswithEvenSumDifference/count_partitions_with_even_sum_difference.py)
 * [Sum of Variable Length Subarrays](SumofVariableLengthSubarrays/sum_of_variable_length_subarrays.py)
