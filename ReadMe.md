@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find Special Substring of Length K](FindSpecialSubstringofLengthK/find_special_substring_of_length_k.py)
 * [Sum of Good Numbers](SumofGoodNumbers/sum_of_good_numbers.py)
 * [Maximum Students on a Single Bench](MaximumStudentsonaSingleBench/maximum_students_on_a_single_bench.py)
 * [Maximum Difference Between Even and Odd Frequency I](MaximumDifferenceBetweenEvenandOddFrequencyI/maximum_difference_between_even_and_odd_frequency_i.py)
