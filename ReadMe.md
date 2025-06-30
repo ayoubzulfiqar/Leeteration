@@ -1,5 +1,6 @@
 
 ## Easy
+* [Maximum Students on a Single Bench](MaximumStudentsonaSingleBench/maximum_students_on_a_single_bench.py)
 * [Maximum Difference Between Even and Odd Frequency I](MaximumDifferenceBetweenEvenandOddFrequencyI/maximum_difference_between_even_and_odd_frequency_i.py)
 * [Find Valid Pair of Adjacent Digits in String](FindValidPairofAdjacentDigitsinString/find_valid_pair_of_adjacent_digits_in_string.py)
 * [Find Valid Emails](FindValidEmails/find_valid_emails.py)
