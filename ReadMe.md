@@ -1,5 +1,6 @@
 
 ## Easy
+* [Button with Longest Push Time](ButtonwithLongestPushTime/button_with_longest_push_time.py)
 * [Transformed Array](TransformedArray/transformed_array.py)
 * [Minimum Operations to Make Array Values Equal to K](MinimumOperationstoMakeArrayValuesEqualtoK/minimum_operations_to_make_array_values_equal_to_k.py)
 * [Smallest Number With All Set Bits](SmallestNumberWithAllSetBits/smallest_number_with_all_set_bits.py)
