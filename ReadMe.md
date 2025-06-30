@@ -1,5 +1,6 @@
 
 ## Easy
+* [Minimum Number of Operations to Make Elements in Array Distinct](MinimumNumberofOperationstoMakeElementsinArrayDistinct/minimum_number_of_operations_to_make_elements_in_array_distinct.py)
 * [Count Subarrays of Length Three With a Condition](CountSubarraysofLengthThreeWithaCondition/count_subarrays_of_length_three_with_a_condition.py)
 * [Button with Longest Push Time](ButtonwithLongestPushTime/button_with_longest_push_time.py)
 * [Transformed Array](TransformedArray/transformed_array.py)
