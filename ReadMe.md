@@ -1,5 +1,6 @@
 
 ## Easy
+* [Reverse Degree of a String](ReverseDegreeofaString/reverse_degree_of_a_string.py)
 * [Maximum Containers on a Ship](MaximumContainersonaShip/maximum_containers_on_a_ship.py)
 * [Phone Number Prefix](PhoneNumberPrefix/phone_number_prefix.py)
 * [Unique 3-Digit Even Numbers](Unique3-DigitEvenNumbers/unique_3-digit_even_numbers.py)
