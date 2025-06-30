@@ -1,5 +1,6 @@
 
 ## Easy
+* [Find Closest Person](FindClosestPerson/find_closest_person.py)
 * [Minimum Operations to Make Array Sum Divisible by K](MinimumOperationstoMakeArraySumDivisiblebyK/minimum_operations_to_make_array_sum_divisible_by_k.py)
 * [Minimum Pair Removal to Sort Array I](MinimumPairRemovaltoSortArrayI/minimum_pair_removal_to_sort_array_i.py)
 * [Minimum Cost to Reach Every Position](MinimumCosttoReachEveryPosition/minimum_cost_to_reach_every_position.py)
