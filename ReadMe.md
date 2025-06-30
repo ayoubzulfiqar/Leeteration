@@ -1,5 +1,6 @@
 
 ## Easy
+* [Unique 3-Digit Even Numbers](Unique3-DigitEvenNumbers/unique_3-digit_even_numbers.py)
 * [Fruits Into Baskets II](FruitsIntoBasketsII/fruits_into_baskets_ii.py)
 * [Find the Largest Almost Missing Integer](FindtheLargestAlmostMissingInteger/find_the_largest_almost_missing_integer.py)
 * [Transform Array by Parity](TransformArraybyParity/transform_array_by_parity.py)
