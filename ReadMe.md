@@ -1,5 +1,6 @@
 
 ## Easy
+* [Zigzag Grid Traversal With Skip](ZigzagGridTraversalWithSkip/zigzag_grid_traversal_with_skip.py)
 * [Find Products with Three Consecutive Digits ](FindProductswithThreeConsecutiveDigits/find_products_with_three_consecutive_digits_.py)
 * [Substring Matching Pattern](SubstringMatchingPattern/substring_matching_pattern.py)
 * [Minimum Operations to Make Columns Strictly Increasing](MinimumOperationstoMakeColumnsStrictlyIncreasing/minimum_operations_to_make_columns_strictly_increasing.py)
