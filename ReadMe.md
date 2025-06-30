@@ -1,5 +1,6 @@
 
 ## Easy
+* [Maximum Difference Between Adjacent Elements in a Circular Array](MaximumDifferenceBetweenAdjacentElementsinaCircularArray/maximum_difference_between_adjacent_elements_in_a_circular_array.py)
 * [Zigzag Grid Traversal With Skip](ZigzagGridTraversalWithSkip/zigzag_grid_traversal_with_skip.py)
 * [Find Products with Three Consecutive Digits ](FindProductswithThreeConsecutiveDigits/find_products_with_three_consecutive_digits_.py)
 * [Substring Matching Pattern](SubstringMatchingPattern/substring_matching_pattern.py)
