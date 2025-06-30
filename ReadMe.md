@@ -1,5 +1,6 @@
 
 ## Easy
+* [Substring Matching Pattern](SubstringMatchingPattern/substring_matching_pattern.py)
 * [Minimum Operations to Make Columns Strictly Increasing](MinimumOperationstoMakeColumnsStrictlyIncreasing/minimum_operations_to_make_columns_strictly_increasing.py)
 * [Minimum Number of Operations to Make Elements in Array Distinct](MinimumNumberofOperationstoMakeElementsinArrayDistinct/minimum_number_of_operations_to_make_elements_in_array_distinct.py)
 * [Count Subarrays of Length Three With a Condition](CountSubarraysofLengthThreeWithaCondition/count_subarrays_of_length_three_with_a_condition.py)
